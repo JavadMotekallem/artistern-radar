@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T10:47:27.317772Z",
+ "generated_at": "2026-11-01T11:44:56.726473Z",
  "window_days": 180,
  "max_items_per_feed": 8,
  "totals": {
@@ -15,6 +15,200 @@
    "name": "News & Market",
    "item_count": 40,
    "sources": [
+    {
+     "name": "Artnet News",
+     "site": "https://news.artnet.com/",
+     "feed_url": "https://news.artnet.com/feed",
+     "lang": "en",
+     "newest_ts": 1793497478.0,
+     "items": [
+      {
+       "title": "French Dealers Demand Compensation From Art Basel Paris",
+       "link": "https://news.artnet.com/market/french-dealers-art-basel-paris-letter-2830082",
+       "summary": "The handling of the fair's early closure caused 'profound incomprehension,' a letter alleges.",
+       "published": "2026-11-01T01:44:38Z",
+       "published_ts": 1793497478.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "A Gallerist Sees Connoisseurship Returning to the Art Market",
+       "link": "https://news.artnet.com/art-world/princedale-modern-edward-warburton-2-2828748",
+       "summary": "Between Frieze Masters and Art Basel Paris, founder of Princedale Modern Edward Warburton takes the market’s pulse and finds collectors moving away from speculation and toward aesthetic appreciation.",
+       "published": "2026-10-30T20:30:27Z",
+       "published_ts": 1793392227.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Own a Piece of Jerry Saltz and Roberta Smith’s Folk Art Collection!",
+       "link": "https://news.artnet.com/art-world/cornwall-whale-jerry-saltz-roberta-smith-folk-art-2830411",
+       "summary": "A pop-up in Connecticut is selling a selection of works from the couple's former summer home, among many other unusual finds.",
+       "published": "2026-10-30T17:24:17Z",
+       "published_ts": 1793381057.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Mysterious Leonora Carrington Painting Resurfaces After 70 Years in Hiding",
+       "link": "https://news.artnet.com/market/rediscovered-leonora-carrington-fil-dor-heritage-2830414",
+       "summary": "The work is heading to Heritage Auctions with a $250,000–$350,000 estimate.",
+       "published": "2026-10-30T16:35:32Z",
+       "published_ts": 1793378132.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "MoMA, Centre Pompidou, and M+ Form an Unprecedented Alliance",
+       "link": "https://news.artnet.com/market/industry-intel-oct-30-2830288",
+       "summary": "Plus, Bill Koch's art treasures head to auction, Dallas Art Fair moves venues, and more industry intel.",
+       "published": "2026-10-30T13:20:28Z",
+       "published_ts": 1793366428.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "London’s Must-See Art Destinations, From the National Gallery to the Fourth Plinth",
+       "link": "https://news.artnet.com/art-world/london-guide-bloomberg-connects-2828406",
+       "summary": "With Bloomberg Connects, you can explore the best cultural offerings in cities around the world. Here, a brief guide to London.",
+       "published": "2026-10-30T13:19:13Z",
+       "published_ts": 1793366353.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Pauline Karpidas’s Jewelry Collection Dazzled Warhol. Now It’s Up for Sale",
+       "link": "https://news.artnet.com/market/karpidas-jewelry-collection-2830153",
+       "summary": "The top lot is a pink diamond and chalcedony ring that could net $3.5 million.",
+       "published": "2026-10-30T12:00:25Z",
+       "published_ts": 1793361625.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Which Rembrandt Would You Get Tattooed Onto Your Body?",
+       "link": "https://news.artnet.com/artnet-bulletin/rembrandt-tattoo-documenta-16-oct-30-2830006",
+       "summary": "Plus, Documenta 16's team grows, Marisa Merz gets a three-part show, and other art world matters.",
+       "published": "2026-10-30T06:00:08Z",
+       "published_ts": 1793340008.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "name": "Ocula Magazine",
+     "site": "https://ocula.com/magazine/",
+     "feed_url": "https://ocula.com/magazine/feed/",
+     "lang": "en",
+     "newest_ts": 1793469606.0,
+     "items": [
+      {
+       "title": "Jota Mombaça: ‘I’m a Huge Octavia Butler Nerd’",
+       "link": "https://ocula.com/magazine/conversations/jota-mombaca-rockbund-art-museum-2026/",
+       "summary": "As Jota Mombaça’s opera continues at Rockbund Art Museum in Shanghai, the artist talks about her love of American science fiction, the influence of Gabrielle Goliath, and the strangeness of working with clay.",
+       "published": "2026-10-31T18:00:06Z",
+       "published_ts": 1793469606.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Venice on Strike Again: Art Workers Support Global Dockworkers’ Protest",
+       "link": "https://ocula.com/magazine/art-news/venice-artworkers-strike-global-dockworkers/",
+       "summary": "Pavilions shuttered and cultural workers downed tools in solidarity with marches in other Italian cities and union action affecting 115 ports around the world.",
+       "published": "2026-10-31T00:08:32Z",
+       "published_ts": 1793405312.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Documenta 16 Enhances Curatorial Team With Four New Appointments",
+       "link": "https://ocula.com/magazine/art-news/documenta-16-curatorial-team-four-new-appointments/",
+       "summary": "Artistic director Naomi Beckwith has brought on board four new curators and advisers, including artist Raven Chacon and Tate Modern curator Osei Bonsu.",
+       "published": "2026-10-30T23:29:18Z",
+       "published_ts": 1793402958.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Curator Ebony L Haynes Joins Marian Goodman As Gallery Revamps Leadership",
+       "link": "https://ocula.com/magazine/art-news/curator-ebony-l-haynes-joins-marian-goodman/",
+       "summary": "Haynes leaves David Zwirner, where she spearheaded the gallery’s lauded 52 Walker exhibition space, to join a reinvigorated management team at Marian Goodman, which also sees Rose Lord and Junette Teng becoming co‑presidents.",
+       "published": "2026-10-30T00:51:00Z",
+       "published_ts": 1793321460.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "AI Monolith Anthropic Supports New Commissions at Seoul’s Centre Pompidou",
+       "link": "https://ocula.com/magazine/art-news/anthropic-new-commission-seoul-centre-pompidou/",
+       "summary": "The creator of Claude is backing five new art commissions at Centre Pompidou Hanwha, marking a further expansion of the company’s work with Asia’s museums.",
+       "published": "2026-10-30T00:44:52Z",
+       "published_ts": 1793321092.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "War and Colonial Legacy, as Seen Through the Lenses of Deutsche Börse Prize Finalists",
+       "link": "https://ocula.com/magazine/art-news/deutsche-borse-photography-prize-finalists/",
+       "summary": "Hidden human labour, the perception of veiled women and the ongoing conflict in Eastern Europe are among the themes examined by the shortlisted artists for the 30th edition of the £30,000 photography prize.",
+       "published": "2026-10-29T04:10:12Z",
+       "published_ts": 1793247012.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "‘We Could Be Friends, I Think’: A Writer’s Admiration for Ruth Asawa",
+       "link": "https://ocula.com/magazine/spotlight/hanna-thomas-uose-on-ruth-asawa-fondation-beyeler/",
+       "summary": "Ruth Asawa’s sculptures, paintings and bronze casts reflect the sociopolitical events that shaped her life in post‑war America. As the artist’s major retrospective opens at Fondation Beyeler, novelist Hanna Thomas Uose selects five works representing her connection to Asawa.",
+       "published": "2026-10-29T01:03:00Z",
+       "published_ts": 1793235780.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Christie’s Marks First Abu Dhabi Fine Art Sale with 20th-Century Showcase",
+       "link": "https://ocula.com/magazine/art-news/christies-first-abu-dhabi-fine-art-sale/",
+       "summary": "As global auction houses increasingly look to the UAE, Christie’s will exhibit three multi‑million‑dollar artworks ahead of its first fine art sale in Abu Dhabi this weekend.",
+       "published": "2026-10-28T02:04:51Z",
+       "published_ts": 1793153091.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": true,
+       "needs_translation": false
+      }
+     ]
+    },
     {
      "name": "Hyperallergic",
      "site": "https://hyperallergic.com/",
@@ -305,200 +499,6 @@
        "needs_translation": false
       }
      ]
-    },
-    {
-     "name": "Artnet News",
-     "site": "https://news.artnet.com/",
-     "feed_url": "https://news.artnet.com/feed",
-     "lang": "en",
-     "newest_ts": 1793392227.0,
-     "items": [
-      {
-       "title": "A Gallerist Sees Connoisseurship Returning to the Art Market",
-       "link": "https://news.artnet.com/art-world/princedale-modern-edward-warburton-2-2828748",
-       "summary": "Between Frieze Masters and Art Basel Paris, founder of Princedale Modern Edward Warburton takes the market’s pulse and finds collectors moving away from speculation and toward aesthetic appreciation.",
-       "published": "2026-10-30T20:30:27Z",
-       "published_ts": 1793392227.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Own a Piece of Jerry Saltz and Roberta Smith’s Folk Art Collection!",
-       "link": "https://news.artnet.com/art-world/cornwall-whale-jerry-saltz-roberta-smith-folk-art-2830411",
-       "summary": "A pop-up in Connecticut is selling a selection of works from the couple's former summer home, among many other unusual finds.",
-       "published": "2026-10-30T17:24:17Z",
-       "published_ts": 1793381057.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Mysterious Leonora Carrington Painting Resurfaces After 70 Years in Hiding",
-       "link": "https://news.artnet.com/market/rediscovered-leonora-carrington-fil-dor-heritage-2830414",
-       "summary": "The work is heading to Heritage Auctions with a $250,000–$350,000 estimate.",
-       "published": "2026-10-30T16:35:32Z",
-       "published_ts": 1793378132.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "MoMA, Centre Pompidou, and M+ Form an Unprecedented Alliance",
-       "link": "https://news.artnet.com/market/industry-intel-oct-30-2830288",
-       "summary": "Plus, Bill Koch's art treasures head to auction, Dallas Art Fair moves venues, and more industry intel.",
-       "published": "2026-10-30T13:20:28Z",
-       "published_ts": 1793366428.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "London’s Must-See Art Destinations, From the National Gallery to the Fourth Plinth",
-       "link": "https://news.artnet.com/art-world/london-guide-bloomberg-connects-2828406",
-       "summary": "With Bloomberg Connects, you can explore the best cultural offerings in cities around the world. Here, a brief guide to London.",
-       "published": "2026-10-30T13:19:13Z",
-       "published_ts": 1793366353.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Pauline Karpidas’s Jewelry Collection Dazzled Warhol. Now It’s Up for Sale",
-       "link": "https://news.artnet.com/market/karpidas-jewelry-collection-2830153",
-       "summary": "The top lot is a pink diamond and chalcedony ring that could net $3.5 million.",
-       "published": "2026-10-30T12:00:25Z",
-       "published_ts": 1793361625.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Which Rembrandt Would You Get Tattooed Onto Your Body?",
-       "link": "https://news.artnet.com/artnet-bulletin/rembrandt-tattoo-documenta-16-oct-30-2830006",
-       "summary": "Plus, Documenta 16's team grows, Marisa Merz gets a three-part show, and other art world matters.",
-       "published": "2026-10-30T06:00:08Z",
-       "published_ts": 1793340008.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "A Gallery Known for Modern Masters Spotlights a More Discreet Painter",
-       "link": "https://news.artnet.com/art-world/jean-pierre-cassigneul-galerie-de-linstitut-2828688",
-       "summary": "Galerie de l’Institut, usually associated with the likes of Picasso and Chagall, turns this autumn to Jean-Pierre Cassigneul, a painter with whom it has long-standing ties.",
-       "published": "2026-10-29T21:32:02Z",
-       "published_ts": 1793309522.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
-     "name": "Ocula Magazine",
-     "site": "https://ocula.com/magazine/",
-     "feed_url": "https://ocula.com/magazine/feed/",
-     "lang": "en",
-     "newest_ts": 1793321511.0,
-     "items": [
-      {
-       "title": "Curator Ebony L Haynes Joins Marian Goodman As Gallery Revamps Leadership",
-       "link": "https://ocula.com/magazine/art-news/curator-ebony-l-haynes-joins-marian-goodman/",
-       "summary": "Haynes leaves David Zwirner, where she spearheaded the gallery’s lauded 52 Walker exhibition space, to join a reinvigorated management team at Marion Goodman, which also sees Rose Lord and Junette Teng becoming co‑presidents.",
-       "published": "2026-10-30T00:51:51Z",
-       "published_ts": 1793321511.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "AI Monolith Anthropic Supports New Commissions at Seoul’s Centre Pompidou",
-       "link": "https://ocula.com/magazine/art-news/anthropic-new-commission-seoul-centre-pompidou/",
-       "summary": "The creator of Claude is backing five new art commissions at Centre Pompidou Hanwha, marking a further expansion of the company’s work with Asia’s museums.",
-       "published": "2026-10-30T00:44:52Z",
-       "published_ts": 1793321092.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "War and Colonial Legacy, as Seen Through the Lenses of Deutsche Börse Prize Finalists",
-       "link": "https://ocula.com/magazine/art-news/deutsche-borse-photography-prize-finalists/",
-       "summary": "Hidden human labour, the perception of veiled women and the ongoing conflict in Eastern Europe are among the themes examined by the shortlisted artists for the 30th edition of the £30,000 photography prize.",
-       "published": "2026-10-29T04:10:12Z",
-       "published_ts": 1793247012.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "‘We Could Be Friends, I Think’: A Writer’s Admiration for Ruth Asawa",
-       "link": "https://ocula.com/magazine/spotlight/hanna-thomas-uose-on-ruth-asawa-fondation-beyeler/",
-       "summary": "Ruth Asawa’s sculptures, paintings and bronze casts reflect the sociopolitical events that shaped her life in post‑war America. As the artist’s major retrospective opens at Fondation Beyeler, novelist Hanna Thomas Uose selects five works representing her connection to Asawa.",
-       "published": "2026-10-29T01:03:00Z",
-       "published_ts": 1793235780.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Christie’s Marks First Abu Dhabi Fine Art Sale with 20th-Century Showcase",
-       "link": "https://ocula.com/magazine/art-news/christies-first-abu-dhabi-fine-art-sale/",
-       "summary": "As global auction houses increasingly look to the UAE, Christie’s will exhibit three multi‑million‑dollar artworks ahead of its first fine art sale in Abu Dhabi this weekend.",
-       "published": "2026-10-28T02:04:51Z",
-       "published_ts": 1793153091.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": true,
-       "needs_translation": false
-      },
-      {
-       "title": "J’Adore les Boosters: Trouble on the Streets of Paris",
-       "link": "https://ocula.com/magazine/opinion/art-basel-paris-diary-2026-olamiju-fajemisin/",
-       "summary": "Art Basel Paris may have shuttered early, but there was still plenty going on away from the Grand Palais last weekend if you knew where to look, as Olamiju Fajemisin shares in a new diary.",
-       "published": "2026-10-27T10:06:00Z",
-       "published_ts": 1793095560.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Sotheby’s Adds Fine Art to Abu Dhabi Collectors’ Week",
-       "link": "https://ocula.com/magazine/art-news/sothebys-adds-fine-art-to-abu-dhabi-auction/",
-       "summary": "Monet, Warhol and Emirati art pioneers will feature in the December sale, which will take place just ahead of the opening of Guggenheim Abu Dhabi, and closely follow the city’s inaugural edition of Frieze.",
-       "published": "2026-10-26T00:08:20Z",
-       "published_ts": 1792973300.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": true,
-       "needs_translation": false
-      },
-      {
-       "title": "Firenze Lai, Chronicler of the Body in the Age of the iPhone",
-       "link": "https://ocula.com/magazine/conversations/firenze-lai-white-cube-london-october-2026/",
-       "summary": "As her first solo exhibition in the UK takes place at Mason’s Yard, the London‑based artist talks about how tech impacts the body, getting lost and why the figures in her paintings have big feet.",
-       "published": "2026-10-24T19:00:07Z",
-       "published_ts": 1792868407.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
     }
    ],
    "quiet_sources": [],
@@ -526,8 +526,19 @@
      "site": "https://canvasonline.com/",
      "feed_url": "https://canvasonline.com/feed/",
      "lang": "en",
-     "newest_ts": 1793266899.0,
+     "newest_ts": 1793514191.0,
      "items": [
+      {
+       "title": "Can You Hear It? Busan Biennale 2026",
+       "link": "https://canvasonline.com/can-you-hear-it-busan-biennale-2026/?utm_source=rss&utm_medium=rss&utm_campaign=can-you-hear-it-busan-biennale-2026",
+       "summary": "Taking place in the port city, the 2026 Busan Biennale has brought together 46 artists...",
+       "published": "2026-11-01T06:23:11Z",
+       "published_ts": 1793514191.0,
+       "source": "Canvas",
+       "category": "MENA Magazines",
+       "mena": false,
+       "needs_translation": false
+      },
       {
        "title": "Farida El Gazzar",
        "link": "https://canvasonline.com/farida-el-gazzar/?utm_source=rss&utm_medium=rss&utm_campaign=farida-el-gazzar",
@@ -603,17 +614,6 @@
        "source": "Canvas",
        "category": "MENA Magazines",
        "mena": true,
-       "needs_translation": false
-      },
-      {
-       "title": "Radia Lamrani Karim",
-       "link": "https://canvasonline.com/radia-lamrani-karim/?utm_source=rss&utm_medium=rss&utm_campaign=radia-lamrani-karim",
-       "summary": "Canvas: You trained as an architect before pursuing a career as an artist. What prompted...",
-       "published": "2026-10-21T05:55:10Z",
-       "published_ts": 1792562110.0,
-       "source": "Canvas",
-       "category": "MENA Magazines",
-       "mena": false,
        "needs_translation": false
       }
      ]
@@ -794,7 +794,7 @@
      "name": "Persbook Annual of Contemporary Art",
      "site": "https://persbookart.com/",
      "lang": "en",
-     "age_days": 689,
+     "age_days": 690,
      "item": {
       "title": "«من اینجا هستم»ِ تمرینی برای مرکز زدایی | مهدیار جمشیدی و الهام پوریامهر",
       "link": "https://persbookart.com/4015/mahdyarjamshidi/",
@@ -805,14 +805,14 @@
       "category": "Iranian Art",
       "mena": false,
       "needs_translation": true,
-      "age_days": 689
+      "age_days": 690
      }
     },
     {
      "name": "Iranian.com Arts & Culture",
      "site": "https://iranian.com/",
      "lang": "en",
-     "age_days": 1857,
+     "age_days": 1858,
      "item": {
       "title": "We’re back",
       "link": "https://iranian.com/2021/09/29/were-back/",
@@ -823,7 +823,7 @@
       "category": "Iranian Art",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1857
+      "age_days": 1858
      }
     }
    ],
@@ -977,7 +977,7 @@
      "name": "Barjeel Art Foundation",
      "site": "https://www.barjeelartfoundation.org/",
      "lang": "en",
-     "age_days": 234,
+     "age_days": 235,
      "item": {
       "title": "Palestinian Family",
       "link": "https://www.barjeelartfoundation.org/collection/palestinian-family/",
@@ -988,14 +988,14 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 234
+      "age_days": 235
      }
     },
     {
      "name": "Institut du Monde Arabe",
      "site": "https://www.imarabe.org/",
      "lang": "fr",
-     "age_days": 1012,
+     "age_days": 1013,
      "item": {
       "title": "Étienne Dinet, passions algériennes",
       "link": "https://www.imarabe.org/fr/agenda/expositions-musee/etienne-dinet-passions-algeriennes",
@@ -1006,7 +1006,7 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1012
+      "age_days": 1013
      }
     }
    ],
@@ -1146,7 +1146,7 @@
      "name": "Art Dubai",
      "site": "https://www.artdubai.ae/",
      "lang": "en",
-     "age_days": 2018,
+     "age_days": 2019,
      "item": {
       "title": "Art Dubai 2021 leads the way back to normality",
       "link": "https://www.artdubai.ae/art-dubai-2021-leads-the-way-back-to-normality/",
@@ -1157,7 +1157,7 @@
       "category": "Fairs & Events",
       "mena": true,
       "needs_translation": false,
-      "age_days": 2018
+      "age_days": 2019
      }
     }
    ],
@@ -1410,7 +1410,7 @@
    "category": "Iranian Art",
    "url": "https://persbookart.com/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 689 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 690 days old",
    "severity": "info"
   },
   {
@@ -1418,7 +1418,7 @@
    "category": "Iranian Art",
    "url": "https://iranian.com/feed/",
    "stage": "window",
-   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1857 days old",
+   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1858 days old",
    "severity": "info"
   },
   {
@@ -1426,7 +1426,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.imarabe.org/fr/rss.xml",
    "stage": "window",
-   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 1012 days old",
+   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 1013 days old",
    "severity": "info"
   },
   {
@@ -1434,7 +1434,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.barjeelartfoundation.org/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 234 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 235 days old",
    "severity": "info"
   },
   {
@@ -1442,7 +1442,7 @@
    "category": "Fairs & Events",
    "url": "https://www.artdubai.ae/feed/",
    "stage": "window",
-   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 2018 days old",
+   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 2019 days old",
    "severity": "info"
   }
  ],
