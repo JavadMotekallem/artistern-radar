@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-01T11:44:56.726473Z",
+ "generated_at": "2026-11-02T13:15:24.224175Z",
  "window_days": 180,
  "max_items_per_feed": 8,
  "totals": {
   "feeds_configured": 21,
   "feeds_with_items": 13,
-  "feeds_failed": 3,
-  "feeds_quiet": 5,
+  "feeds_failed": 4,
+  "feeds_quiet": 4,
   "manual_sources": 42,
   "items": 75
  },
@@ -16,12 +16,228 @@
    "item_count": 40,
    "sources": [
     {
+     "name": "The Art Newspaper",
+     "site": "https://www.theartnewspaper.com/",
+     "feed_url": "https://www.theartnewspaper.com/rss.xml",
+     "lang": "en",
+     "newest_ts": 1793621145.0,
+     "items": [
+      {
+       "title": "Documenta 16 hires four new curators",
+       "link": "https://www.theartnewspaper.com/2026/11/02/documenta-16-hires-four-new-curators",
+       "summary": "The quinquennial curatorial team expands with the appointments of Osei Bonsu, Raven Chacon, Timea Junghaus and Noam Segal",
+       "published": "2026-11-02T12:05:45Z",
+       "published_ts": 1793621145.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Life mirrors art: the story of Yayoi Kusama",
+       "link": "https://www.theartnewspaper.com/2026/11/02/life-mirrors-art-the-story-of-yayoi-kusama",
+       "summary": "The life of the enigmatic artist, who died in August, was filled with paradoxes and was not without controversy",
+       "published": "2026-11-02T12:01:54Z",
+       "published_ts": 1793620914.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "‘Mariko Mori anticipated the zeitgeist’: curator Alexandra Monroe on her new show and how Japan's art scene has changed",
+       "link": "https://www.theartnewspaper.com/2026/11/02/mariko-mori-anticipated-the-zeitgeist-curator-alexandra-monroe-on-her-new-show-and-how-japans-art-scene-has-changed",
+       "summary": "The US curator who helped shape the narrative of Japan’s post-war art has returned to Tokyo to collaborate on a show by the acclaimed artist",
+       "published": "2026-11-02T10:34:23Z",
+       "published_ts": 1793615663.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "‘Another way of engaging the city’: centrepiece of Art Week Tokyo sends visitors to venues across the capital",
+       "link": "https://www.theartnewspaper.com/2026/11/02/another-way-of-engaging-the-city-centrepiece-of-art-week-tokyo-sends-visitors-to-venues-across-the-capital",
+       "summary": "Curated exhibition platform AWT Focus has expanded to encompass ten diverse exhibitions at ten venues",
+       "published": "2026-11-02T10:32:45Z",
+       "published_ts": 1793615565.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Architect Kae Ito creates a modular ‘secret garden’ for Art Week Tokyo's bar",
+       "link": "https://www.theartnewspaper.com/2026/11/02/architect-kae-ito-creates-a-modular-secret-garden-for-art-week-tokyos-bar",
+       "summary": "Kae draws on her time with architectural firm Sanaa to create a playful space paired with artist-designed cocktails and artful food",
+       "published": "2026-11-02T10:30:27Z",
+       "published_ts": 1793615427.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "‘Travel guides are far from neutral forms’: Art Week Tokyo video programme goes off the map",
+       "link": "https://www.theartnewspaper.com/2026/11/02/travel-guides-are-far-from-neutral-forms-art-week-tokyo-video-programme-goes-off-the-map",
+       "summary": "Curator X Zhu-Nowell tells us about the ten artists who explore what is mapped and what is left out of view",
+       "published": "2026-11-02T10:24:48Z",
+       "published_ts": 1793615088.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Five exhibitions to see during Art Week Tokyo",
+       "link": "https://www.theartnewspaper.com/2026/11/02/five-exhibitions-to-see-during-art-week-tokyo",
+       "summary": "From dark adolescent fantasies to the father of video art, and new ecosystems growing in cracks in the road",
+       "published": "2026-11-02T10:20:49Z",
+       "published_ts": 1793614849.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Ruinart invites Tadashi Kawamata to create work for Art Week Tokyo",
+       "link": "https://www.theartnewspaper.com/2026/11/02/ruinart-invites-tadashi-kawamata-to-create-work-for-art-week-tokyo",
+       "summary": "The Paris-based artist's installation is inspired by the champagne maker's vineyard near Reims",
+       "published": "2026-11-02T10:18:48Z",
+       "published_ts": 1793614728.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "name": "Hyperallergic",
+     "site": "https://hyperallergic.com/",
+     "feed_url": "https://hyperallergic.com/feed/",
+     "lang": "en",
+     "newest_ts": 1793617200.0,
+     "items": [
+      {
+       "title": "Happy Hyperallergic Halloween!",
+       "link": "https://hyperallergic.com/happy-hyperallergic-halloween/",
+       "summary": "The best of our annual costume contest, from Eva Hesse ropes to Saturn devouring his son.",
+       "published": "2026-11-02T11:00:00Z",
+       "published_ts": 1793617200.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "To Live Is to Believe",
+       "link": "https://hyperallergic.com/to-live-is-to-believe/",
+       "summary": "Remembering Ursula von Rydingsvard, an Epstein survivor’s message for MoMA, interviews with Paul Pfeiffer and Layli Long Soldier, and the best costumes of our artsy Halloween party.",
+       "published": "2026-10-31T10:00:00Z",
+       "published_ts": 1793440800.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "The Greatest Art Costumes From Hyperallergic's Halloween Party",
+       "link": "https://hyperallergic.com/the-greatest-art-costumes-from-hyperallergics-halloween-party-2026/",
+       "summary": "From “Las Dos Fridas” to a walking Eva Hesse sculpture, Hyperallergic members, readers, friends, and artists brought the spirit of the season to our second annual costume contest.",
+       "published": "2026-10-30T22:37:24Z",
+       "published_ts": 1793399844.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "10 Years Later, Magenta Plains Is Still Embracing the Unexpected",
+       "link": "https://hyperallergic.com/10-years-later-magenta-plains-is-still-embracing-the-unexpected/",
+       "summary": "An anniversary exhibition spotlights the artists who’ve made the gallery one of Lower Manhattan’s most adventurous success stories.",
+       "published": "2026-10-30T21:00:02Z",
+       "published_ts": 1793394002.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "MoMA, Centre Pompidou, and M+ Announce Novel Collection Alliance",
+       "link": "https://hyperallergic.com/moma-centre-pompidou-and-m-announce-novel-collection-alliance/",
+       "summary": "The partnership between the museums will include intermuseum loans and joint exhibitions.",
+       "published": "2026-10-30T20:57:00Z",
+       "published_ts": 1793393820.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Pipo Nguyen-duy, Beloved Photography Professor, Murdered at 64",
+       "link": "https://hyperallergic.com/pipo-nguyen-duy-beloved-photography-professor-murdered-at-64/",
+       "summary": "\"He took a lot of joy in his everyday life. He sought to make really beautiful photos, and strove to make the world a more beautiful place,\" said his former student.",
+       "published": "2026-10-30T20:51:04Z",
+       "published_ts": 1793393464.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "In South Carolina, Artistic Freedom Is on the Ballot This November",
+       "link": "https://hyperallergic.com/in-south-carolina-artistic-freedom-is-on-the-ballot-this-november/",
+       "summary": "A governor-appointed arts commission has denied funding from two LGBTQ+ organizations and an artist focused on immigration issues.",
+       "published": "2026-10-30T16:13:00Z",
+       "published_ts": 1793376780.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Surprise! US Pavilion Needs More Cash to Ship Works Home",
+       "link": "https://hyperallergic.com/surprise-us-pavilion-needs-more-cash-to-ship-works-home/",
+       "summary": "Commissioner Jenni Parido sent a letter to donors pleading for \"urgent funding\" for deinstallation and shipping as the Venice Biennale comes to an end.",
+       "published": "2026-10-30T15:42:05Z",
+       "published_ts": 1793374925.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
      "name": "Artnet News",
      "site": "https://news.artnet.com/",
      "feed_url": "https://news.artnet.com/feed",
      "lang": "en",
-     "newest_ts": 1793497478.0,
+     "newest_ts": 1793612696.0,
      "items": [
+      {
+       "title": "A Mega-Gallery Wellness Check",
+       "link": "https://news.artnet.com/multimedia/art-market-minute-nov-2-2831054",
+       "summary": "Plus, Art Basel Qatar will cover some shipping costs for exhibitors and three museums launch a landmark alliance.",
+       "published": "2026-11-02T09:44:56Z",
+       "published_ts": 1793612696.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "Inside One Couple’s Legendary Pop Art Collection",
+       "link": "https://news.artnet.com/art-world/kimiko-john-powers-pop-collection-2829907",
+       "summary": "A new doc profiles John and Kimiko Powers, who were in 'the first rank of the first generation' of Pop's buyers.",
+       "published": "2026-11-02T08:00:00Z",
+       "published_ts": 1793606400.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
       {
        "title": "French Dealers Demand Compensation From Art Basel Paris",
        "link": "https://news.artnet.com/market/french-dealers-art-basel-paris-letter-2830082",
@@ -83,28 +299,6 @@
        "summary": "With Bloomberg Connects, you can explore the best cultural offerings in cities around the world. Here, a brief guide to London.",
        "published": "2026-10-30T13:19:13Z",
        "published_ts": 1793366353.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Pauline Karpidas’s Jewelry Collection Dazzled Warhol. Now It’s Up for Sale",
-       "link": "https://news.artnet.com/market/karpidas-jewelry-collection-2830153",
-       "summary": "The top lot is a pink diamond and chalcedony ring that could net $3.5 million.",
-       "published": "2026-10-30T12:00:25Z",
-       "published_ts": 1793361625.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Which Rembrandt Would You Get Tattooed Onto Your Body?",
-       "link": "https://news.artnet.com/artnet-bulletin/rembrandt-tattoo-documenta-16-oct-30-2830006",
-       "summary": "Plus, Documenta 16's team grows, Marisa Merz gets a three-part show, and other art world matters.",
-       "published": "2026-10-30T06:00:08Z",
-       "published_ts": 1793340008.0,
        "source": "Artnet News",
        "category": "News & Market",
        "mena": false,
@@ -210,103 +404,6 @@
      ]
     },
     {
-     "name": "Hyperallergic",
-     "site": "https://hyperallergic.com/",
-     "feed_url": "https://hyperallergic.com/feed/",
-     "lang": "en",
-     "newest_ts": 1793440800.0,
-     "items": [
-      {
-       "title": "To Live Is to Believe",
-       "link": "https://hyperallergic.com/to-live-is-to-believe/",
-       "summary": "Remembering Ursula von Rydingsvard, an Epstein survivor’s message for MoMA, interviews with Paul Pfeiffer and Layli Long Soldier, and the best costumes of our artsy Halloween party.",
-       "published": "2026-10-31T10:00:00Z",
-       "published_ts": 1793440800.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "The Greatest Art Costumes From Hyperallergic's Halloween Party",
-       "link": "https://hyperallergic.com/the-greatest-art-costumes-from-hyperallergics-halloween-party-2026/",
-       "summary": "From “Las Dos Fridas” to a walking Eva Hesse sculpture, Hyperallergic members, readers, friends, and artists brought the spirit of the season to our second annual costume contest.",
-       "published": "2026-10-30T22:37:24Z",
-       "published_ts": 1793399844.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "10 Years Later, Magenta Plains Is Still Embracing the Unexpected",
-       "link": "https://hyperallergic.com/10-years-later-magenta-plains-is-still-embracing-the-unexpected/",
-       "summary": "An anniversary exhibition spotlights the artists who’ve made the gallery one of Lower Manhattan’s most adventurous success stories.",
-       "published": "2026-10-30T21:00:02Z",
-       "published_ts": 1793394002.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "MoMA, Centre Pompidou, and M+ Announce Novel Collection Alliance",
-       "link": "https://hyperallergic.com/moma-centre-pompidou-and-m-announce-novel-collection-alliance/",
-       "summary": "The partnership between the museums will include intermuseum loans and joint exhibitions.",
-       "published": "2026-10-30T20:57:00Z",
-       "published_ts": 1793393820.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Pipo Nguyen-duy, Beloved Photography Professor, Murdered at 64",
-       "link": "https://hyperallergic.com/pipo-nguyen-duy-beloved-photography-professor-murdered-at-64/",
-       "summary": "\"He took a lot of joy in his everyday life. He sought to make really beautiful photos, and strove to make the world a more beautiful place,\" said his former student.",
-       "published": "2026-10-30T20:51:04Z",
-       "published_ts": 1793393464.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "In South Carolina, Artistic Freedom Is on the Ballot This November",
-       "link": "https://hyperallergic.com/in-south-carolina-artistic-freedom-is-on-the-ballot-this-november/",
-       "summary": "A governor-appointed arts commission has denied funding from two LGBTQ+ organizations and an artist focused on immigration issues.",
-       "published": "2026-10-30T16:13:00Z",
-       "published_ts": 1793376780.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Surprise! US Pavilion Needs More Cash to Ship Works Home",
-       "link": "https://hyperallergic.com/surprise-us-pavilion-needs-more-cash-to-ship-works-home/",
-       "summary": "Commissioner Jenni Parido sent a letter to donors pleading for \"urgent funding\" for deinstallation and shipping as the Venice Biennale comes to an end.",
-       "published": "2026-10-30T15:42:05Z",
-       "published_ts": 1793374925.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "A View From the Easel: Anna Pajak",
-       "link": "https://hyperallergic.com/a-view-from-the-easel-anna-pajak/",
-       "summary": "“I wanted it to feel like a chapel, a place for everything I believe in. My painting chapel.”",
-       "published": "2026-10-30T14:47:50Z",
-       "published_ts": 1793371670.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
      "name": "ArtNews",
      "site": "https://www.artnews.com/",
      "feed_url": "https://www.artnews.com/feed/",
@@ -402,103 +499,6 @@
        "needs_translation": false
       }
      ]
-    },
-    {
-     "name": "The Art Newspaper",
-     "site": "https://www.theartnewspaper.com/",
-     "feed_url": "https://www.theartnewspaper.com/rss.xml",
-     "lang": "en",
-     "newest_ts": 1793398458.0,
-     "items": [
-      {
-       "title": "Art Toronto reflects Canadian art community’s focus on sustaining domestic ecosystem",
-       "link": "https://www.theartnewspaper.com/2026/10/30/art-toronto-fair-report-canadian-art-focus",
-       "summary": "With around 80% of its exhibitors based in Canada, this edition of the country’s biggest art fair reflects the current “elbows up” attitude of a nation embroiled in a trade war with its neighbour",
-       "published": "2026-10-30T22:14:18Z",
-       "published_ts": 1793398458.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Works from US pavilion at Venice Biennale could be stuck in limbo due to fundraising shortfall",
-       "link": "https://www.theartnewspaper.com/2026/10/30/alma-allen-venice-biennale-sculptures-us-pavilion-stuck-fundraising-shortfall",
-       "summary": "The American Arts Conservancy, the non-profit responsible for this year’s presentation in Italy, is short $1m to bring Alma Allen's giant sculptures back across the Atlantic",
-       "published": "2026-10-30T20:42:03Z",
-       "published_ts": 1793392923.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Celebrated photographer Pipo Nguyen-duy and his wife murdered by his son, according to police",
-       "link": "https://www.theartnewspaper.com/2026/10/30/pipo-nguyen-duy-photographer-oberlin-college-obituary",
-       "summary": "Nguyen-duy was a beloved teacher at Oberlin College in Ohio; his son has been arrested and charged with six counts of murder",
-       "published": "2026-10-30T18:20:22Z",
-       "published_ts": 1793384422.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Edward Hopper biography, Kvareli Foundation in Georgia, Marisa Merz in Turin—podcast",
-       "link": "https://www.theartnewspaper.com/2026/10/30/edward-hopper-biography-kvareli-foundation-in-georgia-marisa-merz-in-turinpodcast",
-       "summary": "Ben Luke learns about a new Edward Hopper biography and digital editor Alexander Morrison visits a new private museum in Georgia. Ben Luke also hears about an installation by the Arte Povera artist Marisa Merz, who is now being celebrated by three institutions across Turin",
-       "published": "2026-10-30T18:00:44Z",
-       "published_ts": 1793383244.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Underappreciated artists from the Chelsea Hotel are finally getting their due",
-       "link": "https://www.theartnewspaper.com/2026/10/30/underappreciated-artists-from-the-chelsea-hotel-are-finally-getting-their-due",
-       "summary": "Works by Bettina, Ching Ho Cheng, Nicola L. and other former residents have been popping up at galleries, museums and art fairs worldwide",
-       "published": "2026-10-30T16:23:18Z",
-       "published_ts": 1793377398.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "New book charts American artist’s lifelong devotion to the South Seas",
-       "link": "https://www.theartnewspaper.com/2026/10/30/book-charts-american-artists-lifelong-devotion-to-the-south-seas",
-       "summary": "Robert Lee Eskridge painted hundreds of images of Pacific Island life after landing in Tahiti a century ago",
-       "published": "2026-10-30T15:09:10Z",
-       "published_ts": 1793372950.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "New book explores how Ukraine’s artists are shaping the memory of war",
-       "link": "https://www.theartnewspaper.com/2026/10/30/new-book-explores-how-ukraines-artists-are-shaping-the-memory-of-war",
-       "summary": "A Guardian journalist’s investigation into the ways in which artists are responding to the Russian invasion encompasses three years of trips to Ukraine",
-       "published": "2026-10-30T15:08:42Z",
-       "published_ts": 1793372922.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Visual war and the underwater secrets of the Inca",
-       "link": "https://www.theartnewspaper.com/2026/10/30/visual-war-and-the-underwater-secrets-of-the-inca",
-       "summary": "Archaeologists have uncovered how the Inca transformed a coastal landscape into a display of imperial power, with submerged remains revealing more about the site",
-       "published": "2026-10-30T15:00:55Z",
-       "published_ts": 1793372455.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
     }
    ],
    "quiet_sources": [],
@@ -526,8 +526,19 @@
      "site": "https://canvasonline.com/",
      "feed_url": "https://canvasonline.com/feed/",
      "lang": "en",
-     "newest_ts": 1793514191.0,
+     "newest_ts": 1793605420.0,
      "items": [
+      {
+       "title": "Christie’s First Abu Dhabi Fine Art Auction Surpasses USD 8.9 Million",
+       "link": "https://canvasonline.com/christies-first-abu-dhabi-fine-art-auction-surpasses-usd-8-9-million/?utm_source=rss&utm_medium=rss&utm_campaign=christies-first-abu-dhabi-fine-art-auction-surpasses-usd-8-9-million",
+       "summary": "Christie’s first fine art auction in Abu Dhabi concluded the sale reaching a total of...",
+       "published": "2026-11-02T07:43:40Z",
+       "published_ts": 1793605420.0,
+       "source": "Canvas",
+       "category": "MENA Magazines",
+       "mena": true,
+       "needs_translation": false
+      },
       {
        "title": "Can You Hear It? Busan Biennale 2026",
        "link": "https://canvasonline.com/can-you-hear-it-busan-biennale-2026/?utm_source=rss&utm_medium=rss&utm_campaign=can-you-hear-it-busan-biennale-2026",
@@ -600,17 +611,6 @@
        "summary": "Running from October 23–25, Menart Fair – exclusively dedicated to galleries representing artists from the...",
        "published": "2026-10-23T12:21:15Z",
        "published_ts": 1792758075.0,
-       "source": "Canvas",
-       "category": "MENA Magazines",
-       "mena": true,
-       "needs_translation": false
-      },
-      {
-       "title": "Beyond the Conventional: Muscat Art 2026",
-       "link": "https://canvasonline.com/beyond-the-conventional-muscat-art-2026/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-the-conventional-muscat-art-2026",
-       "summary": "As Muscat continues to develop and expand its cultural scene, Muscat Art returns for its...",
-       "published": "2026-10-23T10:31:52Z",
-       "published_ts": 1792751512.0,
        "source": "Canvas",
        "category": "MENA Magazines",
        "mena": true,
@@ -791,28 +791,10 @@
    "sources": [],
    "quiet_sources": [
     {
-     "name": "Persbook Annual of Contemporary Art",
-     "site": "https://persbookart.com/",
-     "lang": "en",
-     "age_days": 690,
-     "item": {
-      "title": "«من اینجا هستم»ِ تمرینی برای مرکز زدایی | مهدیار جمشیدی و الهام پوریامهر",
-      "link": "https://persbookart.com/4015/mahdyarjamshidi/",
-      "summary": "گفتگوی سوم از سلسله نشست های سیزدهمین رویداد هنر معاصر پرسبوک: مهدیار جمشیدی و الهام پوریا مهر| «من اینجا هستم»ِ تمرینی برای مرکز زدایی| ساعت: ۱۹:۳۰| ۲۷ آبان ۱۴۰۳| گالری ایرانشهر، تهران | مهدیار جمشیدی، مدیر پنل و الهام پوریامهر کیوریتور پروژه (در گفتگوی اسکایپی) از دل‌مشغولی های تمرکز زدایی و مرکز گریزی در راستای…",
-      "published": "2024-12-10T19:11:44Z",
-      "published_ts": 1733857904.0,
-      "source": "Persbook Annual of Contemporary Art",
-      "category": "Iranian Art",
-      "mena": false,
-      "needs_translation": true,
-      "age_days": 690
-     }
-    },
-    {
      "name": "Iranian.com Arts & Culture",
      "site": "https://iranian.com/",
      "lang": "en",
-     "age_days": 1858,
+     "age_days": 1859,
      "item": {
       "title": "We’re back",
       "link": "https://iranian.com/2021/09/29/were-back/",
@@ -823,7 +805,7 @@
       "category": "Iranian Art",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1858
+      "age_days": 1859
      }
     }
    ],
@@ -977,7 +959,7 @@
      "name": "Barjeel Art Foundation",
      "site": "https://www.barjeelartfoundation.org/",
      "lang": "en",
-     "age_days": 235,
+     "age_days": 236,
      "item": {
       "title": "Palestinian Family",
       "link": "https://www.barjeelartfoundation.org/collection/palestinian-family/",
@@ -988,14 +970,14 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 235
+      "age_days": 236
      }
     },
     {
      "name": "Institut du Monde Arabe",
      "site": "https://www.imarabe.org/",
      "lang": "fr",
-     "age_days": 1013,
+     "age_days": 1014,
      "item": {
       "title": "Étienne Dinet, passions algériennes",
       "link": "https://www.imarabe.org/fr/agenda/expositions-musee/etienne-dinet-passions-algeriennes",
@@ -1006,7 +988,7 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1013
+      "age_days": 1014
      }
     }
    ],
@@ -1146,7 +1128,7 @@
      "name": "Art Dubai",
      "site": "https://www.artdubai.ae/",
      "lang": "en",
-     "age_days": 2019,
+     "age_days": 2020,
      "item": {
       "title": "Art Dubai 2021 leads the way back to normality",
       "link": "https://www.artdubai.ae/art-dubai-2021-leads-the-way-back-to-normality/",
@@ -1157,7 +1139,7 @@
       "category": "Fairs & Events",
       "mena": true,
       "needs_translation": false,
-      "age_days": 2019
+      "age_days": 2020
      }
     }
    ],
@@ -1286,8 +1268,19 @@
      "site": "https://www.ottomanhistorypodcast.com/",
      "feed_url": "https://www.ottomanhistorypodcast.com/feeds/posts/default",
      "lang": "en",
-     "newest_ts": 1792947379.0,
+     "newest_ts": 1793542143.0,
      "items": [
+      {
+       "title": "Erken Modern Osmanlı’da Aidiyetin Sınırları",
+       "link": "https://www.ottomanhistorypodcast.com/2026/11/abb.html",
+       "summary": "Ayşe Baltacıoğlu-Brammer Sunucu: Can Gümüş | Erken modern Osmanlı-Safevi dünyasında Kızılbaşlık, sınırları yalnızca inançla çizilen sabit bir kimlik değildi. Safevi hareketinin bir tarikattan bir imparatorluğa dönüşmesi sürecinde, Kızılbaş kimliği de siyasi bağlılıklar, mürit ağları, iktisadi kaynaklar ve ritüeller…",
+       "published": "2026-11-01T14:09:03Z",
+       "published_ts": 1793542143.0,
+       "source": "Ottoman History Podcast",
+       "category": "Podcasts",
+       "mena": false,
+       "needs_translation": false
+      },
       {
        "title": "The Ottoman Origins of the Mandate System",
        "link": "https://www.ottomanhistorypodcast.com/2026/10/genell.html",
@@ -1364,17 +1357,6 @@
        "category": "Podcasts",
        "mena": true,
        "needs_translation": false
-      },
-      {
-       "title": "The Jeweled Gun of Sultan Mahmud I",
-       "link": "https://www.ottomanhistorypodcast.com/2026/05/dimmig.html",
-       "summary": "with Ashley Dimmig hosted by Abbey Stockstill and Musa Kazım Azimli | The jewel-encrusted musket of Mahmud I is one of the most popular pieces at the Walters Art Museum in Baltimore. In this episode, curator Ashley Dimmig joins us to discuss her experience curating Islamic art and the manifold mysteries of the ornate…",
-       "published": "2026-08-28T13:59:42Z",
-       "published_ts": 1787925582.0,
-       "source": "Ottoman History Podcast",
-       "category": "Podcasts",
-       "mena": true,
-       "needs_translation": false
       }
      ]
     }
@@ -1388,8 +1370,8 @@
    "source": "The Markaz Review",
    "category": "MENA Magazines",
    "url": "https://themarkaz.org/feed/",
-   "stage": "fetch",
-   "error": "HTTP 429 Too Many Requests"
+   "stage": "parse",
+   "error": "feed returned zero entries (SAXParseException: <unknown>:2:0: syntax error)"
   },
   {
    "source": "MOJEH",
@@ -1409,16 +1391,15 @@
    "source": "Persbook Annual of Contemporary Art",
    "category": "Iranian Art",
    "url": "https://persbookart.com/feed/",
-   "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 690 days old",
-   "severity": "info"
+   "stage": "fetch",
+   "error": "timed out after 30s"
   },
   {
    "source": "Iranian.com Arts & Culture",
    "category": "Iranian Art",
    "url": "https://iranian.com/feed/",
    "stage": "window",
-   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1858 days old",
+   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1859 days old",
    "severity": "info"
   },
   {
@@ -1426,7 +1407,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.imarabe.org/fr/rss.xml",
    "stage": "window",
-   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 1013 days old",
+   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 1014 days old",
    "severity": "info"
   },
   {
@@ -1434,7 +1415,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.barjeelartfoundation.org/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 235 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 236 days old",
    "severity": "info"
   },
   {
@@ -1442,7 +1423,7 @@
    "category": "Fairs & Events",
    "url": "https://www.artdubai.ae/feed/",
    "stage": "window",
-   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 2019 days old",
+   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 2020 days old",
    "severity": "info"
   }
  ],
@@ -1516,7 +1497,7 @@
   {
    "source": "Persbook Annual of Contemporary Art",
    "category": "Iranian Art",
-   "fetched": 10,
+   "fetched": 0,
    "kept": 0
   },
   {
