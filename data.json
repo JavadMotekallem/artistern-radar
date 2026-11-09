@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T11:47:28.534494Z",
+ "generated_at": "2026-11-09T13:42:05.958653Z",
  "window_days": 180,
  "max_items_per_feed": 8,
  "totals": {
@@ -16,290 +16,96 @@
    "item_count": 40,
    "sources": [
     {
-     "name": "Ocula Magazine",
-     "site": "https://ocula.com/magazine/",
-     "feed_url": "https://ocula.com/magazine/feed/",
+     "name": "The Art Newspaper",
+     "site": "https://www.theartnewspaper.com/",
+     "feed_url": "https://www.theartnewspaper.com/rss.xml",
      "lang": "en",
-     "newest_ts": 1794074406.0,
+     "newest_ts": 1794229855.0,
      "items": [
       {
-       "title": "Anohni: ‘I Have Pushed Myself as Far as I Feel I Can Go’",
-       "link": "https://ocula.com/magazine/conversations/anohni-fondazione-made-in-cloister-napoli-2026/",
-       "summary": "Fresh from producing a monumental sculpture in a 16th century church in Naples, the artist and musician talks about why a body is there to be used, her obsession with swans and her love of the Chilean writer Benjamin Labatut.",
-       "published": "2026-11-07T18:00:06Z",
-       "published_ts": 1794074406.0,
-       "source": "Ocula Magazine",
+       "title": "London’s National Gallery publishes recommendations of its citizens’ assembly",
+       "link": "https://www.theartnewspaper.com/2026/11/09/londons-national-gallery-publishes-recommendation-of-its-citizens-assembly",
+       "summary": "The proposals include growing commercial opportunities, using technologies to support itineraries and for the museum to be informative about its wider history",
+       "published": "2026-11-09T13:10:55Z",
+       "published_ts": 1794229855.0,
+       "source": "The Art Newspaper",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "‘Colour Is Irritating to People’: Dana Schutz Embraces the Grotesque",
-       "link": "https://ocula.com/magazine/partnerships/dana-schutz-cfa-pinakothek-interview-artist-2026/",
-       "summary": "The American artist reflects on painting in the internet age, challenging decorum, and the unashamed joy of garish hues, as her exhibition at Contemporary Fine Arts in Berlin opens.",
-       "published": "2026-11-06T02:25:00Z",
-       "published_ts": 1793931900.0,
-       "source": "Ocula Magazine",
+       "title": "Lost Rubens sketches return to German castle after 80 years",
+       "link": "https://www.theartnewspaper.com/2026/11/09/lost-rubens-sketches-return-to-german-castle-after-80-years",
+       "summary": "Two oil studies illicitly sold by representatives of the ducal family after the Second World War have recently been recovered by the Ducal Museum at Schloss Friedenstein in Gotha",
+       "published": "2026-11-09T11:00:00Z",
+       "published_ts": 1794222000.0,
+       "source": "The Art Newspaper",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "At the Guggenheim’s New Vending Machine, Art Costs Just $1",
-       "link": "https://ocula.com/magazine/art-news/guggenheim-vending-machine-art-maurizio-cattelan/",
-       "summary": "Printmaker Anastasia Inciardi has installed a vending machine at the Guggenheim in New York City, where visitors can pick up one of 10 different miniature prints for only four quarters.",
-       "published": "2026-11-05T21:45:45Z",
-       "published_ts": 1793915145.0,
-       "source": "Ocula Magazine",
+       "title": "Whitney Museum selects a staff curator and a stage director to lead 2028 biennial",
+       "link": "https://www.theartnewspaper.com/2026/11/06/whitney-biennial-2028-curators-meg-onli-zack-winokur",
+       "summary": "Meg Onli, who works at the museum and co-curated the 2024 Whitney Biennial, will collaborate with the choreographer and performing arts director Zack Winokur on the next edition",
+       "published": "2026-11-06T21:14:48Z",
+       "published_ts": 1793999688.0,
+       "source": "The Art Newspaper",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Prospect Cologne Wants to Turn the Tables on Traditional Art Fairs",
-       "link": "https://ocula.com/magazine/art-news/prospect-cologne-alternative-art-fair/",
-       "summary": "Alongside the 59th edition of Art Cologne, alternative art fair Prospect Cologne also opens today, showcasing 19 galleries and discarding traditional booths in favour of aluminium tables.",
-       "published": "2026-11-05T05:12:00Z",
-       "published_ts": 1793855520.0,
-       "source": "Ocula Magazine",
+       "title": "French court orders restitution of Pissarro painting sold at Sotheby’s for £1.2m to heirs of Jewish banker",
+       "link": "https://www.theartnewspaper.com/2026/11/06/pissarro-painting-sothebys-restitution-salomon-flavian-nazi-loot-case",
+       "summary": "The court’s order also sought to cancel the 2024 sale in London, a rare test of whether judgment in France can affect commercial ctivity in the UK",
+       "published": "2026-11-06T18:42:21Z",
+       "published_ts": 1793990541.0,
+       "source": "The Art Newspaper",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Home of the Bloomsbury Group Launches £15m Fundraising Drive Backed by Family of Vanessa Bell",
-       "link": "https://ocula.com/magazine/art-news/bloomsbury-group-charleston-15m-fundraising/",
-       "summary": "As Tate Britain prepares to open an exhibition about Vanessa Bell and Duncan Grant, an appeal has been launched to safeguard the future of their East Sussex home and studio.",
-       "published": "2026-11-04T03:31:00Z",
-       "published_ts": 1793763060.0,
-       "source": "Ocula Magazine",
+       "title": "Judge puts Trump’s arch project on hold despite commission’s approval",
+       "link": "https://www.theartnewspaper.com/2026/11/06/trump-arch-washington-dc-commission-approved-judge-halted",
+       "summary": "The move came immediately on the heels of a National Capital Planning Commission vote to begin construction on the US president’s pet project",
+       "published": "2026-11-06T18:19:25Z",
+       "published_ts": 1793989165.0,
+       "source": "The Art Newspaper",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "China’s Museums Remain Popular, but US Visitor Numbers Hit by Federal Shutdown",
-       "link": "https://ocula.com/magazine/art-news/the-worlds-most-visited-museums-in-2025/",
-       "summary": "Annual research from the Themed Entertainment Association reveals that institutions in China were the world’s most‑visited during 2025, while in the US, the contrast between visitor numbers at federally and privately funded museums and galleries was sharp.",
-       "published": "2026-11-04T02:34:42Z",
-       "published_ts": 1793759682.0,
-       "source": "Ocula Magazine",
+       "title": "Italian design moguls to launch Fondazione Vezza public art project in Piedmont next September",
+       "link": "https://www.theartnewspaper.com/2026/11/06/italian-design-moguls-to-open-fondazione-vezza-in-piedmont-next-september",
+       "summary": "The foundation will develop a public art trail in the woodlands around monastery ruins by inviting artists to create site-specific work, starting with sculptors Kathleen Ryan and Alessandro Pessoli",
+       "published": "2026-11-06T16:48:27Z",
+       "published_ts": 1793983707.0,
+       "source": "The Art Newspaper",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Largest Ever Yoshitomo Nara Artwork to Reach Auction Could Net $15m",
-       "link": "https://ocula.com/magazine/art-news/largest-ever-yoshitomo-nara-auction-15m/",
-       "summary": "In the Milky Lake / Thinking One (2011) measures 2.6m x 1.8m and will be sold by app‑based auction house Fair Warning in a single‑lot sale on 19 November.",
-       "published": "2026-11-03T04:53:45Z",
-       "published_ts": 1793681625.0,
-       "source": "Ocula Magazine",
+       "title": "Canadian art market takes hit from trade war with US",
+       "link": "https://www.theartnewspaper.com/2026/11/06/canadian-art-market-takes-hit-from-trade-war-with-us",
+       "summary": "US tariffs threaten Canadian galleries’ sales and international reach, prompting dealers to abandon fairs and seek buyers in Europe and Australia",
+       "published": "2026-11-06T16:28:45Z",
+       "published_ts": 1793982525.0,
+       "source": "The Art Newspaper",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Gertrude Stein’s American Lectures and the Joy of the New",
-       "link": "https://ocula.com/magazine/opinion/gertrude-stein-american-lectures-november-2026/",
-       "summary": "After three decades in Paris, Gertrude Stein returned to the US in 1934 to deliver a lecture tour on art and writing. As a new edition of those lectures hits bookstores, Matthew Holman asks what Stein can still teach us about appreciating the novel in art.",
-       "published": "2026-11-03T04:24:00Z",
-       "published_ts": 1793679840.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
-     "name": "Artnet News",
-     "site": "https://news.artnet.com/",
-     "feed_url": "https://news.artnet.com/feed",
-     "lang": "en",
-     "newest_ts": 1794069951.0,
-     "items": [
-      {
-       "title": "Miles Greenberg Walks for Six Hours, Chanel Does Dia, and the FDNY Is Everywhere: It’s Wet Paint!",
-       "link": "https://news.artnet.com/market/miles-greenberg-chanel-dia-the-hole-wet-paint-2833367",
-       "summary": "Plus, the Hole faces eviction from the Bowery, the latest from Libbie Mugrabi, and more.",
-       "published": "2026-11-07T16:45:51Z",
-       "published_ts": 1794069951.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Gallery GF Brings Contemporary Art Into a New Dimension",
-       "link": "https://news.artnet.com/art-world/gallery-gf-2832147",
-       "summary": "What began as a pandemic-era move online has grown into a worldwide business for founder Irina Fedoroff.",
-       "published": "2026-11-06T21:00:48Z",
-       "published_ts": 1793998848.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "French Court Investigates Fraud Claims by Picasso’s Heirs",
-       "link": "https://news.artnet.com/market/industry-intel-nov-6-2833004",
-       "summary": "Plus, Daniel Sikkema sentenced to life in prison, India Art Fair announces exhibitors, and more industry intel.",
-       "published": "2026-11-06T18:53:20Z",
-       "published_ts": 1793991200.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Get Out the Vote? Venice Biennale Pushes Controversial People’s Choice Awards",
-       "link": "https://news.artnet.com/art-world/venice-biennale-awards-2832643",
-       "summary": "Two Visitors Lions awards will go to the best national pavilion and the best artist included in \"In Minor Attractions.\" [keys?]",
-       "published": "2026-11-06T17:36:41Z",
-       "published_ts": 1793986601.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Whitney Museum Taps a Choreographer to Co-Curate Its Next Biennial",
-       "link": "https://news.artnet.com/art-world/whitney-biennial-2028-curators-2833057",
-       "summary": "Zack Winokur and Whitney curator Meg Onli will helm the prestigious art exhibition.",
-       "published": "2026-11-06T15:50:21Z",
-       "published_ts": 1793980221.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "How Isamu Noguchi Turned Light Into Sculpture",
-       "link": "https://news.artnet.com/art-world/isamu-noguchi-museum-akari-lamps-2831854",
-       "summary": "A luminous new show at the Noguchi Museum revisits 75 years of the artist's signature lamps.",
-       "published": "2026-11-06T15:36:54Z",
-       "published_ts": 1793979414.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Would You Pay $4,500 for a ‘Premium Pass’ to Art Basel Miami Beach?",
-       "link": "https://news.artnet.com/artnet-bulletin/art-basel-miami-beach-gallerist-nov-5-2832869",
-       "summary": "Plus, an art-world satire gets a new trailer, Venice gets a Lego set, and other art world matters.",
-       "published": "2026-11-06T07:30:34Z",
-       "published_ts": 1793950234.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Iris van Herpen Is Fashioning a New Reality",
-       "link": "https://news.artnet.com/multimedia/iris-van-herpen-is-fashioning-a-new-reality-2830385",
-       "summary": "Iris van Herpen is a fashion designer, but it’s a title that barely captures the scope of her imagination. Her practice reaches far beyond the runway, drawing on everything from the natural sciences to astronomy. The results are extraordinary garments that seem to belong to some otherworldly ecosystem. You might know…",
-       "published": "2026-11-05T22:13:53Z",
-       "published_ts": 1793916833.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
-     "name": "ArtNews",
-     "site": "https://www.artnews.com/",
-     "feed_url": "https://www.artnews.com/feed/",
-     "lang": "en",
-     "newest_ts": 1794058800.0,
-     "items": [
-      {
-       "title": "Death Row’s Last Meals Anchor a Museum-Wide Survey of Incarceration Art",
-       "link": "https://www.artnews.com/art-news/reviews/grand-rapids-museum-of-art-hosts-surveys-of-prison-art-1234804902/",
-       "summary": "From now through January 2027, the Grand Rapids Art Museum is host to three solo exhibitions of art by or about people once incarcerated within the United States.",
-       "published": "2026-11-07T13:40:00Z",
-       "published_ts": 1794058800.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "How Going Blind Made Doris Salcedo’s Art Bigger and Better",
-       "link": "https://www.artnews.com/art-news/artists/doris-salcedo-blind-white-cube-house-hair-1234804779/",
-       "summary": "The Colombian artist spent three years crafting a monumental structure out of human hair for her new show at White Cube in New York.",
-       "published": "2026-11-07T10:00:00Z",
-       "published_ts": 1794045600.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "A New Hudson Valley Art Space Promises to Be As Accessible as It Is In Flux",
-       "link": "https://www.artnews.com/art-news/news/branchline-gochman-family-collection-opening-1234805014/",
-       "summary": "Branchline in Katonah, New York, opens November 6 with an exhibition 'Line Break' of Indigenous artists.",
-       "published": "2026-11-06T23:16:14Z",
-       "published_ts": 1794006974.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "President Trump Moves to Make Oval Office a Public Monument",
-       "link": "https://www.artnews.com/art-news/news/trump-proclamation-seeks-oval-office-national-monument-1234804961/",
-       "summary": "In his second term, Trump made it a priority to redecorate both the Oval Office and the Cabinet Room",
-       "published": "2026-11-06T20:57:36Z",
-       "published_ts": 1793998656.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Andy Warhol’s ‘Camouflage’ Portraits Inspired Piaget’s New Limited-Edition Watch",
-       "link": "https://www.artnews.com/art-news/news/andy-warhol-piaget-camouflage-watch-1234804925/",
-       "summary": "This is the second time the watchmaker has collaborated with the Warhol Foundation.",
-       "published": "2026-11-06T18:51:44Z",
-       "published_ts": 1793991104.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Miami Beach Dealer Faces Another Lawsuit from Artist Alleging Non-Payment",
-       "link": "https://www.artnews.com/art-news/news/gabriel-kilongo-lawsuit-yirui-jia-jupiter-gallery-1234804928/",
-       "summary": "It is the fourth lawsuit that Gabriel Kilongo has faced in the past two years.",
-       "published": "2026-11-06T18:33:37Z",
-       "published_ts": 1793990017.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Carsten Höller’s Spiraling Silver Slides Appear in Mexico City as a Permanent Installation",
-       "link": "https://www.artnews.com/art-news/news/carsten-hollers-slides-appear-mexico-city-installation-1234804936/",
-       "summary": "The Mexico City Slides installation ranges from 12 to 38 metres in height and 31 to 90 metres in length",
-       "published": "2026-11-06T18:20:50Z",
-       "published_ts": 1793989250.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Rome’s Galleria Borghese’s $11.15 M. Extension Is Moving Forward Despite Pushback",
-       "link": "https://www.artnews.com/art-news/news/romes-galleria-borghese-opens-competition-extension-1234804922/",
-       "summary": "The competition for the extension is being organized by the Italian engineering firm Proger Spa, also a patron of the museum.",
-       "published": "2026-11-06T18:17:13Z",
-       "published_ts": 1793989033.0,
-       "source": "ArtNews",
+       "title": "New Miami art space to champion photography, film and video",
+       "link": "https://www.theartnewspaper.com/2026/11/06/new-miami-art-space-lens-based-work-mitrani-art-little-river",
+       "summary": "Mitrani Art, an evolution of Dina and Rhonda Mitrani's former space in Wynwood, will open in Little River on 30 November",
+       "published": "2026-11-06T14:01:13Z",
+       "published_ts": 1793973673.0,
+       "source": "The Art Newspaper",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
@@ -311,8 +117,19 @@
      "site": "https://hyperallergic.com/",
      "feed_url": "https://hyperallergic.com/feed/",
      "lang": "en",
-     "newest_ts": 1794049200.0,
+     "newest_ts": 1794222000.0,
      "items": [
+      {
+       "title": "The People Against the Arch",
+       "link": "https://hyperallergic.com/the-people-against-the-arch/",
+       "summary": "Protesters in DC roast the Arc de Trump, plus the Whitney Museum announces the next curators of its blockbuster biennial.",
+       "published": "2026-11-09T11:00:00Z",
+       "published_ts": 1794222000.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
       {
        "title": "Please Don’t Sit on the Flowers",
        "link": "https://hyperallergic.com/please-dont-sit-on-the-flowers/",
@@ -389,14 +206,100 @@
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
+      }
+     ]
+    },
+    {
+     "name": "ArtNews",
+     "site": "https://www.artnews.com/",
+     "feed_url": "https://www.artnews.com/feed/",
+     "lang": "en",
+     "newest_ts": 1794220200.0,
+     "items": [
+      {
+       "title": "The 13 Best London Museums to Visit",
+       "link": "https://www.artnews.com/list/art-news/artists/best-london-museums-to-visit-1234804828/",
+       "summary": "London’s numerous museums, many of them free to enter, feature some of the best art, history, science, and cultural collections in the world",
+       "published": "2026-11-09T10:30:00Z",
+       "published_ts": 1794220200.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
       },
       {
-       "title": "Intermedia + Digital Arts MFA Program at UMBC Now Accepting Applications",
-       "link": "https://hyperallergic.com/intermedia-digital-arts-mfa-program-at-umbc-now-accepting-applications/",
-       "summary": "Funding for tuition, healthcare, and stipends is available. Apply to the University of Maryland, Baltimore County program by Feb 1 to be considered for financial support.",
-       "published": "2026-11-06T16:00:00Z",
-       "published_ts": 1793980800.0,
-       "source": "Hyperallergic",
+       "title": "Death Row’s Last Meals Anchor a Museum-Wide Survey of Incarceration Art",
+       "link": "https://www.artnews.com/art-news/reviews/grand-rapids-museum-of-art-hosts-surveys-of-prison-art-1234804902/",
+       "summary": "From now through January 2027, the Grand Rapids Art Museum is host to three solo exhibitions of art by or about people once incarcerated within the United States.",
+       "published": "2026-11-07T13:40:00Z",
+       "published_ts": 1794058800.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "How Going Blind Made Doris Salcedo’s Art Bigger and Better",
+       "link": "https://www.artnews.com/art-news/artists/doris-salcedo-blind-white-cube-house-hair-1234804779/",
+       "summary": "The Colombian artist spent three years crafting a monumental structure out of human hair for her new show at White Cube in New York.",
+       "published": "2026-11-07T10:00:00Z",
+       "published_ts": 1794045600.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "A New Hudson Valley Art Space Promises to Be As Accessible as It Is In Flux",
+       "link": "https://www.artnews.com/art-news/news/branchline-gochman-family-collection-opening-1234805014/",
+       "summary": "Branchline in Katonah, New York, opens November 6 with an exhibition 'Line Break' of Indigenous artists.",
+       "published": "2026-11-06T23:16:14Z",
+       "published_ts": 1794006974.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "President Trump Moves to Make Oval Office a Public Monument",
+       "link": "https://www.artnews.com/art-news/news/trump-proclamation-seeks-oval-office-national-monument-1234804961/",
+       "summary": "In his second term, Trump made it a priority to redecorate both the Oval Office and the Cabinet Room",
+       "published": "2026-11-06T20:57:36Z",
+       "published_ts": 1793998656.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Andy Warhol’s ‘Camouflage’ Portraits Inspired Piaget’s New Limited-Edition Watch",
+       "link": "https://www.artnews.com/art-news/news/andy-warhol-piaget-camouflage-watch-1234804925/",
+       "summary": "This is the second time the watchmaker has collaborated with the Warhol Foundation.",
+       "published": "2026-11-06T18:51:44Z",
+       "published_ts": 1793991104.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Miami Beach Dealer Faces Another Lawsuit from Artist Alleging Non-Payment",
+       "link": "https://www.artnews.com/art-news/news/gabriel-kilongo-lawsuit-yirui-jia-jupiter-gallery-1234804928/",
+       "summary": "It is the fourth lawsuit that Gabriel Kilongo has faced in the past two years.",
+       "published": "2026-11-06T18:33:37Z",
+       "published_ts": 1793990017.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Carsten Höller’s Spiraling Silver Slides Appear in Mexico City as a Permanent Installation",
+       "link": "https://www.artnews.com/art-news/news/carsten-hollers-slides-appear-mexico-city-installation-1234804936/",
+       "summary": "The Mexico City Slides installation ranges from 12 to 38 metres in height and 31 to 90 metres in length",
+       "published": "2026-11-06T18:20:50Z",
+       "published_ts": 1793989250.0,
+       "source": "ArtNews",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
@@ -404,98 +307,195 @@
      ]
     },
     {
-     "name": "The Art Newspaper",
-     "site": "https://www.theartnewspaper.com/",
-     "feed_url": "https://www.theartnewspaper.com/rss.xml",
+     "name": "Artnet News",
+     "site": "https://news.artnet.com/",
+     "feed_url": "https://news.artnet.com/feed",
      "lang": "en",
-     "newest_ts": 1793999688.0,
+     "newest_ts": 1794218228.0,
      "items": [
       {
-       "title": "Whitney Museum selects a staff curator and a stage director to lead 2028 biennial",
-       "link": "https://www.theartnewspaper.com/2026/11/06/whitney-biennial-2028-curators-meg-onli-zack-winokur",
-       "summary": "Meg Onli, who works at the museum and co-curated the 2024 Whitney Biennial, will collaborate with the choreographer and performing arts director Zack Winokur on the next edition",
-       "published": "2026-11-06T21:14:48Z",
-       "published_ts": 1793999688.0,
-       "source": "The Art Newspaper",
+       "title": "Auction Exec Guillaume Cerutti Heads to Versailles",
+       "link": "https://news.artnet.com/multimedia/art-market-minute-nov-9-2834031",
+       "summary": "Plus, the strange story of a rediscovered O'Keeffe, the big price tag on Ken Griffin's Leonardo, and more.",
+       "published": "2026-11-09T09:57:08Z",
+       "published_ts": 1794218228.0,
+       "source": "Artnet News",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "French court orders restitution of Pissarro painting sold at Sotheby’s for £1.2m to heirs of Jewish banker",
-       "link": "https://www.theartnewspaper.com/2026/11/06/pissarro-painting-sothebys-restitution-salomon-flavian-nazi-loot-case",
-       "summary": "The court’s order also sought to cancel the 2024 sale in London, a rare test of whether judgment in France can affect commercial ctivity in the UK",
-       "published": "2026-11-06T18:42:21Z",
-       "published_ts": 1793990541.0,
-       "source": "The Art Newspaper",
+       "title": "Miles Greenberg Walks for Six Hours, Chanel Does Dia, and the FDNY Is Everywhere: It’s Wet Paint!",
+       "link": "https://news.artnet.com/market/miles-greenberg-chanel-dia-the-hole-wet-paint-2833367",
+       "summary": "Plus, the Hole faces eviction from the Bowery, the latest from Libbie Mugrabi, and more.",
+       "published": "2026-11-07T16:45:51Z",
+       "published_ts": 1794069951.0,
+       "source": "Artnet News",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Judge puts Trump's arch project on hold despite commission's approval",
-       "link": "https://www.theartnewspaper.com/2026/11/06/trump-arch-washington-dc-commission-approved-judge-halted",
-       "summary": "The move came immediately on the heels of a National Capital Planning Commission vote to begin construction on the US president’s pet project",
-       "published": "2026-11-06T18:19:25Z",
-       "published_ts": 1793989165.0,
-       "source": "The Art Newspaper",
+       "title": "Gallery GF Brings Contemporary Art Into a New Dimension",
+       "link": "https://news.artnet.com/art-world/gallery-gf-2832147",
+       "summary": "What began as a pandemic-era move online has grown into a worldwide business for founder Irina Fedoroff.",
+       "published": "2026-11-06T21:00:48Z",
+       "published_ts": 1793998848.0,
+       "source": "Artnet News",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Italian design moguls to launch Fondazione Vezza public art project in Piedmont next September",
-       "link": "https://www.theartnewspaper.com/2026/11/06/italian-design-moguls-to-open-fondazione-vezza-in-piedmont-next-september",
-       "summary": "The foundation will develop a public art trail in the woodlands around monastery ruins by inviting artists to create site-specific work, starting with sculptors Kathleen Ryan and Alessandro Pessoli",
-       "published": "2026-11-06T16:48:27Z",
-       "published_ts": 1793983707.0,
-       "source": "The Art Newspaper",
+       "title": "French Court Investigates Fraud Claims by Picasso’s Heirs",
+       "link": "https://news.artnet.com/market/industry-intel-nov-6-2833004",
+       "summary": "Plus, Daniel Sikkema sentenced to life in prison, India Art Fair announces exhibitors, and more industry intel.",
+       "published": "2026-11-06T18:53:20Z",
+       "published_ts": 1793991200.0,
+       "source": "Artnet News",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Canadian art market takes hit from trade war with US",
-       "link": "https://www.theartnewspaper.com/2026/11/06/canadian-art-market-takes-hit-from-trade-war-with-us",
-       "summary": "US tariffs threaten Canadian galleries’ sales and international reach, prompting dealers to abandon fairs and seek buyers in Europe and Australia",
-       "published": "2026-11-06T16:28:45Z",
-       "published_ts": 1793982525.0,
-       "source": "The Art Newspaper",
+       "title": "Get Out the Vote? Venice Biennale Pushes Controversial People’s Choice Awards",
+       "link": "https://news.artnet.com/art-world/venice-biennale-awards-2832643",
+       "summary": "Two Visitors Lions awards will go to the best national pavilion and the best artist included in 'In Minor Keys.'",
+       "published": "2026-11-06T17:36:41Z",
+       "published_ts": 1793986601.0,
+       "source": "Artnet News",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "New Miami art space to champion photography, film and video",
-       "link": "https://www.theartnewspaper.com/2026/11/06/new-miami-art-space-lens-based-work-mitrani-art-little-river",
-       "summary": "Mitrani Art, an evolution of Dina and Rhonda Mitrani's former space in Wynwood, will open in Little River on 30 November",
-       "published": "2026-11-06T14:01:13Z",
-       "published_ts": 1793973673.0,
-       "source": "The Art Newspaper",
+       "title": "Whitney Museum Taps a Choreographer to Co-Curate Its Next Biennial",
+       "link": "https://news.artnet.com/art-world/whitney-biennial-2028-curators-2833057",
+       "summary": "Zack Winokur and Whitney curator Meg Onli will helm the prestigious art exhibition.",
+       "published": "2026-11-06T15:50:21Z",
+       "published_ts": 1793980221.0,
+       "source": "Artnet News",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "New museum dedicated to Italian Modernist Mario Sironi must not become ‘endorsement of fascism’, art historians warn",
-       "link": "https://www.theartnewspaper.com/2026/11/06/new-museum-dedicated-to-italian-modernist-mario-sironi-must-not-become-endorsement-of-fascism-art-historians-warn",
-       "summary": "The state-run institution will feature more than 100 works by the artist, who joined the Italian fascist movement in 1919",
-       "published": "2026-11-06T13:06:44Z",
-       "published_ts": 1793970404.0,
-       "source": "The Art Newspaper",
+       "title": "How Isamu Noguchi Turned Light Into Sculpture",
+       "link": "https://news.artnet.com/art-world/isamu-noguchi-museum-akari-lamps-2831854",
+       "summary": "A luminous new show at the Noguchi Museum revisits 75 years of the artist's signature lamps.",
+       "published": "2026-11-06T15:36:54Z",
+       "published_ts": 1793979414.0,
+       "source": "Artnet News",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Sydney Powerhouse scandal, heritage destruction in Lebanon, Dan Flavin—podcast",
-       "link": "https://www.theartnewspaper.com/2026/11/06/sydney-powerhouse-scandal-heritage-destruction-lebanon-dan-flavin-podcast",
-       "summary": "In this week's episode, Ben Luke hears about the controversy around the opening of Powerhouse Parramatta in Sydney, discusses cultural heritage destruction in southern Lebanon, and speaks to a curator at the Guggenheim Bilbao about a light sculpture by Dan Flavin",
-       "published": "2026-11-06T13:05:18Z",
-       "published_ts": 1793970318.0,
-       "source": "The Art Newspaper",
+       "title": "Would You Pay $4,500 for a ‘Premium Pass’ to Art Basel Miami Beach?",
+       "link": "https://news.artnet.com/artnet-bulletin/art-basel-miami-beach-gallerist-nov-5-2832869",
+       "summary": "Plus, an art-world satire gets a new trailer, Venice gets a Lego set, and other art world matters.",
+       "published": "2026-11-06T07:30:34Z",
+       "published_ts": 1793950234.0,
+       "source": "Artnet News",
        "category": "News & Market",
-       "mena": true,
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "name": "Ocula Magazine",
+     "site": "https://ocula.com/magazine/",
+     "feed_url": "https://ocula.com/magazine/feed/",
+     "lang": "en",
+     "newest_ts": 1794160806.0,
+     "items": [
+      {
+       "title": "Mariko Mori, and the Arrival of the Future",
+       "link": "https://ocula.com/magazine/opinion/mariko-mori-mori-art-museum-2026/",
+       "summary": "A retrospective of the Japanese artist’s exploration of transcendence in a tech‑infused future is now open in Tokyo. But Mariko Mori is not the only East Asian artist whose work imagines alternative futures where the post‑human meets the spiritual.",
+       "published": "2026-11-08T18:00:06Z",
+       "published_ts": 1794160806.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Anohni: ‘I Have Pushed Myself as Far as I Feel I Can Go’",
+       "link": "https://ocula.com/magazine/conversations/anohni-fondazione-made-in-cloister-napoli-2026/",
+       "summary": "Fresh from producing a monumental sculpture in a 16th century church in Naples, the artist and musician talks about why a body is there to be used, her obsession with swans and her love of the Chilean writer Benjamin Labatut.",
+       "published": "2026-11-07T18:00:06Z",
+       "published_ts": 1794074406.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "‘Colour Is Irritating to People’: Dana Schutz Embraces the Grotesque",
+       "link": "https://ocula.com/magazine/partnerships/dana-schutz-cfa-pinakothek-interview-artist-2026/",
+       "summary": "The American artist reflects on painting in the internet age, challenging decorum, and the unashamed joy of garish hues, as her exhibition at Contemporary Fine Arts in Berlin opens.",
+       "published": "2026-11-06T02:25:00Z",
+       "published_ts": 1793931900.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "At the Guggenheim’s New Vending Machine, Art Costs Just $1",
+       "link": "https://ocula.com/magazine/art-news/guggenheim-vending-machine-art-maurizio-cattelan/",
+       "summary": "Printmaker Anastasia Inciardi has installed a vending machine at the Guggenheim in New York City, where visitors can pick up one of 10 different miniature prints for only four quarters.",
+       "published": "2026-11-05T21:45:45Z",
+       "published_ts": 1793915145.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Prospect Cologne Wants to Turn the Tables on Traditional Art Fairs",
+       "link": "https://ocula.com/magazine/art-news/prospect-cologne-alternative-art-fair/",
+       "summary": "Alongside the 59th edition of Art Cologne, alternative art fair Prospect Cologne also opens today, showcasing 19 galleries and discarding traditional booths in favour of aluminium tables.",
+       "published": "2026-11-05T05:12:00Z",
+       "published_ts": 1793855520.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Home of the Bloomsbury Group Launches £15m Fundraising Drive Backed by Family of Vanessa Bell",
+       "link": "https://ocula.com/magazine/art-news/bloomsbury-group-charleston-15m-fundraising/",
+       "summary": "As Tate Britain prepares to open an exhibition about Vanessa Bell and Duncan Grant, an appeal has been launched to safeguard the future of their East Sussex home and studio.",
+       "published": "2026-11-04T03:31:00Z",
+       "published_ts": 1793763060.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "China’s Museums Remain Popular, but US Visitor Numbers Hit by Federal Shutdown",
+       "link": "https://ocula.com/magazine/art-news/the-worlds-most-visited-museums-in-2025/",
+       "summary": "Annual research from the Themed Entertainment Association reveals that institutions in China were the world’s most‑visited during 2025, while in the US, the contrast between visitor numbers at federally and privately funded museums and galleries was sharp.",
+       "published": "2026-11-04T02:34:42Z",
+       "published_ts": 1793759682.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Largest Ever Yoshitomo Nara Artwork to Reach Auction Could Net $15m",
+       "link": "https://ocula.com/magazine/art-news/largest-ever-yoshitomo-nara-auction-15m/",
+       "summary": "In the Milky Lake / Thinking One (2011) measures 2.6m x 1.8m and will be sold by app‑based auction house Fair Warning in a single‑lot sale on 19 November.",
+       "published": "2026-11-03T04:53:45Z",
+       "published_ts": 1793681625.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
        "needs_translation": false
       }
      ]
@@ -522,109 +522,23 @@
    "item_count": 20,
    "sources": [
     {
-     "name": "Canvas",
-     "site": "https://canvasonline.com/",
-     "feed_url": "https://canvasonline.com/feed/",
-     "lang": "en",
-     "newest_ts": 1793857708.0,
-     "items": [
-      {
-       "title": "The East Comes West: Group Show at Lidice Gallery",
-       "link": "https://canvasonline.com/the-east-comes-west-group-show-at-lidice-gallery/?utm_source=rss&utm_medium=rss&utm_campaign=the-east-comes-west-group-show-at-lidice-gallery",
-       "summary": "Thirty minutes by car west of Prague, the greyscale blur of Istanbul’s spires appears proudly...",
-       "published": "2026-11-05T05:48:28Z",
-       "published_ts": 1793857708.0,
-       "source": "Canvas",
-       "category": "MENA Magazines",
-       "mena": true,
-       "needs_translation": false
-      },
-      {
-       "title": "Confronting the Inevitable: 16th Gwangju Biennale",
-       "link": "https://canvasonline.com/confronting-the-inevitable-16th-gwangju-biennale/?utm_source=rss&utm_medium=rss&utm_campaign=confronting-the-inevitable-16th-gwangju-biennale",
-       "summary": "On the surface, the Gwangju Biennale’s title – You Must Change Your Life – is...",
-       "published": "2026-11-04T10:19:29Z",
-       "published_ts": 1793787569.0,
-       "source": "Canvas",
-       "category": "MENA Magazines",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Gilded Treasure: L’ÉCOLE, School of Jewelry Arts and Ancient Goldsmithing",
-       "link": "https://canvasonline.com/gilded-treasure-lecole-school-of-jewelry-arts-and-ancient-goldsmithing/?utm_source=rss&utm_medium=rss&utm_campaign=gilded-treasure-lecole-school-of-jewelry-arts-and-ancient-goldsmithing",
-       "summary": "Unveiled as part of Dubai Design Week at their campus in Dubai Design District (d3),...",
-       "published": "2026-11-04T05:22:07Z",
-       "published_ts": 1793769727.0,
-       "source": "Canvas",
-       "category": "MENA Magazines",
-       "mena": true,
-       "needs_translation": false
-      },
-      {
-       "title": "Reassembling the Familiar: Nada Elkalaawy at Lawrie Shabibi",
-       "link": "https://canvasonline.com/reassembling-the-familiar-nada-elkalaawy-at-lawrie-shabibi/?utm_source=rss&utm_medium=rss&utm_campaign=reassembling-the-familiar-nada-elkalaawy-at-lawrie-shabibi",
-       "summary": "To remember is, in some way, to negotiate with loss. Some hold on to certain...",
-       "published": "2026-11-03T06:40:55Z",
-       "published_ts": 1793688055.0,
-       "source": "Canvas",
-       "category": "MENA Magazines",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Christie’s First Abu Dhabi Fine Art Auction Surpasses USD 8.9 Million",
-       "link": "https://canvasonline.com/christies-first-abu-dhabi-fine-art-auction-surpasses-usd-8-9-million/?utm_source=rss&utm_medium=rss&utm_campaign=christies-first-abu-dhabi-fine-art-auction-surpasses-usd-8-9-million",
-       "summary": "Christie’s first fine art auction in Abu Dhabi concluded the sale reaching a total of...",
-       "published": "2026-11-02T07:43:40Z",
-       "published_ts": 1793605420.0,
-       "source": "Canvas",
-       "category": "MENA Magazines",
-       "mena": true,
-       "needs_translation": false
-      },
-      {
-       "title": "Can You Hear It? Busan Biennale 2026",
-       "link": "https://canvasonline.com/can-you-hear-it-busan-biennale-2026/?utm_source=rss&utm_medium=rss&utm_campaign=can-you-hear-it-busan-biennale-2026",
-       "summary": "Taking place in the port city, the 2026 Busan Biennale has brought together 46 artists...",
-       "published": "2026-11-01T06:23:11Z",
-       "published_ts": 1793514191.0,
-       "source": "Canvas",
-       "category": "MENA Magazines",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Farida El Gazzar",
-       "link": "https://canvasonline.com/farida-el-gazzar/?utm_source=rss&utm_medium=rss&utm_campaign=farida-el-gazzar",
-       "summary": "Canvas: How would you describe your paintings to someone who has not yet experienced them?...",
-       "published": "2026-10-29T09:41:39Z",
-       "published_ts": 1793266899.0,
-       "source": "Canvas",
-       "category": "MENA Magazines",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Stitches in Time: Group Show at Gypsum",
-       "link": "https://canvasonline.com/stitches-in-time-group-show-at-gypsum/?utm_source=rss&utm_medium=rss&utm_campaign=stitches-in-time-group-show-at-gypsum",
-       "summary": "With a brief and rather cryptic exhibition statement, Gypsum’s latest group show, The Mountain Cannot...",
-       "published": "2026-10-28T11:10:28Z",
-       "published_ts": 1793185828.0,
-       "source": "Canvas",
-       "category": "MENA Magazines",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
      "name": "Selections Arts",
      "site": "https://selectionsarts.com/",
      "feed_url": "https://selectionsarts.com/feed/",
      "lang": "en",
-     "newest_ts": 1790104948.0,
+     "newest_ts": 1794219648.0,
      "items": [
+      {
+       "title": "The Insider’s Brief: N°725 | 6 November – 13 November 2026",
+       "link": "https://selectionsarts.com/the-insiders-brief-n725-6-november-13-november-2026/?utm_source=rss&utm_medium=rss&utm_campaign=the-insiders-brief-n725-6-november-13-november-2026",
+       "summary": "LEBANON Beirut’s autumn season probes transformation, from fluid paint to the afterlife of discarded objects. Across the city’s galleries and cultural spaces, memory, architecture, material experimentation and collective experience become starting points for distinct artistic approaches, each offering a different…",
+       "published": "2026-11-09T10:20:48Z",
+       "published_ts": 1794219648.0,
+       "source": "Selections Arts",
+       "category": "MENA Magazines",
+       "mena": true,
+       "needs_translation": false
+      },
       {
        "title": "Témoins du Vent (Wind Witnesses) at Galerie Nadine Fattouh",
        "link": "https://selectionsarts.com/temoins-du-vent-wind-witnesses-at-galerie-nadine-fattouh/?utm_source=rss&utm_medium=rss&utm_campaign=temoins-du-vent-wind-witnesses-at-galerie-nadine-fattouh",
@@ -701,16 +615,102 @@
        "category": "MENA Magazines",
        "mena": true,
        "needs_translation": false
+      }
+     ]
+    },
+    {
+     "name": "Canvas",
+     "site": "https://canvasonline.com/",
+     "feed_url": "https://canvasonline.com/feed/",
+     "lang": "en",
+     "newest_ts": 1794216165.0,
+     "items": [
+      {
+       "title": "Wake Me Up From All This Dreaming: 18th Lyon Biennale",
+       "link": "https://canvasonline.com/wake-me-up-from-all-this-dreaming-18th-lyon-biennale/?utm_source=rss&utm_medium=rss&utm_campaign=wake-me-up-from-all-this-dreaming-18th-lyon-biennale",
+       "summary": "Synchronised gunfire welcomed me to Gerland, one of the Lyonnais districts grappling with drug-related conflicts...",
+       "published": "2026-11-09T09:22:45Z",
+       "published_ts": 1794216165.0,
+       "source": "Canvas",
+       "category": "MENA Magazines",
+       "mena": false,
+       "needs_translation": false
       },
       {
-       "title": "A Long-Awaited Homecoming: Nabil Kanso Returns to Beirut",
-       "link": "https://selectionsarts.com/a-long-awaited-homecoming-nabil-kanso-returns-to-beirut/?utm_source=rss&utm_medium=rss&utm_campaign=a-long-awaited-homecoming-nabil-kanso-returns-to-beirut",
-       "summary": "More than six years after his passing, Nabil Kanso (1940–2019) returns to the city where his story began. Darkness and Light (Part I), opening at DAC Beirut on 23 July, marks the first major solo exhibition of the Lebanese-born artist…",
-       "published": "2026-07-21T10:17:56Z",
-       "published_ts": 1784629076.0,
-       "source": "Selections Arts",
+       "title": "The East Comes West: Group Show at Lidice Gallery",
+       "link": "https://canvasonline.com/the-east-comes-west-group-show-at-lidice-gallery/?utm_source=rss&utm_medium=rss&utm_campaign=the-east-comes-west-group-show-at-lidice-gallery",
+       "summary": "Thirty minutes by car west of Prague, the greyscale blur of Istanbul’s spires appears proudly...",
+       "published": "2026-11-05T05:48:28Z",
+       "published_ts": 1793857708.0,
+       "source": "Canvas",
        "category": "MENA Magazines",
        "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "Confronting the Inevitable: 16th Gwangju Biennale",
+       "link": "https://canvasonline.com/confronting-the-inevitable-16th-gwangju-biennale/?utm_source=rss&utm_medium=rss&utm_campaign=confronting-the-inevitable-16th-gwangju-biennale",
+       "summary": "On the surface, the Gwangju Biennale’s title – You Must Change Your Life – is...",
+       "published": "2026-11-04T10:19:29Z",
+       "published_ts": 1793787569.0,
+       "source": "Canvas",
+       "category": "MENA Magazines",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Gilded Treasure: L’ÉCOLE, School of Jewelry Arts and Ancient Goldsmithing",
+       "link": "https://canvasonline.com/gilded-treasure-lecole-school-of-jewelry-arts-and-ancient-goldsmithing/?utm_source=rss&utm_medium=rss&utm_campaign=gilded-treasure-lecole-school-of-jewelry-arts-and-ancient-goldsmithing",
+       "summary": "Unveiled as part of Dubai Design Week at their campus in Dubai Design District (d3),...",
+       "published": "2026-11-04T05:22:07Z",
+       "published_ts": 1793769727.0,
+       "source": "Canvas",
+       "category": "MENA Magazines",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "Reassembling the Familiar: Nada Elkalaawy at Lawrie Shabibi",
+       "link": "https://canvasonline.com/reassembling-the-familiar-nada-elkalaawy-at-lawrie-shabibi/?utm_source=rss&utm_medium=rss&utm_campaign=reassembling-the-familiar-nada-elkalaawy-at-lawrie-shabibi",
+       "summary": "To remember is, in some way, to negotiate with loss. Some hold on to certain...",
+       "published": "2026-11-03T06:40:55Z",
+       "published_ts": 1793688055.0,
+       "source": "Canvas",
+       "category": "MENA Magazines",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Christie’s First Abu Dhabi Fine Art Auction Surpasses USD 8.9 Million",
+       "link": "https://canvasonline.com/christies-first-abu-dhabi-fine-art-auction-surpasses-usd-8-9-million/?utm_source=rss&utm_medium=rss&utm_campaign=christies-first-abu-dhabi-fine-art-auction-surpasses-usd-8-9-million",
+       "summary": "Christie’s first fine art auction in Abu Dhabi concluded the sale reaching a total of...",
+       "published": "2026-11-02T07:43:40Z",
+       "published_ts": 1793605420.0,
+       "source": "Canvas",
+       "category": "MENA Magazines",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "Can You Hear It? Busan Biennale 2026",
+       "link": "https://canvasonline.com/can-you-hear-it-busan-biennale-2026/?utm_source=rss&utm_medium=rss&utm_campaign=can-you-hear-it-busan-biennale-2026",
+       "summary": "Taking place in the port city, the 2026 Busan Biennale has brought together 46 artists...",
+       "published": "2026-11-01T06:23:11Z",
+       "published_ts": 1793514191.0,
+       "source": "Canvas",
+       "category": "MENA Magazines",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Farida El Gazzar",
+       "link": "https://canvasonline.com/farida-el-gazzar/?utm_source=rss&utm_medium=rss&utm_campaign=farida-el-gazzar",
+       "summary": "Canvas: How would you describe your paintings to someone who has not yet experienced them?...",
+       "published": "2026-10-29T09:41:39Z",
+       "published_ts": 1793266899.0,
+       "source": "Canvas",
+       "category": "MENA Magazines",
+       "mena": false,
        "needs_translation": false
       }
      ]
@@ -794,7 +794,7 @@
      "name": "Persbook Annual of Contemporary Art",
      "site": "https://persbookart.com/",
      "lang": "en",
-     "age_days": 697,
+     "age_days": 698,
      "item": {
       "title": "«من اینجا هستم»ِ تمرینی برای مرکز زدایی | مهدیار جمشیدی و الهام پوریامهر",
       "link": "https://persbookart.com/4015/mahdyarjamshidi/",
@@ -805,14 +805,14 @@
       "category": "Iranian Art",
       "mena": false,
       "needs_translation": true,
-      "age_days": 697
+      "age_days": 698
      }
     },
     {
      "name": "Iranian.com Arts & Culture",
      "site": "https://iranian.com/",
      "lang": "en",
-     "age_days": 1865,
+     "age_days": 1866,
      "item": {
       "title": "We’re back",
       "link": "https://iranian.com/2021/09/29/were-back/",
@@ -823,7 +823,7 @@
       "category": "Iranian Art",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1865
+      "age_days": 1866
      }
     }
    ],
@@ -966,7 +966,7 @@
      "name": "Barjeel Art Foundation",
      "site": "https://www.barjeelartfoundation.org/",
      "lang": "en",
-     "age_days": 242,
+     "age_days": 243,
      "item": {
       "title": "Palestinian Family",
       "link": "https://www.barjeelartfoundation.org/collection/palestinian-family/",
@@ -977,14 +977,14 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 242
+      "age_days": 243
      }
     },
     {
      "name": "Institut du Monde Arabe",
      "site": "https://www.imarabe.org/",
      "lang": "fr",
-     "age_days": 1020,
+     "age_days": 1021,
      "item": {
       "title": "Étienne Dinet, passions algériennes",
       "link": "https://www.imarabe.org/fr/agenda/expositions-musee/etienne-dinet-passions-algeriennes",
@@ -995,7 +995,7 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1020
+      "age_days": 1021
      }
     }
    ],
@@ -1135,7 +1135,7 @@
      "name": "Art Dubai",
      "site": "https://www.artdubai.ae/",
      "lang": "en",
-     "age_days": 2026,
+     "age_days": 2027,
      "item": {
       "title": "Art Dubai 2021 leads the way back to normality",
       "link": "https://www.artdubai.ae/art-dubai-2021-leads-the-way-back-to-normality/",
@@ -1146,7 +1146,7 @@
       "category": "Fairs & Events",
       "mena": true,
       "needs_translation": false,
-      "age_days": 2026
+      "age_days": 2027
      }
     }
    ],
@@ -1399,7 +1399,7 @@
    "category": "Iranian Art",
    "url": "https://persbookart.com/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 697 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 698 days old",
    "severity": "info"
   },
   {
@@ -1407,7 +1407,7 @@
    "category": "Iranian Art",
    "url": "https://iranian.com/feed/",
    "stage": "window",
-   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1865 days old",
+   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1866 days old",
    "severity": "info"
   },
   {
@@ -1415,7 +1415,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.imarabe.org/fr/rss.xml",
    "stage": "window",
-   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 1020 days old",
+   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 1021 days old",
    "severity": "info"
   },
   {
@@ -1423,7 +1423,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.barjeelartfoundation.org/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 242 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 243 days old",
    "severity": "info"
   },
   {
@@ -1431,7 +1431,7 @@
    "category": "Fairs & Events",
    "url": "https://www.artdubai.ae/feed/",
    "stage": "window",
-   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 2026 days old",
+   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 2027 days old",
    "severity": "info"
   }
  ],
