@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T12:34:27.414945Z",
+ "generated_at": "2026-11-16T13:26:38.703401Z",
  "window_days": 180,
  "max_items_per_feed": 8,
  "totals": {
@@ -16,12 +16,131 @@
    "item_count": 40,
    "sources": [
     {
+     "name": "The Art Newspaper",
+     "site": "https://www.theartnewspaper.com/",
+     "feed_url": "https://www.theartnewspaper.com/rss.xml",
+     "lang": "en",
+     "newest_ts": 1794835201.0,
+     "items": [
+      {
+       "title": "Frieze Abu Dhabi’s Global Futures section to reflect the 'turbulence and violence of our times'",
+       "link": "https://www.theartnewspaper.com/2026/11/16/frieze-abu-dhabis-global-futures-section-to-reflect-the-turbulence-and-violence-of-our-times",
+       "summary": "Curated by Tarini Malik, the group of solo presentations features works by Arshi Irshad Ahmadzai, Ala Younis and Abdullah Al Saadi",
+       "published": "2026-11-16T13:20:01Z",
+       "published_ts": 1794835201.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "'It is an unusual model, but I am an unusual person': Shafeena Yusuff Ali on her Abu Dhabi foundation and gallery",
+       "link": "https://www.theartnewspaper.com/2026/11/16/it-is-an-unusual-model-but-i-am-an-unusual-person-shafeena-yusuff-ali-on-her-abu-dhabi-foundation-and-gallery",
+       "summary": "The founder of Rizq Art Initiative is determined to support—and diversify—the local art scene",
+       "published": "2026-11-16T12:52:33Z",
+       "published_ts": 1794833553.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "British Museum and Victoria and Albert Museum extend loan of Asante regalia to the Manhyia Palace Museum in Ghana",
+       "link": "https://www.theartnewspaper.com/2026/11/16/british-museum-and-victoria-and-albert-museum-extend-loan-of-asante-regalia-to-the-manhyia-palace-museum-in-ghana",
+       "summary": "The extended loan agreement of the 32 gold objects, many of which were looted in the 19th century, follows a visit by the British Museum director to the Asante king",
+       "published": "2026-11-16T12:21:19Z",
+       "published_ts": 1794831679.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Show of every Jan van Eyck portrait reveals many new sides to his works",
+       "link": "https://www.theartnewspaper.com/2026/11/16/show-of-every-jan-van-eyck-portrait-reveals-many-new-sides-to-his-works",
+       "summary": "The National Gallery’s exhibition of the 15th-century pioneer will include fresh conservation work, remarkable pairings and a possible revelation tied to a famous work",
+       "published": "2026-11-16T11:41:39Z",
+       "published_ts": 1794829299.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Has the pair in Jan van Eyck’s ‘Arnolfini Portrait’ been misidentified?",
+       "link": "https://www.theartnewspaper.com/2026/11/16/has-the-pair-in-jan-van-eycks-arnolfini-portrait-been-misidentified",
+       "summary": "The Van Eyck mysteries multiply as a National Gallery show catalogue revives a theory that the famous marriage portrait depicts the artist and his wife rather than the Arnolfinis",
+       "published": "2026-11-16T11:35:46Z",
+       "published_ts": 1794828946.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Manuscript filled with 16th-century apocalyptic visions could fetch £1 million at auction",
+       "link": "https://www.theartnewspaper.com/2026/11/16/manuscript-filled-with-16th-century-apocalyptic-visions-could-fetch-£1-million-at-auction",
+       "summary": "“The Book of Miracles”, which contains 167 vivid watercolours illustrating real and imagined Medieval scenes, will be sold at Christie's in London",
+       "published": "2026-11-16T11:16:16Z",
+       "published_ts": 1794827776.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Frieze Artist Award reimagines endangered Lebanese site",
+       "link": "https://www.theartnewspaper.com/2026/11/16/frieze-artist-award-reimagines-endangered-lebanese-site",
+       "summary": "Dala Nasser's installation re-creates a Muslim shrine built on Roman ruins",
+       "published": "2026-11-16T06:02:10Z",
+       "published_ts": 1794808930.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "Seven shows to see in the UAE during Frieze Abu Dhabi",
+       "link": "https://www.theartnewspaper.com/2026/11/16/exhibitions-to-see-in-the-uae-during-frieze-abu-dhabi",
+       "summary": "From a photography festival in Sharjah to maritime trade artefacts at the Louvre Abu Dhabi, our pick of what to visit outside the fair",
+       "published": "2026-11-16T06:00:33Z",
+       "published_ts": 1794808833.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": true,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
      "name": "ArtNews",
      "site": "https://www.artnews.com/",
      "feed_url": "https://www.artnews.com/feed/",
      "lang": "en",
-     "newest_ts": 1794696600.0,
+     "newest_ts": 1794832200.0,
      "items": [
+      {
+       "title": "South London Gallery Director Margot Heller to Step Down After 25 Years",
+       "link": "https://www.artnews.com/art-news/news/south-london-gallerys-director-margot-heller-steps-down-1234806114/",
+       "summary": "The gallery confirmed she will exit the gallery in spring 2027 to pursue a new chapter as an independent curator and advisor.",
+       "published": "2026-11-16T12:30:00Z",
+       "published_ts": 1794832200.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Sotheby’s $180 M. Van Gogh Sale Faces Eleventh-Hour Nazi-Era Restitution Claim",
+       "link": "https://www.artnews.com/art-news/news/sothebys-van-gogh-180-million-restitution-claim-1936-sale-1234806093/",
+       "summary": "A claim from the heirs of its former Jewish owner has complicated one of the biggest auctions of the year.",
+       "published": "2026-11-16T01:40:28Z",
+       "published_ts": 1794793228.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
       {
        "title": "ARTnews Awards 2026 Emerging Artist of the Year: Coco Klockner",
        "link": "https://www.artnews.com/art-news/artists/coco-klockner-artnews-awards-2026-emerging-artist-1234805787/",
@@ -87,125 +206,6 @@
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
-      },
-      {
-       "title": "ARTnews Awards 2026: About the Jury",
-       "link": "https://www.artnews.com/art-news/news/artnews-awards-2026-jury-1234805841/",
-       "summary": "The jury for the third annual ARTnews Awards includes Giampaolo Bianconi, Jordan Carter, Lauren Cornell, Miranda Lash, and Diana Nawi.",
-       "published": "2026-11-14T22:49:00Z",
-       "published_ts": 1794696540.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": true,
-       "needs_translation": false
-      },
-      {
-       "title": "Whitney Museum Is Selling a de Kooning Painting Just Three Years After Receiving It",
-       "link": "https://www.artnews.com/art-news/market/whitney-museum-de-kooning-yellow-river-christies-auction-1234805966/",
-       "summary": "The painting was once owned by the museum's former president, David Solinger.",
-       "published": "2026-11-13T22:36:56Z",
-       "published_ts": 1794609416.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
-     "name": "Ocula Magazine",
-     "site": "https://ocula.com/magazine/",
-     "feed_url": "https://ocula.com/magazine/feed/",
-     "lang": "en",
-     "newest_ts": 1794679205.0,
-     "items": [
-      {
-       "title": "Dean Sameshima: ‘I’ve Always Held on to Things That Mean Something to Me’",
-       "link": "https://ocula.com/magazine/conversations/dean-sameshima-the-intervals-pace-new-york-2026/",
-       "summary": "As his new show opens in New York City, the Berlin‑based artist talks to Maja Renfer about his collection of ticket stubs, grainy black‑and‑white photographs and “ghost images”.",
-       "published": "2026-11-14T18:00:05Z",
-       "published_ts": 1794679205.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "‘The Only Authorised Look’ at the Life of Jean-Michel Basquiat Is Coming to Netflix",
-       "link": "https://ocula.com/magazine/art-news/documentary-jean-michel-basquiat-netflix/",
-       "summary": "A new documentary about the late Neo‑Expressionist, the first to be approved by his estate, is set to premiere on Netflix next month.",
-       "published": "2026-11-13T04:59:57Z",
-       "published_ts": 1794545997.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Tracey Emin to Bring Art, Ice Cream and Saunas to the British Seaside",
-       "link": "https://ocula.com/magazine/art-news/tracey-emin-margate-art-culture-hub-redevelopment/",
-       "summary": "In the latest instalment of her ongoing investment in Margate, Emin plans to reinvent the abandoned 1910 Westbrook Loggia as a space for artists and the community.",
-       "published": "2026-11-13T02:54:57Z",
-       "published_ts": 1794538497.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "How Is an Artist Supposed to Live Now?",
-       "link": "https://ocula.com/magazine/opinion/earthly-paradise-william-morris-gallery-2026/",
-       "summary": "A new show tracks the history of the unconventional ways artists have arranged their lives in the UK.",
-       "published": "2026-11-12T18:00:00Z",
-       "published_ts": 1794506400.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "‘Art Gives Us the Ability to Breathe’: Kyiv’s PinchukArtCentre Announces Future Generation Prize Shortlist",
-       "link": "https://ocula.com/magazine/art-news/kyiv-pinchukartcentre-future-generation-prize/",
-       "summary": "The shortlist for the $100,000 award, which exclusively supports young artists, includes “Gaza’s first rock band”.",
-       "published": "2026-11-12T05:09:59Z",
-       "published_ts": 1794460199.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": true,
-       "needs_translation": false
-      },
-      {
-       "title": "Bagging Rights: Balenciaga Launches Damien Hirst Collab",
-       "link": "https://ocula.com/magazine/art-news/balenciaga-launches-damien-hirst-collab/",
-       "summary": "Marking the 25th anniversary of the fashion house’s Le City handbag, motifs from Damien Hirst’s artworks will appear on bags, keychains and trainers.",
-       "published": "2026-11-12T03:33:04Z",
-       "published_ts": 1794454384.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "The Sex Appeal of Willem de Kooning’s ‘Grotesque’ Paintings of Women",
-       "link": "https://ocula.com/magazine/opinion/willem-de-kooning-rijksmuseum-brodie-crellin-2026/",
-       "summary": "Willem de Kooning’s compulsive attitude towards painting women has led some to describe him as a fetishist or even a pervert. Yet the artist’s disinterest in moralising is what makes his work so good, writes novelist Brodie Crellin.",
-       "published": "2026-11-11T23:01:57Z",
-       "published_ts": 1794438117.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "‘Artist, Visionary and Thinker’ Wolfgang Tillmans Wins Cartier-Bresson Lifetime Achievement Award",
-       "link": "https://ocula.com/magazine/art-news/wolfgang-tillmans-wins-cartier-bresson-award/",
-       "summary": "Tillmans, known for his documentation of youth culture, is the third recipient of the prize, which he called “a fantastic award named after a fantastic photographer”.",
-       "published": "2026-11-11T22:32:14Z",
-       "published_ts": 1794436334.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
       }
      ]
     },
@@ -214,8 +214,19 @@
      "site": "https://hyperallergic.com/",
      "feed_url": "https://hyperallergic.com/feed/",
      "lang": "en",
-     "newest_ts": 1794654000.0,
+     "newest_ts": 1794826800.0,
      "items": [
+      {
+       "title": "Hockney and His Beverly Hills Patron",
+       "link": "https://hyperallergic.com/hockney-and-his-beverly-hills-patron/",
+       "summary": "A review of James Cahill’s book on the painter and the patron in “Beverly Hills Housewife,” the state of arts journalism, and why Tribal Nations are opposing a Congressional bill.",
+       "published": "2026-11-16T11:00:00Z",
+       "published_ts": 1794826800.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
       {
        "title": "Special Edition: Jesus",
        "link": "https://hyperallergic.com/11-14-26-weekly-newsletter-2/",
@@ -292,17 +303,6 @@
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
-      },
-      {
-       "title": "Seven Museums to Host Solo Exhibitions Celebrating Wolf Kahn’s Centennial",
-       "link": "https://hyperallergic.com/seven-museums-to-host-solo-exhibitions-celebrating-wolf-kahns-centennial/",
-       "summary": "Museums in Germany, New York, and Vermont are among those to honor the late abstract landscape painter next year.",
-       "published": "2026-11-13T18:45:44Z",
-       "published_ts": 1794595544.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
       }
      ]
     },
@@ -311,8 +311,30 @@
      "site": "https://news.artnet.com/",
      "feed_url": "https://news.artnet.com/feed",
      "lang": "en",
-     "newest_ts": 1794610489.0,
+     "newest_ts": 1794821099.0,
      "items": [
+      {
+       "title": "Your New York Auction Week Outlook",
+       "link": "https://news.artnet.com/multimedia/art-market-minute-nov-16-2837256",
+       "summary": "Bank of America's Drew Watson joins the podcast to talk about how collector priorities are shifting and market confidence is growing.",
+       "published": "2026-11-16T09:24:59Z",
+       "published_ts": 1794821099.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "What Makes Magritte So Mesmerizing? Inside One Rare Painting’s Visual Trickery",
+       "link": "https://news.artnet.com/art-world/3-things-magritte-lami-de-lordre-sothebys-2835678",
+       "summary": "It's hitting the block for the first time this month.",
+       "published": "2026-11-16T06:00:24Z",
+       "published_ts": 1794808824.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
       {
        "title": "Is the ‘War on Beauty’ For Real?",
        "link": "https://news.artnet.com/art-world/kiki-smith-art-terrorism-controversy-war-on-beauty-julia-james-davis-2836275",
@@ -378,122 +400,100 @@
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
-      },
-      {
-       "title": "Microsoft Outage Disrupts Auction Houses Ahead of $2B New York Sale Week",
-       "link": "https://news.artnet.com/market/microsoft-outage-christies-2836297",
-       "summary": "It's 'certainly inconvenient for everyone,' a Christie's spokesperson said.",
-       "published": "2026-11-13T17:37:59Z",
-       "published_ts": 1794591479.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "What Artnet Auctions Specialists Can’t Stop Thinking About This Month",
-       "link": "https://news.artnet.com/art-world/artnet-auctions-specialist-spotlight-november-2026-2836095",
-       "summary": "A meaningful Mary Weatherford, tips for a new generation of collectors, and celebrating 200 years of photography at Paris Photo.",
-       "published": "2026-11-13T14:18:56Z",
-       "published_ts": 1794579536.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
       }
      ]
     },
     {
-     "name": "The Art Newspaper",
-     "site": "https://www.theartnewspaper.com/",
-     "feed_url": "https://www.theartnewspaper.com/rss.xml",
+     "name": "Ocula Magazine",
+     "site": "https://ocula.com/magazine/",
+     "feed_url": "https://ocula.com/magazine/feed/",
      "lang": "en",
-     "newest_ts": 1794608113.0,
+     "newest_ts": 1794765606.0,
      "items": [
       {
-       "title": "After a year off, the ADAA's New York fair returns with a new name and revamped layout",
-       "link": "https://www.theartnewspaper.com/2026/11/13/adaa-art-fair-returns-one-year-hiatus-new-york",
-       "summary": "The ADAA Fair is a rebooted version of the association's Art Show, with a reduced exhibitor list and a partnership with the Whitney Museum",
-       "published": "2026-11-13T22:15:13Z",
-       "published_ts": 1794608113.0,
-       "source": "The Art Newspaper",
+       "title": "Dan Flavin, and the Magic of Looking at What’s in Front of You",
+       "link": "https://ocula.com/magazine/opinion/dan-flavin-guggenheim-bilbao-2026/",
+       "summary": "Dan Flavin was adamant that his work was not made to be analysed. In Bilbao, Baya Simons takes his advice.",
+       "published": "2026-11-15T18:00:06Z",
+       "published_ts": 1794765606.0,
+       "source": "Ocula Magazine",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "The late Los Angeles artist Betye Saar receives heartfelt send-off at the Getty Center",
-       "link": "https://www.theartnewspaper.com/2026/11/13/betye-saar-memorial-event-getty-center",
-       "summary": "The memorial highlighted how she made artists as well as art",
-       "published": "2026-11-13T21:47:16Z",
-       "published_ts": 1794606436.0,
-       "source": "The Art Newspaper",
+       "title": "Dean Sameshima: ‘I’ve Always Held on to Things That Mean Something to Me’",
+       "link": "https://ocula.com/magazine/conversations/dean-sameshima-the-intervals-pace-new-york-2026/",
+       "summary": "As his new show opens in New York City, the Berlin‑based artist talks to Maja Renfer about his collection of ticket stubs, grainy black‑and‑white photographs and “ghost images”.",
+       "published": "2026-11-14T18:00:00Z",
+       "published_ts": 1794679200.0,
+       "source": "Ocula Magazine",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Paris Photo’s digital sector offers ‘soft photography’ and vital context",
-       "link": "https://www.theartnewspaper.com/2026/11/13/paris-photo-art-fair-digital-art-sector",
-       "summary": "The digital presentations at the heart of the Grand Palais continue this year’s trend of situating digital art in art historical lineage",
-       "published": "2026-11-13T20:23:46Z",
-       "published_ts": 1794601426.0,
-       "source": "The Art Newspaper",
+       "title": "‘The Only Authorised Look’ at the Life of Jean-Michel Basquiat Is Coming to Netflix",
+       "link": "https://ocula.com/magazine/art-news/documentary-jean-michel-basquiat-netflix/",
+       "summary": "A new documentary about the late Neo‑Expressionist, the first to be approved by his estate, is set to premiere on Netflix next month.",
+       "published": "2026-11-13T04:59:57Z",
+       "published_ts": 1794545997.0,
+       "source": "Ocula Magazine",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Healthcare company opens art gallery near Los Angeles",
-       "link": "https://www.theartnewspaper.com/2026/11/13/healthcare-company-altamed-art-gallery-los-angeles-corporate-collection",
-       "summary": "AltaMed’s art collection is focused on Chicano art and includes more than 4,000 works by artists like Laura Aguilar, Graciela Iturbide and Gabriel Orozco",
-       "published": "2026-11-13T17:00:00Z",
-       "published_ts": 1794589200.0,
-       "source": "The Art Newspaper",
+       "title": "Tracey Emin to Bring Art, Ice Cream and Saunas to the British Seaside",
+       "link": "https://ocula.com/magazine/art-news/tracey-emin-margate-art-culture-hub-redevelopment/",
+       "summary": "In the latest instalment of her ongoing investment in Margate, Emin plans to reinvent the abandoned 1910 Westbrook Loggia as a space for artists and the community.",
+       "published": "2026-11-13T02:54:57Z",
+       "published_ts": 1794538497.0,
+       "source": "Ocula Magazine",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "New contemporary art centre coming to University of California, San Diego",
-       "link": "https://www.theartnewspaper.com/2026/11/13/university-california-san-diego-strauss-family-gallery-contemporary-art-centre",
-       "summary": "The Strauss Family Gallery, hosting a collection of works by artists like Carrie Mae Weems and Zhang Huan, will also collaborate with the wider university community on interdisciplinary projects",
-       "published": "2026-11-13T16:00:59Z",
-       "published_ts": 1794585659.0,
-       "source": "The Art Newspaper",
+       "title": "How Is an Artist Supposed to Live Now?",
+       "link": "https://ocula.com/magazine/opinion/earthly-paradise-william-morris-gallery-2026/",
+       "summary": "A new show tracks the history of the unconventional ways artists have arranged their lives in the UK.",
+       "published": "2026-11-12T18:00:00Z",
+       "published_ts": 1794506400.0,
+       "source": "Ocula Magazine",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Shanghai’s art week finds buyers in a selective market",
-       "link": "https://www.theartnewspaper.com/2026/11/13/shanghais-2026-art-week-finds-buyers-in-a-more-selective-market",
-       "summary": "The Chinese market is at an \"all-time low\", but the city remains vibrant",
-       "published": "2026-11-13T15:45:48Z",
-       "published_ts": 1794584748.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "How Frieze became the latest step in Abu Dhabi's cultural masterplan",
-       "link": "https://www.theartnewspaper.com/2026/11/13/how-frieze-became-the-latest-step-in-abu-dhabis-cultural-masterplan",
-       "summary": "Building on more than two decades of development in the UAE, Frieze’s first Middle East fair seeks to promote regional artists and boost Abu Dhabi’s reputation as a destination for global elites",
-       "published": "2026-11-13T13:59:31Z",
-       "published_ts": 1794578371.0,
-       "source": "The Art Newspaper",
+       "title": "‘Art Gives Us the Ability to Breathe’: Kyiv’s PinchukArtCentre Announces Future Generation Prize Shortlist",
+       "link": "https://ocula.com/magazine/art-news/kyiv-pinchukartcentre-future-generation-prize/",
+       "summary": "The shortlist for the $100,000 award, which exclusively supports young artists, includes “Gaza’s first rock band”.",
+       "published": "2026-11-12T05:09:59Z",
+       "published_ts": 1794460199.0,
+       "source": "Ocula Magazine",
        "category": "News & Market",
        "mena": true,
        "needs_translation": false
       },
       {
-       "title": "Tate’s Bloomsbury group exhibition throws fresh light on early British enthusiasm for Van Gogh",
-       "link": "https://www.theartnewspaper.com/2026/11/13/tates-bloomsbury-group-exhibition-throws-fresh-light-on-early-british-enthusiasm-for-van-gogh",
-       "summary": "Artists Vanessa Bell and Duncan Grant fell under the spell of the Dutch painter",
-       "published": "2026-11-13T13:42:53Z",
-       "published_ts": 1794577373.0,
-       "source": "The Art Newspaper",
+       "title": "Bagging Rights: Balenciaga Launches Damien Hirst Collab",
+       "link": "https://ocula.com/magazine/art-news/balenciaga-launches-damien-hirst-collab/",
+       "summary": "Marking the 25th anniversary of the fashion house’s Le City handbag, motifs from Damien Hirst’s artworks will appear on bags, keychains and trainers.",
+       "published": "2026-11-12T03:33:04Z",
+       "published_ts": 1794454384.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "The Sex Appeal of Willem de Kooning’s ‘Grotesque’ Paintings of Women",
+       "link": "https://ocula.com/magazine/opinion/willem-de-kooning-rijksmuseum-brodie-crellin-2026/",
+       "summary": "Willem de Kooning’s compulsive attitude towards painting women has led some to describe him as a fetishist or even a pervert. Yet the artist’s disinterest in moralising is what makes his work so good, writes novelist Brodie Crellin.",
+       "published": "2026-11-11T23:01:57Z",
+       "published_ts": 1794438117.0,
+       "source": "Ocula Magazine",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
@@ -794,7 +794,7 @@
      "name": "Persbook Annual of Contemporary Art",
      "site": "https://persbookart.com/",
      "lang": "en",
-     "age_days": 704,
+     "age_days": 705,
      "item": {
       "title": "«من اینجا هستم»ِ تمرینی برای مرکز زدایی | مهدیار جمشیدی و الهام پوریامهر",
       "link": "https://persbookart.com/4015/mahdyarjamshidi/",
@@ -805,14 +805,14 @@
       "category": "Iranian Art",
       "mena": false,
       "needs_translation": true,
-      "age_days": 704
+      "age_days": 705
      }
     },
     {
      "name": "Iranian.com Arts & Culture",
      "site": "https://iranian.com/",
      "lang": "en",
-     "age_days": 1872,
+     "age_days": 1873,
      "item": {
       "title": "We’re back",
       "link": "https://iranian.com/2021/09/29/were-back/",
@@ -823,7 +823,7 @@
       "category": "Iranian Art",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1872
+      "age_days": 1873
      }
     }
    ],
@@ -966,7 +966,7 @@
      "name": "Barjeel Art Foundation",
      "site": "https://www.barjeelartfoundation.org/",
      "lang": "en",
-     "age_days": 249,
+     "age_days": 250,
      "item": {
       "title": "Palestinian Family",
       "link": "https://www.barjeelartfoundation.org/collection/palestinian-family/",
@@ -977,14 +977,14 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 249
+      "age_days": 250
      }
     },
     {
      "name": "Institut du Monde Arabe",
      "site": "https://www.imarabe.org/",
      "lang": "fr",
-     "age_days": 1027,
+     "age_days": 1028,
      "item": {
       "title": "Étienne Dinet, passions algériennes",
       "link": "https://www.imarabe.org/fr/agenda/expositions-musee/etienne-dinet-passions-algeriennes",
@@ -995,7 +995,7 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1027
+      "age_days": 1028
      }
     }
    ],
@@ -1135,7 +1135,7 @@
      "name": "Art Dubai",
      "site": "https://www.artdubai.ae/",
      "lang": "en",
-     "age_days": 2033,
+     "age_days": 2034,
      "item": {
       "title": "Art Dubai 2021 leads the way back to normality",
       "link": "https://www.artdubai.ae/art-dubai-2021-leads-the-way-back-to-normality/",
@@ -1146,7 +1146,7 @@
       "category": "Fairs & Events",
       "mena": true,
       "needs_translation": false,
-      "age_days": 2033
+      "age_days": 2034
      }
     }
    ],
@@ -1399,7 +1399,7 @@
    "category": "Iranian Art",
    "url": "https://persbookart.com/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 704 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 705 days old",
    "severity": "info"
   },
   {
@@ -1407,7 +1407,7 @@
    "category": "Iranian Art",
    "url": "https://iranian.com/feed/",
    "stage": "window",
-   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1872 days old",
+   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1873 days old",
    "severity": "info"
   },
   {
@@ -1415,7 +1415,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.imarabe.org/fr/rss.xml",
    "stage": "window",
-   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 1027 days old",
+   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 1028 days old",
    "severity": "info"
   },
   {
@@ -1423,7 +1423,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.barjeelartfoundation.org/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 249 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 250 days old",
    "severity": "info"
   },
   {
@@ -1431,7 +1431,7 @@
    "category": "Fairs & Events",
    "url": "https://www.artdubai.ae/feed/",
    "stage": "window",
-   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 2033 days old",
+   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 2034 days old",
    "severity": "info"
   }
  ],
