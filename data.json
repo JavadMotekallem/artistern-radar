@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T13:17:39.224515Z",
+ "generated_at": "2026-11-22T13:09:26.170935Z",
  "window_days": 180,
  "max_items_per_feed": 8,
  "totals": {
@@ -15,6 +15,297 @@
    "name": "News & Market",
    "item_count": 40,
    "sources": [
+    {
+     "name": "Artnet News",
+     "site": "https://news.artnet.com/",
+     "feed_url": "https://news.artnet.com/feed",
+     "lang": "en",
+     "newest_ts": 1795296637.0,
+     "items": [
+      {
+       "title": "Who Won New York’s $2.44 Billion Art Week?",
+       "link": "https://news.artnet.com/market/who-won-new-yorks-2-44-billion-art-week-2823850",
+       "summary": "The total haul eclipsed last year's, and records were set, but it remains a complicated market.",
+       "published": "2026-11-21T21:30:37Z",
+       "published_ts": 1795296637.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Galia Eibenschutz Wants You to See the World Through a Plant’s Eyes",
+       "link": "https://news.artnet.com/art-world/galia-eibenschutz-galeria-rgr-2838569",
+       "summary": "Curated by Carlos E. Palacios, the artist’s first solo show with Galería RGR, in Mexico City, brings a body of work that draws on years of observation of the natural world.",
+       "published": "2026-11-20T22:30:40Z",
+       "published_ts": 1795213840.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "U.S. Museums Are Welcoming More Visitors, But Money Woes Persist: Report",
+       "link": "https://news.artnet.com/art-world/american-alliance-museum-report-2026-2839721",
+       "summary": "Institutions are reporting a bounce back to pre-pandemic conditions, though new challenges lie ahead.",
+       "published": "2026-11-20T20:23:59Z",
+       "published_ts": 1795206239.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Get Your Bag! More Than 100 Artist-Designed Louis Vuittons Hit the Block",
+       "link": "https://news.artnet.com/art-world/louis-vuitton-collectibles-digest-2026-2839598",
+       "summary": "Also, Martin Luther King's draft for his historic speech, $10 million worth of old coins, and other collectibles news.",
+       "published": "2026-11-20T15:58:38Z",
+       "published_ts": 1795190318.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Krist Gruijthuijsen to Direct Amsterdam’s Stedelijk Museum",
+       "link": "https://news.artnet.com/market/krist-gruijthuijsen-to-direct-amsterdams-stedelijk-museum-2839216",
+       "summary": "Plus, TEFAF Maastricht's 2027 exhibitors, a major gift for MCA Chicago, MIT awards $100,000 to Pipilotti Rist, and more art industry intel.",
+       "published": "2026-11-20T15:28:28Z",
+       "published_ts": 1795188508.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "A Beguiling Show About Rooms, Two Profiles of Art-Filled Houses, and More: It’s the Artnet Bulletin!",
+       "link": "https://news.artnet.com/artnet-bulletin/gregor-schneider-keith-mcnally-artnet-bulletin-2839156",
+       "summary": "Plus, Keith McNally went to Paris to see the Cézanne blockbuster. He ended up in the hospital.",
+       "published": "2026-11-20T05:07:27Z",
+       "published_ts": 1795151247.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "$33M Basquiat Leads Solid, Sluggish $146M Christie’s Contemporary Sale",
+       "link": "https://news.artnet.com/market/33m-basquiat-leads-solid-sluggish-145-9m-christies-contemporary-sale-2839324",
+       "summary": "Two esteemed collections anchored the affair. 'It was tepid but well managed,' one expert said.",
+       "published": "2026-11-20T04:00:12Z",
+       "published_ts": 1795147212.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Picasso, Kandinsky, and Baselitz Lead December Sales at Karl and Faber",
+       "link": "https://news.artnet.com/art-world/picasso-kandinsky-and-baselitz-lead-december-sales-at-karl-and-faber-2838149",
+       "summary": "The Modern, Post-War, and Contemporary Art sales are set to take place in Munich across December 3 and 4, reflecting the auction house’s expertise.",
+       "published": "2026-11-20T02:32:55Z",
+       "published_ts": 1795141975.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "name": "Ocula Magazine",
+     "site": "https://ocula.com/magazine/",
+     "feed_url": "https://ocula.com/magazine/feed/",
+     "lang": "en",
+     "newest_ts": 1795284005.0,
+     "items": [
+      {
+       "title": "Slavs and Tatars: ‘How Can We Commemorate Something, and Stab It in the Back?’",
+       "link": "https://ocula.com/magazine/conversations/slavs-and-tatars-mouthfool-fenix-2026/",
+       "summary": "Slavs and Tatars’ co‑founder Payam Sharifi talks to Maja Renfer about the collective’s first 20 years.",
+       "published": "2026-11-21T18:00:05Z",
+       "published_ts": 1795284005.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Against a Backdrop of Geopolitical Instability, Frieze Abu Dhabi Opens with Optimism",
+       "link": "https://ocula.com/magazine/art-news/frieze-abu-dhabi-opens-optimism-instability/",
+       "summary": "While war continues to rage in the region, the first day of the inaugural edition of the art fair saw notable sales, the return of some big‑name galleries and a raft of art‑world celebrities.",
+       "published": "2026-11-20T05:33:16Z",
+       "published_ts": 1795152796.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "All You Need to Know About New York’s $2.8bn Marquee Week Sales",
+       "link": "https://ocula.com/magazine/art-news/new-yorks-28bn-marquee-week-sales-roundup/",
+       "summary": "The most significant sales, lots and happenings from a high‑stakes week for the international art market.",
+       "published": "2026-11-20T00:26:00Z",
+       "published_ts": 1795134360.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Are Immersive Art Experiences Bad for Society?",
+       "link": "https://ocula.com/magazine/opinion/are-immersive-art-experiences-bad-for-society-2026/",
+       "summary": "Nathalie Olah considers whether immersive shows of blockbuster artists are actually a new phenomenon, and what they do to our experience of looking at art.",
+       "published": "2026-11-19T20:53:00Z",
+       "published_ts": 1795121580.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "‘Sending a Signal to the Queer Community’: $20,000 LGBTQ+ Art Prize Returns",
+       "link": "https://ocula.com/magazine/art-news/20000-lgbtq-art-prize-returns-miami/",
+       "summary": "A Miami gallery has become the new backer for the Queer|Art prize, which returns this weekend following a four year hiatus.",
+       "published": "2026-11-19T04:40:44Z",
+       "published_ts": 1795063244.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Naked Ambition: Danish Artist Brings Trump Statue to COP31 Protest",
+       "link": "https://ocula.com/magazine/art-news/jens-galschit-trump-statue-cop31-protest/",
+       "summary": "Jens Galschiøt and his team, dressed as polar bears, escorted the contentious gold‑leaf artwork through Anatalya on Saturday, amid the international climate conference.",
+       "published": "2026-11-17T23:05:46Z",
+       "published_ts": 1794956746.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "What Monsters Lurked in Marisa Merz’s Kitchen?",
+       "link": "https://ocula.com/magazine/opinion/marisa-merz-turin-cenentary-monsters-art-2026/",
+       "summary": "The only woman in the Arte Povera movement built wild creations from her own home. On the centenary of the artist’s birth, Zoe Guttenplan visits a major new retrospective of her enigmatic work in Turin.",
+       "published": "2026-11-17T18:00:00Z",
+       "published_ts": 1794938400.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "$180M Van Gogh Sale Will Go Ahead After Sotheby’s Settles Restitution Claim",
+       "link": "https://ocula.com/magazine/art-news/sothebys-180m-van-gogh-restitution-claim-settled/",
+       "summary": "The potentially record‑breaking Châtaigniers en Fleurs (1890) will go under the hammer in New York City tomorrow, following an agreement between the heirs of its the former owners and the Blaquier‑Arietta family.",
+       "published": "2026-11-17T02:34:40Z",
+       "published_ts": 1794882880.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "name": "ArtNews",
+     "site": "https://www.artnews.com/",
+     "feed_url": "https://www.artnews.com/feed/",
+     "lang": "en",
+     "newest_ts": 1795269600.0,
+     "items": [
+      {
+       "title": "Art Advisor Sophia Cohen on How the Next Generation of Collectors Is Approaching the Art Market",
+       "link": "https://www.artnews.com/art-news/news/sophia-cohen-siren-projects-art-week-nyc-1234807155/",
+       "summary": "Cohen, formerly of Gavin Brown's enterprise and Gagosian, launched Siren Projects in 2024.",
+       "published": "2026-11-21T14:00:00Z",
+       "published_ts": 1795269600.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Ireland’s Experiment in Paying Artists a Basic Income Is Working as Intended For Artists",
+       "link": "https://www.artnews.com/art-news/news/is-ireland-experiment-in-paying-artists-basic-income-working-1234806168/",
+       "summary": "While Ireland’s Basic Income for the Arts scheme was only made permanent in February, the pilot project ran for three years before.",
+       "published": "2026-11-21T13:19:00Z",
+       "published_ts": 1795267140.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Maren Hassinger Won’t Be Weighed Down",
+       "link": "https://www.artnews.com/art-in-america/aia-reviews/maren-hassinger-bampfa-retrospective-berkeley-1234806748/",
+       "summary": "Her retrospective at the Berkeley Art Museum and Pacific Film Archive (BAMPFA) highlights the artist's love of metal and motion.",
+       "published": "2026-11-21T10:00:00Z",
+       "published_ts": 1795255200.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "The 16 Most Expensive Artworks Ever Sold at Auction",
+       "link": "https://www.artnews.com/list/art-news/market/most-expensive-artworks-ever-sold-at-auction-1234736898/",
+       "summary": "With each record-breaking sale, the bar gets set higher, the stakes get sharper, and the frenzy deepens.",
+       "published": "2026-11-20T22:00:00Z",
+       "published_ts": 1795212000.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "El Greco Masterpiece Gets Its Colors Back After More Than 400 Years",
+       "link": "https://www.artnews.com/art-news/news/el-greco-martyrdom-saint-maurice-restoration-1234807093/",
+       "summary": "“El Greco was the Jeff Koons or Damien Hirst of his day,” said Carmen Reviriego, founder of the Callia Foundation, which helped fund the restoration.",
+       "published": "2026-11-20T21:49:51Z",
+       "published_ts": 1795211391.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Grand Theft Auto VI ’s Vice City Pays Homage to the Bass, Among More Art Easter Eggs",
+       "link": "https://www.artnews.com/art-news/news/grand-theft-auto-vice-city-bass-museum-art-oregano-basel-1234807185/",
+       "summary": "The game even rendered a riff on 'Miami Mountain', a tower of boulders by Ugo Rondinone installed outside the Bass.",
+       "published": "2026-11-20T21:12:22Z",
+       "published_ts": 1795209142.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Judge Allows Lawsuit Over Allegedly Stolen Fra Angelico to Move Forward",
+       "link": "https://www.artnews.com/art-news/news/bic-heirs-fra-angelico-lawsuit-feigen-estate-ruling-1234807135/",
+       "summary": "The ruling is good news for the Bich heirs, though there's still a long way to go. The judge hasn't decided who owns the painting, or even whether it was stolen.",
+       "published": "2026-11-20T21:03:44Z",
+       "published_ts": 1795208624.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "How do Artworks Acquire Value? New York Art Dealers David Nolan and Anton Svyatsky Weigh In.",
+       "link": "https://www.artnews.com/art-news/news/david-nolan-anton-svyatsky-art-week-nyc-2026-1234806643/",
+       "summary": "An art world veteran and a relative newcomer offer their perspectives on the role of the art collector in today's market.",
+       "published": "2026-11-20T21:00:00Z",
+       "published_ts": 1795208400.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
     {
      "name": "Hyperallergic",
      "site": "https://hyperallergic.com/",
@@ -106,200 +397,6 @@
        "published": "2026-11-20T19:42:28Z",
        "published_ts": 1795203748.0,
        "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
-     "name": "ArtNews",
-     "site": "https://www.artnews.com/",
-     "feed_url": "https://www.artnews.com/feed/",
-     "lang": "en",
-     "newest_ts": 1795255200.0,
-     "items": [
-      {
-       "title": "Maren Hassinger Won’t Be Weighed Down",
-       "link": "https://www.artnews.com/art-in-america/aia-reviews/maren-hassinger-bampfa-retrospective-berkeley-1234806748/",
-       "summary": "Her retrospective at the Berkeley Art Museum and Pacific Film Archive (BAMPFA) highlights the artist's love of metal and motion.",
-       "published": "2026-11-21T10:00:00Z",
-       "published_ts": 1795255200.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "The 16 Most Expensive Artworks Ever Sold at Auction",
-       "link": "https://www.artnews.com/list/art-news/market/most-expensive-artworks-ever-sold-at-auction-1234736898/",
-       "summary": "With each record-breaking sale, the bar gets set higher, the stakes get sharper, and the frenzy deepens.",
-       "published": "2026-11-20T22:00:00Z",
-       "published_ts": 1795212000.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "El Greco Masterpiece Gets Its Colors Back After More Than 400 Years",
-       "link": "https://www.artnews.com/art-news/news/el-greco-martyrdom-saint-maurice-restoration-1234807093/",
-       "summary": "“El Greco was the Jeff Koons or Damien Hirst of his day,” said Carmen Reviriego, founder of the Callia Foundation, which helped fund the restoration.",
-       "published": "2026-11-20T21:49:51Z",
-       "published_ts": 1795211391.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Grand Theft Auto VI ’s Vice City Pays Homage to the Bass, Among More Art Easter Eggs",
-       "link": "https://www.artnews.com/art-news/news/grand-theft-auto-vice-city-bass-museum-art-oregano-basel-1234807185/",
-       "summary": "The game even rendered a riff on 'Miami Mountain', a tower of boulders by Ugo Rondinone installed outside the Bass.",
-       "published": "2026-11-20T21:12:22Z",
-       "published_ts": 1795209142.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Judge Allows Lawsuit Over Allegedly Stolen Fra Angelico to Move Forward",
-       "link": "https://www.artnews.com/art-news/news/bic-heirs-fra-angelico-lawsuit-feigen-estate-ruling-1234807135/",
-       "summary": "The ruling is good news for the Bich heirs, though there's still a long way to go. The judge hasn't decided who owns the painting, or even whether it was stolen.",
-       "published": "2026-11-20T21:03:44Z",
-       "published_ts": 1795208624.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "How do Artworks Acquire Value? New York Art Dealers David Nolan and Anton Svyatsky Weigh In.",
-       "link": "https://www.artnews.com/art-news/news/david-nolan-anton-svyatsky-art-week-nyc-2026-1234806643/",
-       "summary": "An art world veteran and a relative newcomer offer their perspectives on the role of the art collector in today's market.",
-       "published": "2026-11-20T21:00:00Z",
-       "published_ts": 1795208400.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Working Mothers Face Pervasive Discrimination in London Art World, Study Finds",
-       "link": "https://www.artnews.com/art-news/news/working-mothers-face-discrimination-in-london-art-world-1234807151/",
-       "summary": "For many, having children comes at a professional cost",
-       "published": "2026-11-20T20:54:37Z",
-       "published_ts": 1795208077.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "15 Van Gogh Masterpieces that Set Auction Records",
-       "link": "https://www.artnews.com/list/art-news/market/van-gogh-masterpieces-that-set-auction-records-1234784867/",
-       "summary": "Each of these works has achieved a place among the highest prices for a Van Gogh in auction history",
-       "published": "2026-11-20T20:21:25Z",
-       "published_ts": 1795206085.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
-     "name": "Artnet News",
-     "site": "https://news.artnet.com/",
-     "feed_url": "https://news.artnet.com/feed",
-     "lang": "en",
-     "newest_ts": 1795213840.0,
-     "items": [
-      {
-       "title": "Galia Eibenschutz Wants You to See the World Through a Plant’s Eyes",
-       "link": "https://news.artnet.com/art-world/galia-eibenschutz-galeria-rgr-2838569",
-       "summary": "Curated by Carlos E. Palacios, the artist’s first solo show with Galería RGR, in Mexico City, brings a body of work that draws on years of observation of the natural world.",
-       "published": "2026-11-20T22:30:40Z",
-       "published_ts": 1795213840.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "U.S. Museums Are Welcoming More Visitors, But Money Woes Persist: Report",
-       "link": "https://news.artnet.com/art-world/american-alliance-museum-report-2026-2839721",
-       "summary": "Institutions are reporting a bounce back to pre-pandemic conditions, though new challenges lie ahead.",
-       "published": "2026-11-20T20:23:59Z",
-       "published_ts": 1795206239.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Get Your Bag! More Than 100 Artist-Designed Louis Vuittons Hit the Block",
-       "link": "https://news.artnet.com/art-world/louis-vuitton-collectibles-digest-2026-2839598",
-       "summary": "Also, Martin Luther King's draft for his historic speech, $10 million worth of old coins, and other collectibles news.",
-       "published": "2026-11-20T15:58:38Z",
-       "published_ts": 1795190318.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Krist Gruijthuijsen to Direct Amsterdam’s Stedelijk Museum",
-       "link": "https://news.artnet.com/market/krist-gruijthuijsen-to-direct-amsterdams-stedelijk-museum-2839216",
-       "summary": "Plus, TEFAF Maastricht's 2027 exhibitors, a major gift for MCA Chicago, MIT awards $100,000 to Pipilotti Rist, and more art industry intel.",
-       "published": "2026-11-20T15:28:28Z",
-       "published_ts": 1795188508.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "A Beguiling Show About Rooms, Two Profiles of Art-Filled Houses, and More: It’s the Artnet Bulletin!",
-       "link": "https://news.artnet.com/artnet-bulletin/gregor-schneider-keith-mcnally-artnet-bulletin-2839156",
-       "summary": "Plus, Keith McNally went to Paris to see the Cézanne blockbuster. He ended up in the hospital.",
-       "published": "2026-11-20T05:07:27Z",
-       "published_ts": 1795151247.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "$33M Basquiat Leads Solid, Sluggish $146M Christie’s Contemporary Sale",
-       "link": "https://news.artnet.com/market/33m-basquiat-leads-solid-sluggish-145-9m-christies-contemporary-sale-2839324",
-       "summary": "Two esteemed collections anchored the affair. 'It was tepid but well managed,' one expert said.",
-       "published": "2026-11-20T04:00:12Z",
-       "published_ts": 1795147212.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Picasso, Kandinsky, and Baselitz Lead December Sales at Karl and Faber",
-       "link": "https://news.artnet.com/art-world/picasso-kandinsky-and-baselitz-lead-december-sales-at-karl-and-faber-2838149",
-       "summary": "The Modern, Post-War, and Contemporary Art sales are set to take place in Munich across December 3 and 4, reflecting the auction house’s expertise.",
-       "published": "2026-11-20T02:32:55Z",
-       "published_ts": 1795141975.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "How Tiffany Studios Lit Up the Gilded Age",
-       "link": "https://news.artnet.com/multimedia/tiffany-studios-met-museum-2830394",
-       "summary": "Met curator Alice Cooney Frelinghuysen joins the Art Angle to revisit the century-spanning impact of the decorative arts pioneer.",
-       "published": "2026-11-19T22:05:03Z",
-       "published_ts": 1795125903.0,
-       "source": "Artnet News",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
@@ -399,103 +496,6 @@
        "source": "The Art Newspaper",
        "category": "News & Market",
        "mena": false,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
-     "name": "Ocula Magazine",
-     "site": "https://ocula.com/magazine/",
-     "feed_url": "https://ocula.com/magazine/feed/",
-     "lang": "en",
-     "newest_ts": 1795152796.0,
-     "items": [
-      {
-       "title": "Against a Backdrop of Geopolitical Instability, Frieze Abu Dhabi Opens with Optimism",
-       "link": "https://ocula.com/magazine/art-news/frieze-abu-dhabi-opens-optimism-instability/",
-       "summary": "While war continues to rage in the region, the first day of the inaugural edition of the art fair saw notable sales, the return of some big‑name galleries and a raft of art‑world celebrities.",
-       "published": "2026-11-20T05:33:16Z",
-       "published_ts": 1795152796.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": true,
-       "needs_translation": false
-      },
-      {
-       "title": "All You Need to Know About New York’s $2.8bn Marquee Week Sales",
-       "link": "https://ocula.com/magazine/art-news/new-yorks-28bn-marquee-week-sales-roundup/",
-       "summary": "The most significant sales, lots and happenings from a high‑stakes week for the international art market.",
-       "published": "2026-11-20T00:26:00Z",
-       "published_ts": 1795134360.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Are Immersive Art Experiences Bad for Society?",
-       "link": "https://ocula.com/magazine/opinion/are-immersive-art-experiences-bad-for-society-2026/",
-       "summary": "Nathalie Olah considers whether immersive shows of blockbuster artists are actually a new phenomenon, and what they do to our experience of looking at art.",
-       "published": "2026-11-19T20:53:00Z",
-       "published_ts": 1795121580.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "‘Sending a Signal to the Queer Community’: $20,000 LGBTQ+ Art Prize Returns",
-       "link": "https://ocula.com/magazine/art-news/20000-lgbtq-art-prize-returns-miami/",
-       "summary": "A Miami gallery has become the new backer for the Queer|Art prize, which returns this weekend following a four year hiatus.",
-       "published": "2026-11-19T04:40:44Z",
-       "published_ts": 1795063244.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Naked Ambition: Danish Artist Brings Trump Statue to COP31 Protest",
-       "link": "https://ocula.com/magazine/art-news/jens-galschit-trump-statue-cop31-protest/",
-       "summary": "Jens Galschiøt and his team, dressed as polar bears, escorted the contentious gold‑leaf artwork through Anatalya on Saturday, amid the international climate conference.",
-       "published": "2026-11-17T23:05:46Z",
-       "published_ts": 1794956746.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "What Monsters Lurked in Marisa Merz’s Kitchen?",
-       "link": "https://ocula.com/magazine/opinion/marisa-merz-turin-cenentary-monsters-art-2026/",
-       "summary": "The only woman in the Arte Povera movement built wild creations from her own home. On the centenary of the artist’s birth, Zoe Guttenplan visits a major new retrospective of her enigmatic work in Turin.",
-       "published": "2026-11-17T18:00:00Z",
-       "published_ts": 1794938400.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": true,
-       "needs_translation": false
-      },
-      {
-       "title": "$180M Van Gogh Sale Will Go Ahead After Sotheby’s Settles Restitution Claim",
-       "link": "https://ocula.com/magazine/art-news/sothebys-180m-van-gogh-restitution-claim-settled/",
-       "summary": "The potentially record‑breaking Châtaigniers en Fleurs (1890) will go under the hammer in New York City tomorrow, following an agreement between the heirs of its the former owners and the Blaquier‑Arietta family.",
-       "published": "2026-11-17T02:34:40Z",
-       "published_ts": 1794882880.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Elvira Dyangani Ose on Leading the Public Art Abu Dhabi Biennial and Succeeding Koyo Kouoh",
-       "link": "https://ocula.com/magazine/art-news/elvira-dyangani-abu-dhabi-biennial-koyo-kouoh/",
-       "summary": "The curator discusses citizenry, cultural exchange and why every project is a negotiation.",
-       "published": "2026-11-17T00:50:00Z",
-       "published_ts": 1794876600.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": true,
        "needs_translation": false
       }
      ]
@@ -794,7 +794,7 @@
      "name": "Persbook Annual of Contemporary Art",
      "site": "https://persbookart.com/",
      "lang": "en",
-     "age_days": 710,
+     "age_days": 711,
      "item": {
       "title": "«من اینجا هستم»ِ تمرینی برای مرکز زدایی | مهدیار جمشیدی و الهام پوریامهر",
       "link": "https://persbookart.com/4015/mahdyarjamshidi/",
@@ -805,14 +805,14 @@
       "category": "Iranian Art",
       "mena": false,
       "needs_translation": true,
-      "age_days": 710
+      "age_days": 711
      }
     },
     {
      "name": "Iranian.com Arts & Culture",
      "site": "https://iranian.com/",
      "lang": "en",
-     "age_days": 1878,
+     "age_days": 1879,
      "item": {
       "title": "We’re back",
       "link": "https://iranian.com/2021/09/29/were-back/",
@@ -823,7 +823,7 @@
       "category": "Iranian Art",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1878
+      "age_days": 1879
      }
     }
    ],
@@ -966,7 +966,7 @@
      "name": "Barjeel Art Foundation",
      "site": "https://www.barjeelartfoundation.org/",
      "lang": "en",
-     "age_days": 255,
+     "age_days": 256,
      "item": {
       "title": "Palestinian Family",
       "link": "https://www.barjeelartfoundation.org/collection/palestinian-family/",
@@ -977,14 +977,14 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 255
+      "age_days": 256
      }
     },
     {
      "name": "Institut du Monde Arabe",
      "site": "https://www.imarabe.org/",
      "lang": "fr",
-     "age_days": 1033,
+     "age_days": 1034,
      "item": {
       "title": "Étienne Dinet, passions algériennes",
       "link": "https://www.imarabe.org/fr/agenda/expositions-musee/etienne-dinet-passions-algeriennes",
@@ -995,7 +995,7 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1033
+      "age_days": 1034
      }
     }
    ],
@@ -1135,7 +1135,7 @@
      "name": "Art Dubai",
      "site": "https://www.artdubai.ae/",
      "lang": "en",
-     "age_days": 2039,
+     "age_days": 2040,
      "item": {
       "title": "Art Dubai 2021 leads the way back to normality",
       "link": "https://www.artdubai.ae/art-dubai-2021-leads-the-way-back-to-normality/",
@@ -1146,7 +1146,7 @@
       "category": "Fairs & Events",
       "mena": true,
       "needs_translation": false,
-      "age_days": 2039
+      "age_days": 2040
      }
     }
    ],
@@ -1377,8 +1377,8 @@
    "source": "The Markaz Review",
    "category": "MENA Magazines",
    "url": "https://themarkaz.org/feed/",
-   "stage": "fetch",
-   "error": "HTTP 429 Too Many Requests"
+   "stage": "parse",
+   "error": "feed returned zero entries (SAXParseException: <unknown>:2:0: syntax error)"
   },
   {
    "source": "MOJEH",
@@ -1399,7 +1399,7 @@
    "category": "Iranian Art",
    "url": "https://persbookart.com/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 710 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 711 days old",
    "severity": "info"
   },
   {
@@ -1407,7 +1407,7 @@
    "category": "Iranian Art",
    "url": "https://iranian.com/feed/",
    "stage": "window",
-   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1878 days old",
+   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1879 days old",
    "severity": "info"
   },
   {
@@ -1415,7 +1415,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.imarabe.org/fr/rss.xml",
    "stage": "window",
-   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 1033 days old",
+   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 1034 days old",
    "severity": "info"
   },
   {
@@ -1423,7 +1423,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.barjeelartfoundation.org/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 255 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 256 days old",
    "severity": "info"
   },
   {
@@ -1431,7 +1431,7 @@
    "category": "Fairs & Events",
    "url": "https://www.artdubai.ae/feed/",
    "stage": "window",
-   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 2039 days old",
+   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 2040 days old",
    "severity": "info"
   }
  ],
