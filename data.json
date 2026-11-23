@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T13:09:26.170935Z",
+ "generated_at": "2026-11-23T15:46:36.585049Z",
  "window_days": 180,
  "max_items_per_feed": 8,
  "totals": {
@@ -20,8 +20,41 @@
      "site": "https://news.artnet.com/",
      "feed_url": "https://news.artnet.com/feed",
      "lang": "en",
-     "newest_ts": 1795296637.0,
+     "newest_ts": 1795448070.0,
      "items": [
+      {
+       "title": "Top Secret Trump Plans for Smithsonian Accidentally Revealed on D.C. Metro",
+       "link": "https://news.artnet.com/artnet-bulletin/dc-metro-smithsonian-plans-nov-23-2840542",
+       "summary": "Plus, Venice Biennale posts visitor numbers, a shiny, new London Museum opens, and other art world matters.",
+       "published": "2026-11-23T15:34:30Z",
+       "published_ts": 1795448070.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Frieze Abu Dhabi Sells Big, and Early",
+       "link": "https://news.artnet.com/multimedia/frieze-abu-dhabi-sells-big-and-early-2840039",
+       "summary": "Plus, surprises from New York's auctions and artists call for a boycott of Art Basel Miami Beach",
+       "published": "2026-11-23T08:58:08Z",
+       "published_ts": 1795424288.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "Who’s Going to Art Basel Hong Kong 2027? Here’s the Exhibitor Lineup",
+       "link": "https://news.artnet.com/market/2027-art-basel-hong-kong-exhibitor-list-2839786",
+       "summary": "The art fair's lineup is in, featuring 232 exhibitors from more than 40 countries, including 31 newcomers.",
+       "published": "2026-11-23T08:00:17Z",
+       "published_ts": 1795420817.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
       {
        "title": "Who Won New York’s $2.44 Billion Art Week?",
        "link": "https://news.artnet.com/market/who-won-new-yorks-2-44-billion-art-week-2823850",
@@ -76,36 +109,294 @@
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
-      },
+      }
+     ]
+    },
+    {
+     "name": "ArtNews",
+     "site": "https://www.artnews.com/",
+     "feed_url": "https://www.artnews.com/feed/",
+     "lang": "en",
+     "newest_ts": 1795443780.0,
+     "items": [
       {
-       "title": "A Beguiling Show About Rooms, Two Profiles of Art-Filled Houses, and More: It’s the Artnet Bulletin!",
-       "link": "https://news.artnet.com/artnet-bulletin/gregor-schneider-keith-mcnally-artnet-bulletin-2839156",
-       "summary": "Plus, Keith McNally went to Paris to see the Cézanne blockbuster. He ended up in the hospital.",
-       "published": "2026-11-20T05:07:27Z",
-       "published_ts": 1795151247.0,
-       "source": "Artnet News",
+       "title": "Controversial Venice Biennale Closes, Athens Police Seize 35 Forgeries, and More: Morning Links for November 23, 2026",
+       "link": "https://www.artnews.com/art-news/news/controversial-venice-biennale-closes-morning-links-1234807296/",
+       "summary": "Here's what we're reading this morning.",
+       "published": "2026-11-23T14:23:00Z",
+       "published_ts": 1795443780.0,
+       "source": "ArtNews",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "$33M Basquiat Leads Solid, Sluggish $146M Christie’s Contemporary Sale",
-       "link": "https://news.artnet.com/market/33m-basquiat-leads-solid-sluggish-145-9m-christies-contemporary-sale-2839324",
-       "summary": "Two esteemed collections anchored the affair. 'It was tepid but well managed,' one expert said.",
-       "published": "2026-11-20T04:00:12Z",
-       "published_ts": 1795147212.0,
-       "source": "Artnet News",
+       "title": "Hauser & Wirth Now Represents Ser Serpas, Fast-Rising Artist Who Combs the Detritus of Everyday Life",
+       "link": "https://www.artnews.com/art-news/market/ser-serpas-hauser-and-wirth-gallery-representation-1234807276/",
+       "summary": "She will have her first show at the gallery’s Paris space in January.",
+       "published": "2026-11-23T14:00:00Z",
+       "published_ts": 1795442400.0,
+       "source": "ArtNews",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Picasso, Kandinsky, and Baselitz Lead December Sales at Karl and Faber",
-       "link": "https://news.artnet.com/art-world/picasso-kandinsky-and-baselitz-lead-december-sales-at-karl-and-faber-2838149",
-       "summary": "The Modern, Post-War, and Contemporary Art sales are set to take place in Munich across December 3 and 4, reflecting the auction house’s expertise.",
-       "published": "2026-11-20T02:32:55Z",
-       "published_ts": 1795141975.0,
-       "source": "Artnet News",
+       "title": "Lucy Sante Talks About What Collage Enables That Writing Can’t",
+       "link": "https://www.artnews.com/art-in-america/columns/lucy-sante-interview-collage-1234806243/",
+       "summary": "She started making collages long before she established herself as a writer.",
+       "published": "2026-11-23T10:00:00Z",
+       "published_ts": 1795428000.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Art Basel Hong Kong Lines Up 232 Exhibitors and a New Floor Plan for Its 2027 Edition",
+       "link": "https://www.artnews.com/art-news/market/art-basel-hong-kong-2027-exhibitor-list-1234807256/",
+       "summary": "The fair will also feature 31 first-time exhibitors.",
+       "published": "2026-11-23T08:00:00Z",
+       "published_ts": 1795420800.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Carolina Herrera’s Wes Gordon and Oribe’s Daniel Kaner on Collecting as a Personal Passion and a Creative Practice",
+       "link": "https://www.artnews.com/art-news/news/wes-gordon-daniel-kaner-carolina-herrera-oribe-art-week-nyc-2026-1234806633/",
+       "summary": "Gordon and Kaner reveal how they've build their own collections, and what inspires their work in the fashion and beauty world.",
+       "published": "2026-11-22T14:00:00Z",
+       "published_ts": 1795356000.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Art Advisor Sophia Cohen on How the Next Generation of Collectors Is Approaching the Art Market",
+       "link": "https://www.artnews.com/art-news/news/sophia-cohen-siren-projects-art-week-nyc-1234807155/",
+       "summary": "Cohen, formerly of Gavin Brown's enterprise and Gagosian, launched Siren Projects in 2024.",
+       "published": "2026-11-21T14:00:00Z",
+       "published_ts": 1795269600.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Ireland’s Experiment in Paying Artists a Basic Income Is Working as Intended For Artists",
+       "link": "https://www.artnews.com/art-news/news/is-ireland-experiment-in-paying-artists-basic-income-working-1234806168/",
+       "summary": "While Ireland’s Basic Income for the Arts scheme was only made permanent in February, the pilot project ran for three years before.",
+       "published": "2026-11-21T13:19:00Z",
+       "published_ts": 1795267140.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Maren Hassinger Won’t Be Weighed Down",
+       "link": "https://www.artnews.com/art-in-america/aia-reviews/maren-hassinger-bampfa-retrospective-berkeley-1234806748/",
+       "summary": "Her retrospective at the Berkeley Art Museum and Pacific Film Archive (BAMPFA) highlights the artist's love of metal and motion.",
+       "published": "2026-11-21T10:00:00Z",
+       "published_ts": 1795255200.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "name": "The Art Newspaper",
+     "site": "https://www.theartnewspaper.com/",
+     "feed_url": "https://www.theartnewspaper.com/rss.xml",
+     "lang": "en",
+     "newest_ts": 1795438824.0,
+     "items": [
+      {
+       "title": "‘I want the experiences I had to be available forever’: arts figures and scientists hit out at proposed job cuts at Tasmanian Museum and Art Gallery",
+       "link": "https://www.theartnewspaper.com/2026/11/23/arts-figures-scientists-hit-out-at-proposed-job-cuts-tasmanian-museum-and-art-gallery",
+       "summary": "Scientists, a former Tasmanian premier and the director of Hobart’s Museum of Old and New Art have all expressed concerns over the state government’s proposals",
+       "published": "2026-11-23T13:00:24Z",
+       "published_ts": 1795438824.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "International photography museum Fotografiska opens in Shenzhen",
+       "link": "https://www.theartnewspaper.com/2026/11/23/international-photography-museum-fotografiska-opens-in-shenzhen",
+       "summary": "The second China venue for the global institution aims to tap into the city’s cultural ambitions",
+       "published": "2026-11-23T11:54:28Z",
+       "published_ts": 1795434868.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Abu Dhabi markets itself to global elites—can its public art biennial reach local communities?",
+       "link": "https://www.theartnewspaper.com/2026/11/23/abu-dhabi-markets-itself-to-global-elites-but-its-public-art-biennial-wants-to-reach-local-communities",
+       "summary": "The biennial's second edition, curated by Elvira Dyangani Ose, questions definitions of \"home\" and probes at difficult subjects",
+       "published": "2026-11-23T10:48:41Z",
+       "published_ts": 1795430921.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "Chile’s first Anglican church to host a new museum",
+       "link": "https://www.theartnewspaper.com/2026/11/23/chile-first-anglican-church-becomes-museum",
+       "summary": "As part of a 50-year lease agreement, Destino Valparaíso—which houses the Immigrant Museum across the street—will oversee the management and restoration of the historic cathedral",
+       "published": "2026-11-23T08:21:00Z",
+       "published_ts": 1795422060.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Flooding in southwestern US underlines risks of Trump administration’s reduction of Bears Ears National Monument",
+       "link": "https://www.theartnewspaper.com/2026/11/22/flooding-us-southwest-bears-ears-national-monument-trump-admin",
+       "summary": "Recent floods in the Four Corners region of the southwest posed relatively little immediate risk to archaeological sites, but exposed risks due to scaling back of protected areas",
+       "published": "2026-11-23T01:51:00Z",
+       "published_ts": 1795398660.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "First Frieze Abu Dhabi proves successful for the region's dealers, despite geopolitical jitters",
+       "link": "https://www.theartnewspaper.com/2026/11/21/first-frieze-abu-dhabi-blends-global-ambitions-with-local-flavours",
+       "summary": "Exhibitors and visitors praised Frieze's partnership with Abu Dhabi's culture department for its high quality",
+       "published": "2026-11-21T09:32:00Z",
+       "published_ts": 1795253520.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "Russian strikes damage historic buildings in Kyiv and Odesa, including World Heritage sites",
+       "link": "https://www.theartnewspaper.com/2026/11/20/russian-strikes-damage-heritage-sites-kyiv-odesa",
+       "summary": "The St Volodymyr’s Cathedral and the St Michael’s Golden-Domed Cathedral and Monastery in Kyiv are among the heritage buildings targeted in recent Russian attacks",
+       "published": "2026-11-20T22:06:36Z",
+       "published_ts": 1795212396.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Conservation of the ‘Sistine Chapel of the Andes’ nears completion",
+       "link": "https://www.theartnewspaper.com/2026/11/20/bolivia-church-sistine-chapel-andes-conservation-nearly-complete",
+       "summary": "Famous for its murals, the Bolivian church of Santiago de Curahuara de Carangas has undergone restoration work on its roofs, buttresses and walls",
+       "published": "2026-11-20T21:13:19Z",
+       "published_ts": 1795209199.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      }
+     ]
+    },
+    {
+     "name": "Hyperallergic",
+     "site": "https://hyperallergic.com/",
+     "feed_url": "https://hyperallergic.com/feed/",
+     "lang": "en",
+     "newest_ts": 1795431600.0,
+     "items": [
+      {
+       "title": "Miami Through the GTA VI Looking-Glass",
+       "link": "https://hyperallergic.com/miami-through-the-gta-vi-looking-glass/",
+       "summary": "A conversation with artists misael soto and Leo Castañeda, ANGA looks back on a year of activism at the Venice Biennale, and more.",
+       "published": "2026-11-23T11:00:00Z",
+       "published_ts": 1795431600.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Inside Edward Said’s World",
+       "link": "https://hyperallergic.com/inside-edward-saids-world/",
+       "summary": "A new film about the Palestinian thinker, reviewed by a former students of his, and when does a documentary become an art performance?",
+       "published": "2026-11-23T11:00:00Z",
+       "published_ts": 1795431600.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "Hail to the Squash King",
+       "link": "https://hyperallergic.com/hail-to-the-squash-king/",
+       "summary": "Hilma af Klint painting shatters records, new Edward Said documentary, the politics of pigment, and how should we memorialize the Trump era?",
+       "published": "2026-11-21T11:00:00Z",
+       "published_ts": 1795258800.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Is GTA VI the Art Miami Deserves?",
+       "link": "https://hyperallergic.com/is-gta-vi-the-art-miami-deserves/",
+       "summary": "Miami-based artists Leo Castañeda and misael soto join Hyperallergic in a conversation about the tensions of a game that portrays a changing city locked in time.",
+       "published": "2026-11-20T23:51:17Z",
+       "published_ts": 1795218677.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "A Sprawling Exhibition of Latin American Art and Fashion Is Coming to NYC",
+       "link": "https://hyperallergic.com/a-sprawling-exhibition-of-latin-american-art-and-fashion-is-coming-to-nyc/",
+       "summary": "Twenty artists and designers across the Americas will be featured in \"Malvestir\" at MoMA PS1 this spring, probing the historical and contemporary resonances of Latin American dress.",
+       "published": "2026-11-20T22:58:48Z",
+       "published_ts": 1795215528.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "In a Midtown Office, Artists Sift Through the Junkspace of Capitalism",
+       "link": "https://hyperallergic.com/in-a-midtown-office-artists-sift-through-the-junkspace-of-capitalism/",
+       "summary": "An intergenerational group of artists confronts technology as both a pathogen and a cure for today’s cultural ailments in the husk of an office at 260 Madison.",
+       "published": "2026-11-20T22:52:02Z",
+       "published_ts": 1795215122.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "The Venice Biennale's Sham Awards Cannot Artwash Genocide",
+       "link": "https://hyperallergic.com/the-venice-biennales-sham-awards-cannot-artwash-genocide/",
+       "summary": "This year’s historic actions demonstrated that Israel’s unspeakable assault on Palestine will not be ignored — and that the power of boycott has never been greater.",
+       "published": "2026-11-20T22:00:00Z",
+       "published_ts": 1795212000.0,
+       "source": "Hyperallergic",
+       "category": "News & Market",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "So You Want to Run an Artist’s Estate?",
+       "link": "https://hyperallergic.com/so-you-want-to-run-an-artists-estate/",
+       "summary": "A how-to guide on all things inventory, planning, appraisals, conservation, and more.",
+       "published": "2026-11-20T21:50:18Z",
+       "published_ts": 1795211418.0,
+       "source": "Hyperallergic",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
@@ -117,14 +408,25 @@
      "site": "https://ocula.com/magazine/",
      "feed_url": "https://ocula.com/magazine/feed/",
      "lang": "en",
-     "newest_ts": 1795284005.0,
+     "newest_ts": 1795370406.0,
      "items": [
+      {
+       "title": "The Poetry of Oriol Vilanova’s Postcards from the Past",
+       "link": "https://ocula.com/magazine/opinion/oriol-vilanovas-conciliazione5-postcards-rome-2026/",
+       "summary": "In an installation in the shadow of the Vatican City, Spanish artist Oriol Vilanova honours the ongoing allure of the postcard. Ana Vukadin sends greetings from Rome.",
+       "published": "2026-11-22T18:00:06Z",
+       "published_ts": 1795370406.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
       {
        "title": "Slavs and Tatars: ‘How Can We Commemorate Something, and Stab It in the Back?’",
        "link": "https://ocula.com/magazine/conversations/slavs-and-tatars-mouthfool-fenix-2026/",
-       "summary": "Slavs and Tatars’ co‑founder Payam Sharifi talks to Maja Renfer about the collective’s first 20 years.",
-       "published": "2026-11-21T18:00:05Z",
-       "published_ts": 1795284005.0,
+       "summary": "Slavs and Tatars’ co‑founder Payam Sharifi talks about the art of being both serious and silly, Yayoi Kusama, and the collective’s first 20 years.",
+       "published": "2026-11-21T18:00:00Z",
+       "published_ts": 1795284000.0,
        "source": "Ocula Magazine",
        "category": "News & Market",
        "mena": false,
@@ -195,308 +497,6 @@
        "category": "News & Market",
        "mena": true,
        "needs_translation": false
-      },
-      {
-       "title": "$180M Van Gogh Sale Will Go Ahead After Sotheby’s Settles Restitution Claim",
-       "link": "https://ocula.com/magazine/art-news/sothebys-180m-van-gogh-restitution-claim-settled/",
-       "summary": "The potentially record‑breaking Châtaigniers en Fleurs (1890) will go under the hammer in New York City tomorrow, following an agreement between the heirs of its the former owners and the Blaquier‑Arietta family.",
-       "published": "2026-11-17T02:34:40Z",
-       "published_ts": 1794882880.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
-     "name": "ArtNews",
-     "site": "https://www.artnews.com/",
-     "feed_url": "https://www.artnews.com/feed/",
-     "lang": "en",
-     "newest_ts": 1795269600.0,
-     "items": [
-      {
-       "title": "Art Advisor Sophia Cohen on How the Next Generation of Collectors Is Approaching the Art Market",
-       "link": "https://www.artnews.com/art-news/news/sophia-cohen-siren-projects-art-week-nyc-1234807155/",
-       "summary": "Cohen, formerly of Gavin Brown's enterprise and Gagosian, launched Siren Projects in 2024.",
-       "published": "2026-11-21T14:00:00Z",
-       "published_ts": 1795269600.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Ireland’s Experiment in Paying Artists a Basic Income Is Working as Intended For Artists",
-       "link": "https://www.artnews.com/art-news/news/is-ireland-experiment-in-paying-artists-basic-income-working-1234806168/",
-       "summary": "While Ireland’s Basic Income for the Arts scheme was only made permanent in February, the pilot project ran for three years before.",
-       "published": "2026-11-21T13:19:00Z",
-       "published_ts": 1795267140.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Maren Hassinger Won’t Be Weighed Down",
-       "link": "https://www.artnews.com/art-in-america/aia-reviews/maren-hassinger-bampfa-retrospective-berkeley-1234806748/",
-       "summary": "Her retrospective at the Berkeley Art Museum and Pacific Film Archive (BAMPFA) highlights the artist's love of metal and motion.",
-       "published": "2026-11-21T10:00:00Z",
-       "published_ts": 1795255200.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "The 16 Most Expensive Artworks Ever Sold at Auction",
-       "link": "https://www.artnews.com/list/art-news/market/most-expensive-artworks-ever-sold-at-auction-1234736898/",
-       "summary": "With each record-breaking sale, the bar gets set higher, the stakes get sharper, and the frenzy deepens.",
-       "published": "2026-11-20T22:00:00Z",
-       "published_ts": 1795212000.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "El Greco Masterpiece Gets Its Colors Back After More Than 400 Years",
-       "link": "https://www.artnews.com/art-news/news/el-greco-martyrdom-saint-maurice-restoration-1234807093/",
-       "summary": "“El Greco was the Jeff Koons or Damien Hirst of his day,” said Carmen Reviriego, founder of the Callia Foundation, which helped fund the restoration.",
-       "published": "2026-11-20T21:49:51Z",
-       "published_ts": 1795211391.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Grand Theft Auto VI ’s Vice City Pays Homage to the Bass, Among More Art Easter Eggs",
-       "link": "https://www.artnews.com/art-news/news/grand-theft-auto-vice-city-bass-museum-art-oregano-basel-1234807185/",
-       "summary": "The game even rendered a riff on 'Miami Mountain', a tower of boulders by Ugo Rondinone installed outside the Bass.",
-       "published": "2026-11-20T21:12:22Z",
-       "published_ts": 1795209142.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Judge Allows Lawsuit Over Allegedly Stolen Fra Angelico to Move Forward",
-       "link": "https://www.artnews.com/art-news/news/bic-heirs-fra-angelico-lawsuit-feigen-estate-ruling-1234807135/",
-       "summary": "The ruling is good news for the Bich heirs, though there's still a long way to go. The judge hasn't decided who owns the painting, or even whether it was stolen.",
-       "published": "2026-11-20T21:03:44Z",
-       "published_ts": 1795208624.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "How do Artworks Acquire Value? New York Art Dealers David Nolan and Anton Svyatsky Weigh In.",
-       "link": "https://www.artnews.com/art-news/news/david-nolan-anton-svyatsky-art-week-nyc-2026-1234806643/",
-       "summary": "An art world veteran and a relative newcomer offer their perspectives on the role of the art collector in today's market.",
-       "published": "2026-11-20T21:00:00Z",
-       "published_ts": 1795208400.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
-     "name": "Hyperallergic",
-     "site": "https://hyperallergic.com/",
-     "feed_url": "https://hyperallergic.com/feed/",
-     "lang": "en",
-     "newest_ts": 1795258800.0,
-     "items": [
-      {
-       "title": "Hail to the Squash King",
-       "link": "https://hyperallergic.com/hail-to-the-squash-king/",
-       "summary": "Hilma af Klint painting shatters records, new Edward Said documentary, the politics of pigment, and how should we memorialize the Trump era?",
-       "published": "2026-11-21T11:00:00Z",
-       "published_ts": 1795258800.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Is GTA VI the Art Miami Deserves?",
-       "link": "https://hyperallergic.com/is-gta-vi-the-art-miami-deserves/",
-       "summary": "Miami-based artists Leo Castañeda and misael soto join Hyperallergic in a conversation about the tensions of a game that portrays a changing city locked in time.",
-       "published": "2026-11-20T23:51:17Z",
-       "published_ts": 1795218677.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "A Sprawling Exhibition of Latin American Art and Fashion Is Coming to NYC",
-       "link": "https://hyperallergic.com/a-sprawling-exhibition-of-latin-american-art-and-fashion-is-coming-to-nyc/",
-       "summary": "Twenty artists and designers across the Americas will be featured in \"Malvestir\" at MoMA PS1 this spring, probing the historical and contemporary resonances of Latin American dress.",
-       "published": "2026-11-20T22:58:48Z",
-       "published_ts": 1795215528.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "In a Midtown Office, Artists Sift Through the Junkspace of Capitalism",
-       "link": "https://hyperallergic.com/in-a-midtown-office-artists-sift-through-the-junkspace-of-capitalism/",
-       "summary": "An intergenerational group of artists confronts technology as both a pathogen and a cure for today’s cultural ailments in the husk of an office at 260 Madison.",
-       "published": "2026-11-20T22:52:02Z",
-       "published_ts": 1795215122.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "The Venice Biennale's Sham Awards Cannot Artwash Genocide",
-       "link": "https://hyperallergic.com/the-venice-biennales-sham-awards-cannot-artwash-genocide/",
-       "summary": "This year’s historic actions demonstrated that Israel’s unspeakable assault on Palestine will not be ignored — and that the power of boycott has never been greater.",
-       "published": "2026-11-20T22:00:00Z",
-       "published_ts": 1795212000.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": true,
-       "needs_translation": false
-      },
-      {
-       "title": "So You Want to Run an Artist’s Estate?",
-       "link": "https://hyperallergic.com/so-you-want-to-run-an-artists-estate/",
-       "summary": "A how-to guide on all things inventory, planning, appraisals, conservation, and more.",
-       "published": "2026-11-20T21:50:18Z",
-       "published_ts": 1795211418.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Threading the Names of Alabama’s Black Belt History",
-       "link": "https://hyperallergic.com/threading-the-names-of-alabamas-black-belt-history/",
-       "summary": "In a community center across from Mt. Willing Baptist Church, a group of women is sewing the legacies of enslaved people into their quilts.",
-       "published": "2026-11-20T21:47:05Z",
-       "published_ts": 1795211225.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "The Real Miami Museums and Artists Behind GTA VI’s Vice City",
-       "link": "https://hyperallergic.com/the-real-miami-museums-and-artists-behind-gta-vis-vice-city/",
-       "summary": "From The Bass in Miami Beach to the murals of Wynwood, the long-awaited Grand Theft Auto VI is heavily inspired by the local arts scene.",
-       "published": "2026-11-20T19:42:28Z",
-       "published_ts": 1795203748.0,
-       "source": "Hyperallergic",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
-     "name": "The Art Newspaper",
-     "site": "https://www.theartnewspaper.com/",
-     "feed_url": "https://www.theartnewspaper.com/rss.xml",
-     "lang": "en",
-     "newest_ts": 1795212396.0,
-     "items": [
-      {
-       "title": "Russian strikes damage historic buildings in Kyiv and Odesa, including World Heritage sites",
-       "link": "https://www.theartnewspaper.com/2026/11/20/russian-strikes-damage-heritage-sites-kyiv-odesa",
-       "summary": "The St Volodymyr’s Cathedral and the St Michael’s Golden-Domed Cathedral and Monastery in Kyiv are among the heritage buildings targeted in recent Russian attacks",
-       "published": "2026-11-20T22:06:36Z",
-       "published_ts": 1795212396.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Conservation of the ‘Sistine Chapel of the Andes’ nears completion",
-       "link": "https://www.theartnewspaper.com/2026/11/20/bolivia-church-sistine-chapel-andes-conservation-nearly-complete",
-       "summary": "Famous for its murals, the Bolivian church of Santiago de Curahuara de Carangas has undergone restoration work on its roofs, buttresses and walls",
-       "published": "2026-11-20T21:13:19Z",
-       "published_ts": 1795209199.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "National Gallery of Canada receives major gift of modern and contemporary glass art",
-       "link": "https://www.theartnewspaper.com/2026/11/20/national-gallery-canada-glass-art-gift-endowment-bronfman-family",
-       "summary": "A promised donation of 56 glass works from the Bronfman family, accompanied by an endowment for a new curatorial position, marks a significant expansion of the museum’s decorative arts holdings",
-       "published": "2026-11-20T17:00:00Z",
-       "published_ts": 1795194000.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Working mothers face widespread discrimination in London’s commercial art world, report finds",
-       "link": "https://www.theartnewspaper.com/2026/11/20/working-mothers-face-widespread-discrimination-in-londons-commercial-art-world",
-       "summary": "First-of-its-kind study on motherhood and discrimination reveals the career setbacks and breaches of employment law experienced by working mothers in the UK capital",
-       "published": "2026-11-20T13:48:14Z",
-       "published_ts": 1795182494.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Van Eyck’s genius, New York auctions, Cosimo de Medici’s wine cooler—podcast",
-       "link": "https://www.theartnewspaper.com/2026/11/20/van-eycks-genius-new-york-auctions-cosimo-de-medicis-wine-coolerpodcast",
-       "summary": "In this week's episode, Ben Luke tours a National Gallery show of Jan van Eyck's portraits, speaks with art market columnist Melanie Gerlis on the New York November auctions, and learns about a Renaissance wine cooler made for the Medicis on view at the Wallace Collection in London",
-       "published": "2026-11-20T12:54:15Z",
-       "published_ts": 1795179255.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Finding, acquiring and showing off: how rich buyers use social media to build art collections",
-       "link": "https://www.theartnewspaper.com/2026/11/20/discovery-acquisitions-and-showing-off-how-rich-buyers-use-social-media-to-build-art-collections",
-       "summary": "The Art Basel & UBS Survey of Global Collecting 2026 reports that 13% of wealthy collectors discovered art collecting through online channels or social media",
-       "published": "2026-11-20T12:52:26Z",
-       "published_ts": 1795179146.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Van Gogh’s record-breaking ‘Blossoming Chestnut Trees’: the $190m sale and the restitution claim that nearly upended it",
-       "link": "https://www.theartnewspaper.com/2026/11/20/deeper-look-van-goghs-record-breaking-blossoming-chestnut-trees-190m-sale-restitution-claim",
-       "summary": "The Nazi-era claim, resolved just hours before the Sotheby’s New York sale, appeared to have little impact on the final price",
-       "published": "2026-11-20T11:56:50Z",
-       "published_ts": 1795175810.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Five Ethiopian artefacts restituted in London ceremony",
-       "link": "https://www.theartnewspaper.com/2026/11/20/five-ethiopian-artefacts-restituted-in-london-ceremony",
-       "summary": "The move is part of a novel arrangement involving the Toledo Museum of Art, Ethiopian authorities and the American collector Robert McCarthy that might result in more than 100 objects ultimately being returned",
-       "published": "2026-11-20T11:24:15Z",
-       "published_ts": 1795173855.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
       }
      ]
     }
@@ -521,6 +521,103 @@
    "name": "MENA Magazines",
    "item_count": 20,
    "sources": [
+    {
+     "name": "Selections Arts",
+     "site": "https://selectionsarts.com/",
+     "feed_url": "https://selectionsarts.com/feed/",
+     "lang": "en",
+     "newest_ts": 1795431062.0,
+     "items": [
+      {
+       "title": "Serwan Baran: 36th Parallel – The Human Cost of a Divided Land",
+       "link": "https://selectionsarts.com/serwan-baran-36th-parallel-the-human-cost-of-a-divided-land/?utm_source=rss&utm_medium=rss&utm_campaign=serwan-baran-36th-parallel-the-human-cost-of-a-divided-land",
+       "summary": "A soldier stands before us, but there is little of the triumph usually associated with the military figure. In Serwan Baran‘s paintings, uniforms and gestures of authority rarely hold their expected power. Bodies appear burdened by the histories they carry,…",
+       "published": "2026-11-23T10:51:02Z",
+       "published_ts": 1795431062.0,
+       "source": "Selections Arts",
+       "category": "MENA Magazines",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "The Insider’s Brief: N°727 | 19 November – 25 November 2026",
+       "link": "https://selectionsarts.com/the-insiders-brief-n727-19-november-25-november-2026/?utm_source=rss&utm_medium=rss&utm_campaign=the-insiders-brief-n727-19-november-25-november-2026",
+       "summary": "LEBANON In Beirut, exhibitions often find their way into the present through unexpected routes. Some return to the past, searching for the stories that have shaped the country; others turn towards the intimacy of everyday life, finding meaning in details…",
+       "published": "2026-11-20T11:47:26Z",
+       "published_ts": 1795175246.0,
+       "source": "Selections Arts",
+       "category": "MENA Magazines",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "The Window in Alserkal: Digital Art Beyond the Screen",
+       "link": "https://selectionsarts.com/the-window-in-alserkal-digital-art-beyond-the-screen/?utm_source=rss&utm_medium=rss&utm_campaign=the-window-in-alserkal-digital-art-beyond-the-screen",
+       "summary": "Artificial intelligence learns from the images we leave behind. What happens when artists ask it to revisit the histories, identities and ideas those images contain? At Dubai’s Alserkal Avenue, eight artists explore that question through works that range from synthetic…",
+       "published": "2026-11-16T14:22:08Z",
+       "published_ts": 1794838928.0,
+       "source": "Selections Arts",
+       "category": "MENA Magazines",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "The Insider’s Brief: N°726 | 12 November – 18 November 2026",
+       "link": "https://selectionsarts.com/the-insiders-brief-n726-12-november-18-november-2026/?utm_source=rss&utm_medium=rss&utm_campaign=the-insiders-brief-n726-12-november-18-november-2026",
+       "summary": "LEBANON A new crop of exhibitions considers Lebanon’s overlapping crises through the physical infrastructure of everyday life, from subterranean fault lines to rooftop water tanks. At Beit Beirut, French-Lebanese photographer and installation artist Catherine Cattaruzza presents I Am Folding the…",
+       "published": "2026-11-14T11:30:02Z",
+       "published_ts": 1794655802.0,
+       "source": "Selections Arts",
+       "category": "MENA Magazines",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "The Insider’s Brief: N°725 | 6 November – 13 November 2026",
+       "link": "https://selectionsarts.com/the-insiders-brief-n725-6-november-13-november-2026/?utm_source=rss&utm_medium=rss&utm_campaign=the-insiders-brief-n725-6-november-13-november-2026",
+       "summary": "LEBANON Beirut’s autumn season probes transformation, from fluid paint to the afterlife of discarded objects. Across the city’s galleries and cultural spaces, memory, architecture, material experimentation and collective experience become starting points for distinct artistic approaches, each offering a different…",
+       "published": "2026-11-09T10:20:48Z",
+       "published_ts": 1794219648.0,
+       "source": "Selections Arts",
+       "category": "MENA Magazines",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "Témoins du Vent (Wind Witnesses) at Galerie Nadine Fattouh",
+       "link": "https://selectionsarts.com/temoins-du-vent-wind-witnesses-at-galerie-nadine-fattouh/?utm_source=rss&utm_medium=rss&utm_campaign=temoins-du-vent-wind-witnesses-at-galerie-nadine-fattouh",
+       "summary": "Laila Muraywid, I Haven´t Told My Garden Yet That Birds Are Not Coming Home, 2021, pastel 50x65cm, Photo credit Jean Louis Losi In a city defined by dense concrete and monumental history, looking up to catch a flock of wild…",
+       "published": "2026-09-22T19:22:28Z",
+       "published_ts": 1790104948.0,
+       "source": "Selections Arts",
+       "category": "MENA Magazines",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "The Insider’s Brief: N°724 | 15 August – 27 August 2026",
+       "link": "https://selectionsarts.com/the-insiders-brief-n724-15-august-27-august-2026/?utm_source=rss&utm_medium=rss&utm_campaign=the-insiders-brief-n724-15-august-27-august-2026",
+       "summary": "LEBANON After eight years, Khalil Rabah returns to Lebanon with a two-part solo exhibition Some Other Things Ruled It (27 August – 30 December, 2026) at Sfeir Semler Gallery’s Karantina and Downtown spaces. The Karantina presentation revisits and expands Transition,…",
+       "published": "2026-08-27T07:38:06Z",
+       "published_ts": 1787816286.0,
+       "source": "Selections Arts",
+       "category": "MENA Magazines",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "The Insider’s Brief: N°723 | 7 August – 14 August 2026",
+       "link": "https://selectionsarts.com/he-insiders-brief-n723-7-august-14-august-2026/?utm_source=rss&utm_medium=rss&utm_campaign=he-insiders-brief-n723-7-august-14-august-2026",
+       "summary": "LEBANON A few more days left to see the archival display at Sursock Museum, The Butterflies and Bumblebees of Middle East Airlines (until 22 August 2026), tracing the history of the Middle East Airlines (MEA) folkloric dance troupe. Presented as part…",
+       "published": "2026-08-13T07:03:10Z",
+       "published_ts": 1786604590.0,
+       "source": "Selections Arts",
+       "category": "MENA Magazines",
+       "mena": true,
+       "needs_translation": false
+      }
+     ]
+    },
     {
      "name": "Canvas",
      "site": "https://canvasonline.com/",
@@ -619,103 +716,6 @@
      ]
     },
     {
-     "name": "Selections Arts",
-     "site": "https://selectionsarts.com/",
-     "feed_url": "https://selectionsarts.com/feed/",
-     "lang": "en",
-     "newest_ts": 1795175246.0,
-     "items": [
-      {
-       "title": "The Insider’s Brief: N°727 | 19 November – 25 November 2026",
-       "link": "https://selectionsarts.com/the-insiders-brief-n727-19-november-25-november-2026/?utm_source=rss&utm_medium=rss&utm_campaign=the-insiders-brief-n727-19-november-25-november-2026",
-       "summary": "LEBANON In Beirut, exhibitions often find their way into the present through unexpected routes. Some return to the past, searching for the stories that have shaped the country; others turn towards the intimacy of everyday life, finding meaning in details…",
-       "published": "2026-11-20T11:47:26Z",
-       "published_ts": 1795175246.0,
-       "source": "Selections Arts",
-       "category": "MENA Magazines",
-       "mena": true,
-       "needs_translation": false
-      },
-      {
-       "title": "The Window in Alserkal: Digital Art Beyond the Screen",
-       "link": "https://selectionsarts.com/the-window-in-alserkal-digital-art-beyond-the-screen/?utm_source=rss&utm_medium=rss&utm_campaign=the-window-in-alserkal-digital-art-beyond-the-screen",
-       "summary": "Artificial intelligence learns from the images we leave behind. What happens when artists ask it to revisit the histories, identities and ideas those images contain? At Dubai’s Alserkal Avenue, eight artists explore that question through works that range from synthetic…",
-       "published": "2026-11-16T14:22:08Z",
-       "published_ts": 1794838928.0,
-       "source": "Selections Arts",
-       "category": "MENA Magazines",
-       "mena": true,
-       "needs_translation": false
-      },
-      {
-       "title": "The Insider’s Brief: N°726 | 12 November – 18 November 2026",
-       "link": "https://selectionsarts.com/the-insiders-brief-n726-12-november-18-november-2026/?utm_source=rss&utm_medium=rss&utm_campaign=the-insiders-brief-n726-12-november-18-november-2026",
-       "summary": "LEBANON A new crop of exhibitions considers Lebanon’s overlapping crises through the physical infrastructure of everyday life, from subterranean fault lines to rooftop water tanks. At Beit Beirut, French-Lebanese photographer and installation artist Catherine Cattaruzza presents I Am Folding the…",
-       "published": "2026-11-14T11:30:02Z",
-       "published_ts": 1794655802.0,
-       "source": "Selections Arts",
-       "category": "MENA Magazines",
-       "mena": true,
-       "needs_translation": false
-      },
-      {
-       "title": "The Insider’s Brief: N°725 | 6 November – 13 November 2026",
-       "link": "https://selectionsarts.com/the-insiders-brief-n725-6-november-13-november-2026/?utm_source=rss&utm_medium=rss&utm_campaign=the-insiders-brief-n725-6-november-13-november-2026",
-       "summary": "LEBANON Beirut’s autumn season probes transformation, from fluid paint to the afterlife of discarded objects. Across the city’s galleries and cultural spaces, memory, architecture, material experimentation and collective experience become starting points for distinct artistic approaches, each offering a different…",
-       "published": "2026-11-09T10:20:48Z",
-       "published_ts": 1794219648.0,
-       "source": "Selections Arts",
-       "category": "MENA Magazines",
-       "mena": true,
-       "needs_translation": false
-      },
-      {
-       "title": "Témoins du Vent (Wind Witnesses) at Galerie Nadine Fattouh",
-       "link": "https://selectionsarts.com/temoins-du-vent-wind-witnesses-at-galerie-nadine-fattouh/?utm_source=rss&utm_medium=rss&utm_campaign=temoins-du-vent-wind-witnesses-at-galerie-nadine-fattouh",
-       "summary": "Laila Muraywid, I Haven´t Told My Garden Yet That Birds Are Not Coming Home, 2021, pastel 50x65cm, Photo credit Jean Louis Losi In a city defined by dense concrete and monumental history, looking up to catch a flock of wild…",
-       "published": "2026-09-22T19:22:28Z",
-       "published_ts": 1790104948.0,
-       "source": "Selections Arts",
-       "category": "MENA Magazines",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "The Insider’s Brief: N°724 | 15 August – 27 August 2026",
-       "link": "https://selectionsarts.com/the-insiders-brief-n724-15-august-27-august-2026/?utm_source=rss&utm_medium=rss&utm_campaign=the-insiders-brief-n724-15-august-27-august-2026",
-       "summary": "LEBANON After eight years, Khalil Rabah returns to Lebanon with a two-part solo exhibition Some Other Things Ruled It (27 August – 30 December, 2026) at Sfeir Semler Gallery’s Karantina and Downtown spaces. The Karantina presentation revisits and expands Transition,…",
-       "published": "2026-08-27T07:38:06Z",
-       "published_ts": 1787816286.0,
-       "source": "Selections Arts",
-       "category": "MENA Magazines",
-       "mena": true,
-       "needs_translation": false
-      },
-      {
-       "title": "The Insider’s Brief: N°723 | 7 August – 14 August 2026",
-       "link": "https://selectionsarts.com/he-insiders-brief-n723-7-august-14-august-2026/?utm_source=rss&utm_medium=rss&utm_campaign=he-insiders-brief-n723-7-august-14-august-2026",
-       "summary": "LEBANON A few more days left to see the archival display at Sursock Museum, The Butterflies and Bumblebees of Middle East Airlines (until 22 August 2026), tracing the history of the Middle East Airlines (MEA) folkloric dance troupe. Presented as part…",
-       "published": "2026-08-13T07:03:10Z",
-       "published_ts": 1786604590.0,
-       "source": "Selections Arts",
-       "category": "MENA Magazines",
-       "mena": true,
-       "needs_translation": false
-      },
-      {
-       "title": "The Insider’s Brief: N°722 | 31 July – 6 August 2026",
-       "link": "https://selectionsarts.com/the-insiders-brief-n722-31-july-6-august-2026/?utm_source=rss&utm_medium=rss&utm_campaign=the-insiders-brief-n722-31-july-6-august-2026",
-       "summary": "UNITED ARAB EMIRATES Sharjah Art Foundation has announced its summer and autumn 2026 programme, bringing together exhibitions, photography, performance, film and publishing initiatives across its cultural spaces. A highlight of the season is Vantage Point 13, (8 August – 29…",
-       "published": "2026-08-06T09:36:54Z",
-       "published_ts": 1786009014.0,
-       "source": "Selections Arts",
-       "category": "MENA Magazines",
-       "mena": true,
-       "needs_translation": false
-      }
-     ]
-    },
-    {
      "name": "Something Curated",
      "site": "https://somethingcurated.com/",
      "feed_url": "https://somethingcurated.com/feed/",
@@ -794,7 +794,7 @@
      "name": "Persbook Annual of Contemporary Art",
      "site": "https://persbookart.com/",
      "lang": "en",
-     "age_days": 711,
+     "age_days": 712,
      "item": {
       "title": "«من اینجا هستم»ِ تمرینی برای مرکز زدایی | مهدیار جمشیدی و الهام پوریامهر",
       "link": "https://persbookart.com/4015/mahdyarjamshidi/",
@@ -805,14 +805,14 @@
       "category": "Iranian Art",
       "mena": false,
       "needs_translation": true,
-      "age_days": 711
+      "age_days": 712
      }
     },
     {
      "name": "Iranian.com Arts & Culture",
      "site": "https://iranian.com/",
      "lang": "en",
-     "age_days": 1879,
+     "age_days": 1880,
      "item": {
       "title": "We’re back",
       "link": "https://iranian.com/2021/09/29/were-back/",
@@ -823,7 +823,7 @@
       "category": "Iranian Art",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1879
+      "age_days": 1880
      }
     }
    ],
@@ -966,7 +966,7 @@
      "name": "Barjeel Art Foundation",
      "site": "https://www.barjeelartfoundation.org/",
      "lang": "en",
-     "age_days": 256,
+     "age_days": 257,
      "item": {
       "title": "Palestinian Family",
       "link": "https://www.barjeelartfoundation.org/collection/palestinian-family/",
@@ -977,14 +977,14 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 256
+      "age_days": 257
      }
     },
     {
      "name": "Institut du Monde Arabe",
      "site": "https://www.imarabe.org/",
      "lang": "fr",
-     "age_days": 1034,
+     "age_days": 1035,
      "item": {
       "title": "Étienne Dinet, passions algériennes",
       "link": "https://www.imarabe.org/fr/agenda/expositions-musee/etienne-dinet-passions-algeriennes",
@@ -995,7 +995,7 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1034
+      "age_days": 1035
      }
     }
    ],
@@ -1135,7 +1135,7 @@
      "name": "Art Dubai",
      "site": "https://www.artdubai.ae/",
      "lang": "en",
-     "age_days": 2040,
+     "age_days": 2041,
      "item": {
       "title": "Art Dubai 2021 leads the way back to normality",
       "link": "https://www.artdubai.ae/art-dubai-2021-leads-the-way-back-to-normality/",
@@ -1146,7 +1146,7 @@
       "category": "Fairs & Events",
       "mena": true,
       "needs_translation": false,
-      "age_days": 2040
+      "age_days": 2041
      }
     }
    ],
@@ -1399,7 +1399,7 @@
    "category": "Iranian Art",
    "url": "https://persbookart.com/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 711 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 712 days old",
    "severity": "info"
   },
   {
@@ -1407,7 +1407,7 @@
    "category": "Iranian Art",
    "url": "https://iranian.com/feed/",
    "stage": "window",
-   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1879 days old",
+   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1880 days old",
    "severity": "info"
   },
   {
@@ -1415,7 +1415,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.imarabe.org/fr/rss.xml",
    "stage": "window",
-   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 1034 days old",
+   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 1035 days old",
    "severity": "info"
   },
   {
@@ -1423,7 +1423,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.barjeelartfoundation.org/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 256 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 257 days old",
    "severity": "info"
   },
   {
@@ -1431,7 +1431,7 @@
    "category": "Fairs & Events",
    "url": "https://www.artdubai.ae/feed/",
    "stage": "window",
-   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 2040 days old",
+   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 2041 days old",
    "severity": "info"
   }
  ],
