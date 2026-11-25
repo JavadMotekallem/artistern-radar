@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-24T15:38:32.975296Z",
+ "generated_at": "2026-11-25T15:22:42.901370Z",
  "window_days": 180,
  "max_items_per_feed": 8,
  "totals": {
   "feeds_configured": 21,
   "feeds_with_items": 12,
-  "feeds_failed": 4,
-  "feeds_quiet": 5,
+  "feeds_failed": 5,
+  "feeds_quiet": 4,
   "manual_sources": 42,
   "items": 66
  },
@@ -20,94 +20,94 @@
      "site": "https://www.artnews.com/",
      "feed_url": "https://www.artnews.com/feed/",
      "lang": "en",
-     "newest_ts": 1795534428.0,
+     "newest_ts": 1795619246.0,
      "items": [
       {
-       "title": "A Minimalist, a Maximalist, and 30 Years of Friendship",
-       "link": "https://www.artnews.com/art-in-america/interviews/sarah-lucas-cerith-wyn-evans-gladstone-1234807421/",
-       "summary": "Sarah Lucas and Cerith Wyn Evans on their new two-person show, creative community, and why they’ve never been strategic about art.",
-       "published": "2026-11-24T15:33:48Z",
-       "published_ts": 1795534428.0,
+       "title": "Christie’s Adds UK Auction House Dreweatts to Its Portfolio",
+       "link": "https://www.artnews.com/art-news/market/christies-adds-uk-auction-house-dreweatts-to-portfolio-1234807665/",
+       "summary": "In September 2024, Christie's acquired American classic car auction house, Gooding & Company.",
+       "published": "2026-11-25T15:07:26Z",
+       "published_ts": 1795619246.0,
        "source": "ArtNews",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "South African Artist Tamlin Blake Found Dead, Germany to Restitute Archive of Nazi-Persecuted Jehovah’s Witnesses to Family, and More: Morning Links for November 24, 2026",
-       "link": "https://www.artnews.com/art-news/news/south-african-artist-and-curator-tamlin-blake-found-dead-1234807445/",
+       "title": "Former Sotheby’s Vice President Michael Bouhanna Launches Miami-Based Art Advisory",
+       "link": "https://www.artnews.com/art-news/market/sothebys-michael-bouhanna-launches-art-advisory-miami-1234807645/",
+       "summary": "Bouhanna Art Advisory will be focusing on modern and contemporary art based out of Miami.",
+       "published": "2026-11-25T15:04:00Z",
+       "published_ts": 1795619040.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Nick Cave, Indian Pavilion Honored in 2026 Venice Biennale Awards, Smithsonian Secretary Responds to Leaked Plans, Marianne Boesky to Open Paris Gallery, and More: Morning Links for November 25, 2026",
+       "link": "https://www.artnews.com/art-news/news/nick-cave-indian-pavilion-honored-venice-biennale-awards-1234807652/",
        "summary": "Here's what we're reading this morning.",
-       "published": "2026-11-24T14:30:33Z",
-       "published_ts": 1795530633.0,
+       "published": "2026-11-25T13:16:00Z",
+       "published_ts": 1795612560.0,
        "source": "ArtNews",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Frieze Los Angeles Lines Up 102 Exhibitors for 2027 Edition",
-       "link": "https://www.artnews.com/art-news/market/frieze-los-angeles-2027-exhibitor-list-1234807432/",
-       "summary": "The upcoming fair will run February 25–28 at the Santa Monica Airport.",
-       "published": "2026-11-24T14:00:00Z",
-       "published_ts": 1795528800.0,
+       "title": "Venice Biennale Awards Selected by Public Vote Go to Nick Cave, Indian Pavilion",
+       "link": "https://www.artnews.com/art-news/news/venice-biennale-2026-visitors-lions-nick-cave-india-1234807541/",
+       "summary": "Dozens of artists in the main exhibition and national pavilions said they didn't want the award.",
+       "published": "2026-11-25T11:38:08Z",
+       "published_ts": 1795606688.0,
        "source": "ArtNews",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "A New Museum in Georgia’s Wine Country Shows Another Side of the Country’s Art History",
-       "link": "https://www.artnews.com/art-news/news/kvareli-foundation-for-contemporary-art-georgia-opening-1234807297/",
-       "summary": "The Kvareli Foundation for Contemporary Art opens with a survey of unofficial Georgian art amid an ongoing government crackdown on civil society.",
-       "published": "2026-11-24T12:26:01Z",
-       "published_ts": 1795523161.0,
+       "title": "Thelma Golden To Step Down From Role as Director of Studio Museum in Harlem",
+       "link": "https://www.artnews.com/art-news/artists/thelma-golden-to-step-down-director-studio-museum-in-harlem-1234807621/",
+       "summary": "The announcement coincides with Golden's 20th anniversary in the role, which she assumed in 2006, and just one year after the museum reopened in a new, purpose-built building after a seven year closure.",
+       "published": "2026-11-24T21:52:47Z",
+       "published_ts": 1795557167.0,
        "source": "ArtNews",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Since 2020, the Canon Has Grown Bigger Than Ever Before. Will Museums and the Market Continue to Listen?",
-       "link": "https://www.artnews.com/art-news/news/2020s-expanding-canon-art-week-nyc-1234807332/",
-       "summary": "Experts gathered during Art Week NYC to discuss the art world since 2020.",
-       "published": "2026-11-23T21:19:24Z",
-       "published_ts": 1795468764.0,
+       "title": "Military History Museum in Dresden Agrees to Return Contested Nazi-Era Family Archive to Jehovah’s Witnesses",
+       "link": "https://www.artnews.com/art-news/news/jehovahs-witnesses-military-history-museum-dresden-family-archive-nazi-era-1234807616/",
+       "summary": "Annemarie Kusserow was one of 11 children from a family of Jehovah's Witnesses that faced persecution during World War II.",
+       "published": "2026-11-24T21:20:01Z",
+       "published_ts": 1795555201.0,
        "source": "ArtNews",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Faurschou Ends Its Public Exhibition Program as Its New York Space Heads for Demolition",
-       "link": "https://www.artnews.com/art-news/news/faurschou-foundation-ends-shows-sells-new-york-building-1234807321/",
-       "summary": "After four decades, Faurschou's public shows are over.",
-       "published": "2026-11-23T20:10:42Z",
-       "published_ts": 1795464642.0,
+       "title": "Bukhara Biennial Unveils ‘The Long Welcome’ Theme and Names First Artists",
+       "link": "https://www.artnews.com/art-news/news/bukhara-biennial-theme-first-artists-1234807593/",
+       "summary": "The exhibition is scheduled for September 3 through November 21.",
+       "published": "2026-11-24T21:15:46Z",
+       "published_ts": 1795554946.0,
        "source": "ArtNews",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Lynette Yiadom-Boakye and Anne Imhof Make Vogue’s 2026 Best-Dressed List",
-       "link": "https://www.artnews.com/art-news/news/lynette-yiadom-boakye-anne-imhof-vogue-best-dressed-list-1234807360/",
-       "summary": "The list also included dancer Devon Teuscher and architect Sumayya Vally.",
-       "published": "2026-11-23T20:08:13Z",
-       "published_ts": 1795464493.0,
+       "title": "Iraq’s Museums Are Finally Opening Their Doors Again",
+       "link": "https://www.artnews.com/art-news/news/iraq-museums-reopen-national-museum-1234807536/",
+       "summary": "In Baghdad alone, the National Museum, the Abbasid Palace, and the Shamash Museum are slowly opening up to the world.",
+       "published": "2026-11-24T18:59:27Z",
+       "published_ts": 1795546767.0,
        "source": "ArtNews",
        "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "13th-Century Carving Stolen by Art Thief ‘Eric the Belgian’ Recovered in the UK",
-       "link": "https://www.artnews.com/art-news/news/13th-century-carving-stolen-art-thief-eric-the-belgian-recovered-uk-1234807344/",
-       "summary": "The so-called \"gentleman thief\" was known for robbing churches and monasteries in rural Spain in the 1970s and '80s.",
-       "published": "2026-11-23T19:08:45Z",
-       "published_ts": 1795460925.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
+       "mena": true,
        "needs_translation": false
       }
      ]
@@ -117,94 +117,94 @@
      "site": "https://news.artnet.com/",
      "feed_url": "https://news.artnet.com/feed",
      "lang": "en",
-     "newest_ts": 1795528829.0,
+     "newest_ts": 1795614172.0,
      "items": [
       {
-       "title": "Who’s In, Who’s Out, Who’s New? Frieze L.A. Reveals Its 2027 Exhibitor List",
-       "link": "https://news.artnet.com/market/frieze-los-angeles-2027-exhibitors-2840743",
-       "summary": "The fair's eighth edition will welcome 102 galleries, 29 of them newcomers.",
-       "published": "2026-11-24T14:00:29Z",
-       "published_ts": 1795528829.0,
+       "title": "Christie’s Adds Historic Auction House to Its Stable",
+       "link": "https://news.artnet.com/artnet-bulletin/christies-dreweatts-nov-25-2841561",
+       "summary": "Plus, a Beatles attraction gets the green light, 30 Lalannes hit the auction block, and other art world matters.",
+       "published": "2026-11-25T13:42:52Z",
+       "published_ts": 1795614172.0,
        "source": "Artnet News",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "That Time John Berger Was in ‘Grand Theft Auto’",
-       "link": "https://news.artnet.com/artnet-bulletin/john-berger-grand-theft-auto-nov-24-2840937",
-       "summary": "Plus, a fact-check of Yoshitomo Nara's eye-popping attendance stats and a peep at the new James Turrell.",
-       "published": "2026-11-24T08:00:04Z",
-       "published_ts": 1795507204.0,
+       "title": "A Velázquez Feast Will Land in Rome Next Year",
+       "link": "https://news.artnet.com/art-world/velazquez-palazzo-barberini-rome-show-2841586",
+       "summary": "The Palazzo Barberini will assemble more than 30 works by the Spanish grandmaster.",
+       "published": "2026-11-25T12:00:10Z",
+       "published_ts": 1795608010.0,
        "source": "Artnet News",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Nan Goldin’s London Show Is a Beautiful, Brutal Reckoning With Loss",
-       "link": "https://news.artnet.com/art-world/nan-goldin-hayward-gallery-2840855",
-       "summary": "The photographer's Hayward Gallery outing offers velvet-lined film chambers and raw images of mortality.",
-       "published": "2026-11-23T22:06:39Z",
-       "published_ts": 1795471599.0,
+       "title": "Nick Cave and India Win the Venice Biennale Visitors’ Awards",
+       "link": "https://news.artnet.com/art-world/nick-cave-and-india-venice-biennale-visitors-awards-2841808",
+       "summary": "The controversial people's choice award was introduced this year after the jury for the prestigious Golden and Silver Lion awards resigned en masse.",
+       "published": "2026-11-25T11:39:54Z",
+       "published_ts": 1795606794.0,
        "source": "Artnet News",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "A $32M De Kooning Heads to Miami",
-       "link": "https://news.artnet.com/market/de-kooning-painting-art-basel-miami-2840916",
-       "summary": "Lévy Gorvy Dayan targets Art Basel-bound collectors with a 1970s rarity.",
-       "published": "2026-11-23T22:04:27Z",
-       "published_ts": 1795471467.0,
+       "title": "Feel the Heat! 8 Must-See Shows in Miami During Art Week",
+       "link": "https://news.artnet.com/art-world/miami-shows-to-see-2026-2835257",
+       "summary": "Art Basel isn't the only show in town. Here are the museum exhibitions worth leaving the fairs for.",
+       "published": "2026-11-25T08:06:24Z",
+       "published_ts": 1795593984.0,
        "source": "Artnet News",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "What to See at Art Miami, Context, and Aqua This Year",
-       "link": "https://news.artnet.com/art-world/art-miami-context-aqua-2839619",
-       "summary": "Shepard Fairey receives a lifetime award, Lucy Sparrow opens a felt laundromat, and Aqua celebrates two decades this December.",
-       "published": "2026-11-23T21:56:23Z",
-       "published_ts": 1795470983.0,
+       "title": "Trailblazing Museum Director Thelma Golden Is Leaving Her Post",
+       "link": "https://news.artnet.com/art-world/thelma-golden-steps-down-studio-museum-2841588",
+       "summary": "A transformative force in American art, she is stepping down after 21 years at the helm.",
+       "published": "2026-11-24T22:23:41Z",
+       "published_ts": 1795559021.0,
        "source": "Artnet News",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Surviving an 8-Hour Matthew Barney Screening, Sotheby’s Pulls Alleged Fake, and More Juicy Art-World Gossip",
-       "link": "https://news.artnet.com/market/matthew-barney-sothebys-nov-23-wet-paint-2840419",
-       "summary": "Plus, Marc Hundley shows his vast T-shirt project at White Columns, the New Museum's resto launches 'ambassador' program, and more.",
-       "published": "2026-11-23T16:30:50Z",
-       "published_ts": 1795451450.0,
+       "title": "Miami’s Newest Art Fair Is Betting That Less Is More",
+       "link": "https://news.artnet.com/art-world/inscope-miami-beach-2839704",
+       "summary": "InScope capped its roster for the inaugural edition, betting on the idea that close looking trumps crowds.",
+       "published": "2026-11-24T22:00:07Z",
+       "published_ts": 1795557607.0,
        "source": "Artnet News",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Top Secret Trump Plans for Smithsonian Accidentally Revealed on D.C. Metro",
-       "link": "https://news.artnet.com/artnet-bulletin/dc-metro-smithsonian-plans-nov-23-2840542",
-       "summary": "Plus, Venice Biennale posts visitor numbers, a shiny, new London Museum opens, and other art world matters.",
-       "published": "2026-11-23T15:34:30Z",
-       "published_ts": 1795448070.0,
+       "title": "Long-Lost Max Oppenheimer Painting Just Sold for a Record $3.91M",
+       "link": "https://news.artnet.com/market/work-of-the-week-max-oppenheimer-auction-record-2841289",
+       "summary": "The work set a new auction high for the Viennese painter.",
+       "published": "2026-11-24T20:24:10Z",
+       "published_ts": 1795551850.0,
        "source": "Artnet News",
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
       },
       {
-       "title": "Frieze Abu Dhabi Sells Big, and Early",
-       "link": "https://news.artnet.com/multimedia/frieze-abu-dhabi-sells-big-and-early-2840039",
-       "summary": "Plus, surprises from New York's auctions and artists call for a boycott of Art Basel Miami Beach",
-       "published": "2026-11-23T08:58:08Z",
-       "published_ts": 1795424288.0,
+       "title": "Alexander Aizenshtat, a Painter of People and the Zeitgeist",
+       "link": "https://news.artnet.com/art-world/alexander-aizenshtat-rizzoli-2841295",
+       "summary": "A forthcoming book from Rizzoli delves into the life and work of the pioneering Russian-French artist.",
+       "published": "2026-11-24T18:53:06Z",
+       "published_ts": 1795546386.0,
        "source": "Artnet News",
        "category": "News & Market",
-       "mena": true,
+       "mena": false,
        "needs_translation": false
       }
      ]
@@ -214,91 +214,91 @@
      "site": "https://www.theartnewspaper.com/",
      "feed_url": "https://www.theartnewspaper.com/rss.xml",
      "lang": "en",
-     "newest_ts": 1795528800.0,
+     "newest_ts": 1795614134.0,
      "items": [
       {
+       "title": "Christie’s acquires British auction house Dreweatts",
+       "link": "https://www.theartnewspaper.com/2026/11/25/christies-acquires-british-auction-house-dreweatts",
+       "summary": "The buyout of the regional antique specialists comes as the auction business remains squeezed",
+       "published": "2026-11-25T13:42:14Z",
+       "published_ts": 1795614134.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "A brush with... Zanele Muholi—podcast",
+       "link": "https://www.theartnewspaper.com/2026/11/25/a-brush-with-zanele-muholipodcast",
+       "summary": "It’s our 150th episode and in this podcast, Zanele Muholi talks to Ben Luke about their influences—from writers to musicians, and, of course, other artists—and the cultural experiences that have shaped their life and work",
+       "published": "2026-11-25T13:06:52Z",
+       "published_ts": 1795612012.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Tate Liverpool to reopen with Surrealism survey after two-year delay",
+       "link": "https://www.theartnewspaper.com/2026/11/25/tate-liverpool-announces-reopening-following-two-year-delay",
+       "summary": "The autumn 2027 reopening will also include a retrospective of work by Chila Kumari Singh Burman and a major commission by Asad Raza",
+       "published": "2026-11-25T13:06:00Z",
+       "published_ts": 1795611960.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Mariana of Austria, royal art patron who saw power in portraiture, explored in Prado exhibition",
+       "link": "https://www.theartnewspaper.com/2026/11/25/mariana-of-austria-royal-art-patron-who-saw-power-in-portraiture-explored-in-prado-exhibition",
+       "summary": "The show takes a close look at story and influence of the monarch, who grasped the political potency of images",
+       "published": "2026-11-25T12:10:34Z",
+       "published_ts": 1795608634.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Thelma Golden will step down as leader of the Studio Museum in Harlem after 21 years",
+       "link": "https://www.theartnewspaper.com/2026/11/25/studio-museum-harlem-director-thelma-golden-to-step-down",
+       "summary": "The director and chief curator, who first worked at the institution as an undergrad intern, has raised its profile internationally, and oversaw a $322m campaign and major expansion",
+       "published": "2026-11-25T10:33:04Z",
+       "published_ts": 1795602784.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Grand Theft Auto VI takes over Miami, including its art destinations",
+       "link": "https://www.theartnewspaper.com/2026/11/24/grand-theft-auto-vi-takes-over-miami-art-institutions",
+       "summary": "Rockstar Games collaborated with the Wynwood Walls museum ahead of the blockbuster game's release, and has replicated (but renamed) the Pérez, Bass and Wolfsonian museums inside the game",
+       "published": "2026-11-24T22:32:29Z",
+       "published_ts": 1795559549.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Frida Kahlo-inspired health initiative and Ukrainian veterans exhibition among winners of prize celebrating innovative cultural projects",
+       "link": "https://www.theartnewspaper.com/2026/11/24/frida-kahlo-inspired-health-initiative-ukrainian-veterans-exhibition-among-winners-art-explora-awards",
+       "summary": "Five non-profit cultural organisations from across Europe have won the 2026 Art Explora awards, enjoying a share of €180,000 in total prize funds",
+       "published": "2026-11-24T20:30:00Z",
+       "published_ts": 1795552200.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
        "title": "Frieze Los Angeles reveals 102 exhibitors for 2027 edition",
-       "link": "https://www.theartnewspaper.com/2026/11/24/frieze-los-angeles-announces-102-exhibitors-for-2027-edition-amid-challenging-local-art-market",
+       "link": "https://www.theartnewspaper.com/2026/11/24/frieze-los-angeles-reveals-102-exhibitors-for-2027-edition",
        "summary": "The fair will welcome 22 first-time exhibitors, including four newer Los Angeles galleries, as the city's art scene continues to contend with closures amid a broader market slowdown",
        "published": "2026-11-24T14:00:00Z",
        "published_ts": 1795528800.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Munch museum appoints Thorsten Sadowsky as new director",
-       "link": "https://www.theartnewspaper.com/2026/11/24/munch-museum-appoints-thorsten-sadowsky-as-new-director",
-       "summary": "Sadowsky joins the Oslo institution from his position as director of Schleswig-Holstein State Museums Foundation Schloss Gottorf in northern Germany",
-       "published": "2026-11-24T13:15:12Z",
-       "published_ts": 1795526112.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Fatbergs, pigeons and Pankhurst: rebranded London Museum opens new £437m home",
-       "link": "https://www.theartnewspaper.com/2026/11/24/fatbergs-pigeons-and-pankhurst-rebranded-london-museum-opens-new-£437m-home",
-       "summary": "Previously known as the Museum of London and based at London Wall, the new museum displays 2,000 years of the capital's history",
-       "published": "2026-11-24T12:20:17Z",
-       "published_ts": 1795522817.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "UK government blocks export of 17th-century British landscape painting",
-       "link": "https://www.theartnewspaper.com/2026/11/24/uk-government-blocks-export-of-17th-century-british-landscape-painting",
-       "summary": "The painting from 1662 depicts the Llannerch Park country estate in northeast Wales, and is valued at £550,000",
-       "published": "2026-11-24T11:37:19Z",
-       "published_ts": 1795520239.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "From the margins to the mainstream: the growing market for illustration art",
-       "link": "https://www.theartnewspaper.com/2026/11/24/from-the-margins-to-the-mainstream-the-growing-market-for-illustration-art",
-       "summary": "Works by Norman Rockwell and his peers are winning collectors, museums and million-dollar auction prices",
-       "published": "2026-11-24T11:05:22Z",
-       "published_ts": 1795518322.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Exhibition celebrates Delftware, the Dutch art form that became the ‘Ikea of its day’",
-       "link": "https://www.theartnewspaper.com/2026/11/24/exhibition-celebrates-delftware-the-dutch-art-form-that-became-the-ikea-of-its-day",
-       "summary": "Show in The Hague looks at the craft, creativity and global influences behind the Netherlands’ best-known cultural export",
-       "published": "2026-11-24T10:39:09Z",
-       "published_ts": 1795516749.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "US affordable artists' housing initiatives hobbled by uneven regulation and oversight",
-       "link": "https://www.theartnewspaper.com/2026/11/24/affordable-artists-housing-initiatives-patchwork-regulation-oversight",
-       "summary": "Recent and ongoing projects in Colorado and California illustrate the challenges faced by well-meaning organisations",
-       "published": "2026-11-24T05:16:08Z",
-       "published_ts": 1795497368.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Efforts to save I.M. Pei’s Dallas City Hall likely headed to referendum",
-       "link": "https://www.theartnewspaper.com/2026/11/23/im-pei-dallas-city-hall-demolition-preservation-henry-moore-marta-pan",
-       "summary": "Local officials want to bulldoze Pei’s bold, inverted pyramid design and its surrounding plaza, which features sculptures by Henry Moore and Marta Pan",
-       "published": "2026-11-24T04:33:19Z",
-       "published_ts": 1795494799.0,
        "source": "The Art Newspaper",
        "category": "News & Market",
        "mena": false,
@@ -311,8 +311,41 @@
      "site": "https://ocula.com/magazine/",
      "feed_url": "https://ocula.com/magazine/feed/",
      "lang": "en",
-     "newest_ts": 1795479300.0,
+     "newest_ts": 1795568692.0,
      "items": [
+      {
+       "title": "Venice Biennale Reveals Winners of ‘Bizarre’ Visitors’ Lion Awards",
+       "link": "https://ocula.com/magazine/art-news/venice-biennale-winners-bizarre-visitors-lions/",
+       "summary": "Biennale organisers have named the national pavilion of India and the American sculptor Nick Cave as prizewinners, despite the resignation of the original prize jury and the withdrawal of more than half the eligible artists.",
+       "published": "2026-11-25T01:04:52Z",
+       "published_ts": 1795568692.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "The Conflicting Forces of Japan’s Changing Art Scene",
+       "link": "https://ocula.com/magazine/opinion/art-week-tokyo-november-2026/",
+       "summary": "Art Week Tokyo and Art Collaboration Kyoto reflect the popularity of Japanese art but, asks Shanyu Zhong, where are the politics?",
+       "published": "2026-11-24T23:37:39Z",
+       "published_ts": 1795563459.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Elmgreen & Dragset Unveil an Apocalyptic Oval Office",
+       "link": "https://ocula.com/magazine/art-news/elmgreen-and-dragset-oval-office-pace-trump/",
+       "summary": "Hot on the heels of President Trump declaring the Oval Office a “national monument”, the Scandi duo is exhibiting a bisected, weathered‑steel reinterpretation of the space in New York City.",
+       "published": "2026-11-24T03:05:00Z",
+       "published_ts": 1795489500.0,
+       "source": "Ocula Magazine",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
       {
        "title": "In Uncertain Times, What Is Art For?",
        "link": "https://ocula.com/magazine/opinion/natasha-lennard-review-uncertainty-2026/",
@@ -328,8 +361,8 @@
        "title": "Rhizome Plans Video Platform to Preserve Censored Digital Art",
        "link": "https://ocula.com/magazine/art-news/rhizome-censorship-shadowbans-digital-art-video/",
        "summary": "In the wake of content suppression and automated moderation, the digital art nonprofit has announced plans to open its internal video‑hosting site to artists and institutions.",
-       "published": "2026-11-23T22:14:16Z",
-       "published_ts": 1795472056.0,
+       "published": "2026-11-23T22:14:00Z",
+       "published_ts": 1795472040.0,
        "source": "Ocula Magazine",
        "category": "News & Market",
        "mena": false,
@@ -367,39 +400,6 @@
        "category": "News & Market",
        "mena": true,
        "needs_translation": false
-      },
-      {
-       "title": "All You Need to Know About New York’s $2.8bn Marquee Week Sales",
-       "link": "https://ocula.com/magazine/art-news/new-yorks-28bn-marquee-week-sales-roundup/",
-       "summary": "The most significant sales, lots and happenings from a high‑stakes week for the international art market.",
-       "published": "2026-11-20T00:26:00Z",
-       "published_ts": 1795134360.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Are Immersive Art Experiences Bad for Society?",
-       "link": "https://ocula.com/magazine/opinion/are-immersive-art-experiences-bad-for-society-2026/",
-       "summary": "Nathalie Olah considers whether immersive shows of blockbuster artists are actually a new phenomenon, and what they do to our experience of looking at art.",
-       "published": "2026-11-19T20:53:00Z",
-       "published_ts": 1795121580.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "‘Sending a Signal to the Queer Community’: $20,000 LGBTQ+ Art Prize Returns",
-       "link": "https://ocula.com/magazine/art-news/20000-lgbtq-art-prize-returns-miami/",
-       "summary": "A Miami gallery has become the new backer for the Queer|Art prize, which returns this weekend following a four year hiatus.",
-       "published": "2026-11-19T04:40:44Z",
-       "published_ts": 1795063244.0,
-       "source": "Ocula Magazine",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
       }
      ]
     }
@@ -429,8 +429,19 @@
      "site": "https://canvasonline.com/",
      "feed_url": "https://canvasonline.com/feed/",
      "lang": "en",
-     "newest_ts": 1795514687.0,
+     "newest_ts": 1795543675.0,
      "items": [
+      {
+       "title": "Bukhara Biennial 2027 Announces First Details",
+       "link": "https://canvasonline.com/bukhara-biennial-2027-announces-first-details/?utm_source=rss&utm_medium=rss&utm_campaign=bukhara-biennial-2027-announces-first-details",
+       "summary": "The Bukhara Biennial has announced the theme and the first round of confirmed artists for...",
+       "published": "2026-11-24T18:07:55Z",
+       "published_ts": 1795543675.0,
+       "source": "Canvas",
+       "category": "MENA Magazines",
+       "mena": false,
+       "needs_translation": false
+      },
       {
        "title": "Day and Night: Eman Al Hashemi at Iris Projects",
        "link": "https://canvasonline.com/day-and-night-eman-al-hashemi-at-iris-projects/?utm_source=rss&utm_medium=rss&utm_campaign=day-and-night-eman-al-hashemi-at-iris-projects",
@@ -503,17 +514,6 @@
        "summary": "Salah Elmur was an art student four or so decades ago when he came across...",
        "published": "2026-11-17T07:58:28Z",
        "published_ts": 1794902308.0,
-       "source": "Canvas",
-       "category": "MENA Magazines",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Dala Nasser + Nabila Abdel Nabi",
-       "link": "https://canvasonline.com/dala-nasser-nabila-abdel-nabi/?utm_source=rss&utm_medium=rss&utm_campaign=dala-nasser-nabila-abdel-nabi",
-       "summary": "Canvas: Nabila, what guided your curatorial direction for the award’s first iteration? Nabila Abdel Nabi:...",
-       "published": "2026-11-13T10:43:35Z",
-       "published_ts": 1794566615.0,
        "source": "Canvas",
        "category": "MENA Magazines",
        "mena": false,
@@ -694,28 +694,10 @@
    "sources": [],
    "quiet_sources": [
     {
-     "name": "Persbook Annual of Contemporary Art",
-     "site": "https://persbookart.com/",
-     "lang": "en",
-     "age_days": 713,
-     "item": {
-      "title": "«من اینجا هستم»ِ تمرینی برای مرکز زدایی | مهدیار جمشیدی و الهام پوریامهر",
-      "link": "https://persbookart.com/4015/mahdyarjamshidi/",
-      "summary": "گفتگوی سوم از سلسله نشست های سیزدهمین رویداد هنر معاصر پرسبوک: مهدیار جمشیدی و الهام پوریا مهر| «من اینجا هستم»ِ تمرینی برای مرکز زدایی| ساعت: ۱۹:۳۰| ۲۷ آبان ۱۴۰۳| گالری ایرانشهر، تهران | مهدیار جمشیدی، مدیر پنل و الهام پوریامهر کیوریتور پروژه (در گفتگوی اسکایپی) از دل‌مشغولی های تمرکز زدایی و مرکز گریزی در راستای…",
-      "published": "2024-12-10T19:11:44Z",
-      "published_ts": 1733857904.0,
-      "source": "Persbook Annual of Contemporary Art",
-      "category": "Iranian Art",
-      "mena": false,
-      "needs_translation": true,
-      "age_days": 713
-     }
-    },
-    {
      "name": "Iranian.com Arts & Culture",
      "site": "https://iranian.com/",
      "lang": "en",
-     "age_days": 1881,
+     "age_days": 1882,
      "item": {
       "title": "We’re back",
       "link": "https://iranian.com/2021/09/29/were-back/",
@@ -726,7 +708,7 @@
       "category": "Iranian Art",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1881
+      "age_days": 1882
      }
     }
    ],
@@ -869,7 +851,7 @@
      "name": "Barjeel Art Foundation",
      "site": "https://www.barjeelartfoundation.org/",
      "lang": "en",
-     "age_days": 258,
+     "age_days": 259,
      "item": {
       "title": "Palestinian Family",
       "link": "https://www.barjeelartfoundation.org/collection/palestinian-family/",
@@ -880,14 +862,14 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 258
+      "age_days": 259
      }
     },
     {
      "name": "Institut du Monde Arabe",
      "site": "https://www.imarabe.org/",
      "lang": "fr",
-     "age_days": 1036,
+     "age_days": 1037,
      "item": {
       "title": "Étienne Dinet, passions algériennes",
       "link": "https://www.imarabe.org/fr/agenda/expositions-musee/etienne-dinet-passions-algeriennes",
@@ -898,7 +880,7 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1036
+      "age_days": 1037
      }
     }
    ],
@@ -1038,7 +1020,7 @@
      "name": "Art Dubai",
      "site": "https://www.artdubai.ae/",
      "lang": "en",
-     "age_days": 2042,
+     "age_days": 2043,
      "item": {
       "title": "Art Dubai 2021 leads the way back to normality",
       "link": "https://www.artdubai.ae/art-dubai-2021-leads-the-way-back-to-normality/",
@@ -1049,7 +1031,7 @@
       "category": "Fairs & Events",
       "mena": true,
       "needs_translation": false,
-      "age_days": 2042
+      "age_days": 2043
      }
     }
    ],
@@ -1295,7 +1277,7 @@
    "category": "MENA Magazines",
    "url": "https://mojeh.com/feed/",
    "stage": "parse",
-   "error": "feed returned zero entries (SAXParseException: <unknown>:2:112: not well-formed (invalid token))"
+   "error": "feed returned zero entries (SAXParseException: <unknown>:2:0: syntax error)"
   },
   {
    "source": "Honar Online",
@@ -1308,16 +1290,15 @@
    "source": "Persbook Annual of Contemporary Art",
    "category": "Iranian Art",
    "url": "https://persbookart.com/feed/",
-   "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 713 days old",
-   "severity": "info"
+   "stage": "fetch",
+   "error": "timed out after 30s"
   },
   {
    "source": "Iranian.com Arts & Culture",
    "category": "Iranian Art",
    "url": "https://iranian.com/feed/",
    "stage": "window",
-   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1881 days old",
+   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1882 days old",
    "severity": "info"
   },
   {
@@ -1325,7 +1306,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.imarabe.org/fr/rss.xml",
    "stage": "window",
-   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 1036 days old",
+   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 1037 days old",
    "severity": "info"
   },
   {
@@ -1333,7 +1314,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.barjeelartfoundation.org/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 258 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 259 days old",
    "severity": "info"
   },
   {
@@ -1341,7 +1322,7 @@
    "category": "Fairs & Events",
    "url": "https://www.artdubai.ae/feed/",
    "stage": "window",
-   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 2042 days old",
+   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 2043 days old",
    "severity": "info"
   }
  ],
@@ -1415,7 +1396,7 @@
   {
    "source": "Persbook Annual of Contemporary Art",
    "category": "Iranian Art",
-   "fetched": 10,
+   "fetched": 0,
    "kept": 0
   },
   {
