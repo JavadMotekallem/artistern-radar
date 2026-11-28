@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-27T14:49:42.898743Z",
+ "generated_at": "2026-11-28T13:58:30.778827Z",
  "window_days": 180,
  "max_items_per_feed": 8,
  "totals": {
   "feeds_configured": 21,
   "feeds_with_items": 8,
-  "feeds_failed": 8,
-  "feeds_quiet": 5,
+  "feeds_failed": 9,
+  "feeds_quiet": 4,
   "manual_sources": 42,
   "items": 53
  },
@@ -20,8 +20,52 @@
      "site": "https://www.theartnewspaper.com/",
      "feed_url": "https://www.theartnewspaper.com/rss.xml",
      "lang": "en",
-     "newest_ts": 1795787417.0,
+     "newest_ts": 1795871121.0,
      "items": [
+      {
+       "title": "Vermeer expert casts doubt on authenticity of two paintings",
+       "link": "https://www.theartnewspaper.com/2026/11/28/vermeer-expert-casts-doubt-on-authenticity-of-two-paintings",
+       "summary": "A specialist on the Dutch Old Master claims that The Love Letter and The Glass of Wine are not by Vermeer",
+       "published": "2026-11-28T13:05:21Z",
+       "published_ts": 1795871121.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Ahead of Taiwan local elections, politicians crowd in at Art Taipei",
+       "link": "https://www.theartnewspaper.com/2026/11/27/ahead-of-taiwan-votes-politicians-crowd-in-at-art-taipei",
+       "summary": "127 galleries took part in the fair at Taipei World Trade Center",
+       "published": "2026-11-27T21:42:05Z",
+       "published_ts": 1795815725.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "After nearly two decades, the Old Acropolis Museum in Athens re-opens",
+       "link": "https://www.theartnewspaper.com/2026/11/27/after-nearly-two-decades-the-old-acropolis-museum-in-athens-re-opens",
+       "summary": "Greece's first modern museum presently hosts an installation by Michael Rakowitz unearthing a lesser-known episode in the Acropolis’s history",
+       "published": "2026-11-27T17:15:10Z",
+       "published_ts": 1795799710.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Argentina leads the way in repatriating Indigenous human remains, study says",
+       "link": "https://www.theartnewspaper.com/2026/11/27/argentina-leads-the-way-in-repatriating-indigenous-human-remains-study-says",
+       "summary": "New research shows strengths of a national policy—but experts say institutions must be more proactive",
+       "published": "2026-11-27T15:27:40Z",
+       "published_ts": 1795793260.0,
+       "source": "The Art Newspaper",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
       {
        "title": "Comment | Cop31 may have faltered but, as grassroots initiatives in the art world and beyond remind us‚ all is not lost",
        "link": "https://www.theartnewspaper.com/2026/11/27/green-new-black-cop31-national-emergency-briefing",
@@ -65,50 +109,6 @@
        "category": "News & Market",
        "mena": false,
        "needs_translation": false
-      },
-      {
-       "title": "Comment | The future of the ancient city of Palmyra should be determined by its local community",
-       "link": "https://www.theartnewspaper.com/2026/11/27/comment-the-future-of-palmyra-should-be-determined-by-local-community",
-       "summary": "How should the ancient Syrian city, destroyed by Isis militants, be restored? Start by asking the people who live there",
-       "published": "2026-11-27T13:20:53Z",
-       "published_ts": 1795785653.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": true,
-       "needs_translation": false
-      },
-      {
-       "title": "Nan Goldin, working mothers in the art world, new London Museum’s ancient axe head—podcast",
-       "link": "https://www.theartnewspaper.com/2026/11/27/nan-goldin-working-mothers-in-the-art-world-new-london-museums-ancient-axe-headpodcast",
-       "summary": "In this week's episode, Ben Luke speaks to the curator of a Nan Goldin exhibition at London's Hayward Gallery, contributing editor Anny Shaw speaks to the authors of a new report on working mothers in the art world and digital editor Alexander Morrison visits the collection of the revamped London Museum",
-       "published": "2026-11-27T12:23:46Z",
-       "published_ts": 1795782226.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "The astonishing, untold story of Marie-Anne “Baby” de Goldschmidt-Rothschild, who smuggled a Van Gogh painting and the artist's letters out of Nazi Europe",
-       "link": "https://www.theartnewspaper.com/2026/11/27/marie-anne-baby-de-goldschmidt-rothschild-smuggled-van-gogh-painting-artists-letters-out-of-nazi-europe",
-       "summary": "She bought Van Gogh's Arlésienne portrait in 1914 at just 22 years old",
-       "published": "2026-11-27T11:47:19Z",
-       "published_ts": 1795780039.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Hoor Al Qasimi to curate Venice Biennale in 2028",
-       "link": "https://www.theartnewspaper.com/2026/11/26/emirati-curator-hoor-al-qasimi-to-lead-venice-biennale-in-2028",
-       "summary": "The director of the Sharjah Art Foundation and the Sharjah Biennial has been appointed the curator of the 62nd International Art Exhibition",
-       "published": "2026-11-26T13:24:18Z",
-       "published_ts": 1795699458.0,
-       "source": "The Art Newspaper",
-       "category": "News & Market",
-       "mena": true,
-       "needs_translation": false
       }
      ]
     },
@@ -117,91 +117,91 @@
      "site": "https://www.artnews.com/",
      "feed_url": "https://www.artnews.com/feed/",
      "lang": "en",
-     "newest_ts": 1795773600.0,
+     "newest_ts": 1795860000.0,
      "items": [
+      {
+       "title": "The Met’s Orientalism Exhibition Puts Edward Said on Display—and His Critique Aside",
+       "link": "https://www.artnews.com/art-in-america/aia-reviews/met-orientalism-edward-said-osman-hamdi-bey-jean-leon-gerome-1234808013/",
+       "summary": "Far from confronting the ideological premises of Orientalist representation, the exhibition seems to render them newly respectable.",
+       "published": "2026-11-28T10:00:00Z",
+       "published_ts": 1795860000.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": true,
+       "needs_translation": false
+      },
+      {
+       "title": "Keira Knightley’s Emerald-Green ‘Atonement’ Gown Heads to Christie’s",
+       "link": "https://www.artnews.com/art-news/market/keira-knightley-green-atonement-gown-christies-1234808139/",
+       "summary": "The \"Atonement\" gown will be auctioned live at Christie's in London on December 9, where it is estimated to fetch between $130,940 an $157,125.",
+       "published": "2026-11-27T23:42:27Z",
+       "published_ts": 1795822947.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Hoor Al Qasimi Named Curator of 2028 Venice Biennale, Report Details Limited Damage to Bayeux Tapestry Following Transport to the British Museum, and More: Morning Links for November 27, 2026",
+       "link": "https://www.artnews.com/art-news/news/breakfast-with-artnews-morning-links-for-november-27-2026-1234808138/",
+       "summary": "Here's what we're reading this morning.",
+       "published": "2026-11-27T18:46:52Z",
+       "published_ts": 1795805212.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Russia Is Erasing Memories of the Gulag and Reframing Stalin’s History",
+       "link": "https://www.artnews.com/art-news/news/russia-erasing-memories-gulag-and-reframing-stalin-history-1234808113/",
+       "summary": "Since 2022, at least 26 memorials dedicated to Gulag victims have disappeared.",
+       "published": "2026-11-27T18:35:57Z",
+       "published_ts": 1795804557.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "German Museum Transforms Permanent Collection Galleries into Gym to Attract Youth",
+       "link": "https://www.artnews.com/art-news/news/german-museum-transforms-collection-galleries-into-gym-1234808112/",
+       "summary": "\"Gym. Fit with Art\" unfolds in galleries at Düsseldorf's Kunstpalast museum displaying historic and contemporary art.",
+       "published": "2026-11-27T18:23:54Z",
+       "published_ts": 1795803834.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Final Report Details Minor, But Visible Damage to the Bayeux Tapestry Following Trip to the British Museum",
+       "link": "https://www.artnews.com/art-news/news/report-details-minor-damage-bayeux-tapestry-following-journey-1234808106/",
+       "summary": "Experts reportedly stated that the overall condition of the nearly 1000-year-old tapestry remained “satisfactory,” but noted “two zones of fiber breakage,” among other issues.",
+       "published": "2026-11-27T16:21:49Z",
+       "published_ts": 1795796509.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Rachel Whiteread Has Designed the 2027 Brit Awards Trophy",
+       "link": "https://www.artnews.com/art-news/news/rachel-whiteread-designed-2027-brit-awards-trophy-1234808097/",
+       "summary": "The artist was the first woman to win the Turner Prize in 1993.",
+       "published": "2026-11-27T15:33:46Z",
+       "published_ts": 1795793626.0,
+       "source": "ArtNews",
+       "category": "News & Market",
+       "mena": true,
+       "needs_translation": false
+      },
       {
        "title": "Carroll Dunham Calls His Filthy Formalism “Abstraction with a Hard-On”",
        "link": "https://www.artnews.com/art-in-america/features/carroll-dunham-ica-miami-laurie-simmons-1234807999/",
        "summary": "Ahead of his Miami retrospective, the artist and his allies help a skeptic understand his work.",
        "published": "2026-11-27T10:00:00Z",
        "published_ts": 1795773600.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Batima Zaurbekova’s Textiles Meld Traditional Kazakh Techniques with Modernist Influences, Defying Easy Categorization",
-       "link": "https://www.artnews.com/art-news/artists/batima-zaurbekova-retrospective-almaty-kazakhstan-1234807853/",
-       "summary": "The 80-year-old artist is the subject of a major retrospective at the Abylkhan Kasteyev National Museum of Arts.",
-       "published": "2026-11-27T10:00:00Z",
-       "published_ts": 1795773600.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Rare Marie Antoinette ‘Breast Bowl’ Hammers for $2.47 M. in Paris, Surpassing Top Estimate",
-       "link": "https://www.artnews.com/art-news/market/marie-antoinette-breast-bowl-hammers-past-estimate-rare-1234808074/",
-       "summary": "The rare “nipple bowl” is one of four such bowls that was made for the French queen’s \"pleasure dairy\" near the Château de Versailles.",
-       "published": "2026-11-26T18:28:25Z",
-       "published_ts": 1795717705.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Lisa Marei Schmidt Appointed Director of Kunstmuseum Bern and Zentrum Paul Klee",
-       "link": "https://www.artnews.com/art-news/news/lisa-schmidt-director-kunstmuseum-bern-zentrum-paul-klee-1234808049/",
-       "summary": "She will start at her new post on August 1, 2027.",
-       "published": "2026-11-26T15:46:45Z",
-       "published_ts": 1795708005.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "At the Broad, Six Decades of Art Question the Myth of Progress",
-       "link": "https://www.artnews.com/art-news/news/has-the-myth-been-shattered-exhibition-the-broad-la-1234807846/",
-       "summary": "From Andy Warhol’s silkscreens of police brutality to Guadalupe Rosales’s mirrored newspaper, a new exhibition examines the injustices that America has struggled to leave behind.",
-       "published": "2026-11-26T15:30:00Z",
-       "published_ts": 1795707000.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Kevin Love’s Miami Home Features Work by Antony Gormley, Rashid Johnson, Ed Ruscha and Richard Prince",
-       "link": "https://www.artnews.com/art-news/news/kevin-love-miami-home-artworks-rashid-johnson-ed-ruscha-1234808032/",
-       "summary": "The the five-time NBA All-Star opened up about collecting and his friendships with artists Jonas Wood and Rashid Johnson.",
-       "published": "2026-11-26T14:47:22Z",
-       "published_ts": 1795704442.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Hoor Al Qasimi Named Curator of 2028 Venice Biennale",
-       "link": "https://www.artnews.com/art-news/news/hoor-al-qasimi-named-curator-2028-venice-biennale-1234808028/",
-       "summary": "The Venice Biennale will run from April 8 to November 26, 2028.",
-       "published": "2026-11-26T11:34:06Z",
-       "published_ts": 1795692846.0,
-       "source": "ArtNews",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Smithsonian Head Assures Staff of Independence After Glimpse of White House Overhaul Plan",
-       "link": "https://www.artnews.com/art-news/news/lonnie-bunch-smithsonian-staff-letter-white-house-overhaul-1234807831/",
-       "summary": "A Trump aide was photographed holding a document titled \"Smithsonian Institution Renewal Plan.\"",
-       "published": "2026-11-25T20:44:50Z",
-       "published_ts": 1795639490.0,
        "source": "ArtNews",
        "category": "News & Market",
        "mena": false,
@@ -214,8 +214,30 @@
      "site": "https://news.artnet.com/",
      "feed_url": "https://news.artnet.com/feed",
      "lang": "en",
-     "newest_ts": 1795766459.0,
+     "newest_ts": 1795796940.0,
      "items": [
+      {
+       "title": "V&A Staff Secure Better Pay and Working Conditions Following Strike Action",
+       "link": "https://news.artnet.com/market/va-staff-secure-better-pay-and-working-conditions-following-strike-action-2842701",
+       "summary": "Plus, European museums make major leadership appointments, a high-profile German collector has died, and more industry intel.",
+       "published": "2026-11-27T16:29:00Z",
+       "published_ts": 1795796940.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
+      {
+       "title": "Julio Torres Reimagines the Stone Age for the Tech Age",
+       "link": "https://news.artnet.com/art-world/julio-torres-sam-doubek-cavetech-artyard-2841461",
+       "summary": "Torres and sculptor Sam Doubek have imagined prehistoric tech gadgets to probe modern power dynamics.",
+       "published": "2026-11-27T15:51:04Z",
+       "published_ts": 1795794664.0,
+       "source": "Artnet News",
+       "category": "News & Market",
+       "mena": false,
+       "needs_translation": false
+      },
       {
        "title": "Are Friedrich Kunath’s Luscious Landscapes Sincere or Ironic? Yes!",
        "link": "https://news.artnet.com/art-world/friedrich-kunath-ica-miami-2842251",
@@ -277,28 +299,6 @@
        "summary": "The artist is making her U.S. debut at the hot spot restaurant The Mexican, where 10 site specific works will complement a menu designed to echo their themes.",
        "published": "2026-11-25T19:22:58Z",
        "published_ts": 1795634578.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Estimates Need a Reset, and Other Takeaways From New York’s Auction Week",
-       "link": "https://news.artnet.com/art-world/new-york-auction-week-recap-2841932",
-       "summary": "Plus, what's behind the headline lots and is de Kooning's market cooling? Auction veteran Jussi Pylkkänen weighs in.",
-       "published": "2026-11-25T17:46:29Z",
-       "published_ts": 1795628789.0,
-       "source": "Artnet News",
-       "category": "News & Market",
-       "mena": false,
-       "needs_translation": false
-      },
-      {
-       "title": "Brussels’s New $252M Art Museum Is Finally Ready for Its Close-Up",
-       "link": "https://news.artnet.com/art-world/kanal-centre-pompidou-brussels-2841591",
-       "summary": "After 12 years in the making, Kanal, the city's first contemporary and modern art museum, opens this weekend.",
-       "published": "2026-11-25T16:44:46Z",
-       "published_ts": 1795625086.0,
        "source": "Artnet News",
        "category": "News & Market",
        "mena": false,
@@ -597,28 +597,10 @@
    "sources": [],
    "quiet_sources": [
     {
-     "name": "Persbook Annual of Contemporary Art",
-     "site": "https://persbookart.com/",
-     "lang": "en",
-     "age_days": 716,
-     "item": {
-      "title": "«من اینجا هستم»ِ تمرینی برای مرکز زدایی | مهدیار جمشیدی و الهام پوریامهر",
-      "link": "https://persbookart.com/4015/mahdyarjamshidi/",
-      "summary": "گفتگوی سوم از سلسله نشست های سیزدهمین رویداد هنر معاصر پرسبوک: مهدیار جمشیدی و الهام پوریا مهر| «من اینجا هستم»ِ تمرینی برای مرکز زدایی| ساعت: ۱۹:۳۰| ۲۷ آبان ۱۴۰۳| گالری ایرانشهر، تهران | مهدیار جمشیدی، مدیر پنل و الهام پوریامهر کیوریتور پروژه (در گفتگوی اسکایپی) از دل‌مشغولی های تمرکز زدایی و مرکز گریزی در راستای…",
-      "published": "2024-12-10T19:11:44Z",
-      "published_ts": 1733857904.0,
-      "source": "Persbook Annual of Contemporary Art",
-      "category": "Iranian Art",
-      "mena": false,
-      "needs_translation": true,
-      "age_days": 716
-     }
-    },
-    {
      "name": "Iranian.com Arts & Culture",
      "site": "https://iranian.com/",
      "lang": "en",
-     "age_days": 1884,
+     "age_days": 1885,
      "item": {
       "title": "We’re back",
       "link": "https://iranian.com/2021/09/29/were-back/",
@@ -629,7 +611,7 @@
       "category": "Iranian Art",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1884
+      "age_days": 1885
      }
     }
    ],
@@ -752,7 +734,7 @@
      "name": "Barjeel Art Foundation",
      "site": "https://www.barjeelartfoundation.org/",
      "lang": "en",
-     "age_days": 261,
+     "age_days": 262,
      "item": {
       "title": "Palestinian Family",
       "link": "https://www.barjeelartfoundation.org/collection/palestinian-family/",
@@ -763,14 +745,14 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 261
+      "age_days": 262
      }
     },
     {
      "name": "Institut du Monde Arabe",
      "site": "https://www.imarabe.org/",
      "lang": "fr",
-     "age_days": 1039,
+     "age_days": 1040,
      "item": {
       "title": "Étienne Dinet, passions algériennes",
       "link": "https://www.imarabe.org/fr/agenda/expositions-musee/etienne-dinet-passions-algeriennes",
@@ -781,7 +763,7 @@
       "category": "Museums & Institutions",
       "mena": true,
       "needs_translation": false,
-      "age_days": 1039
+      "age_days": 1040
      }
     }
    ],
@@ -921,7 +903,7 @@
      "name": "Art Dubai",
      "site": "https://www.artdubai.ae/",
      "lang": "en",
-     "age_days": 2045,
+     "age_days": 2046,
      "item": {
       "title": "Art Dubai 2021 leads the way back to normality",
       "link": "https://www.artdubai.ae/art-dubai-2021-leads-the-way-back-to-normality/",
@@ -932,7 +914,7 @@
       "category": "Fairs & Events",
       "mena": true,
       "needs_translation": false,
-      "age_days": 2045
+      "age_days": 2046
      }
     }
    ],
@@ -1135,16 +1117,15 @@
    "source": "Persbook Annual of Contemporary Art",
    "category": "Iranian Art",
    "url": "https://persbookart.com/feed/",
-   "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 716 days old",
-   "severity": "info"
+   "stage": "parse",
+   "error": "feed returned zero entries (SAXParseException: <unknown>:2:10: not well-formed (invalid token))"
   },
   {
    "source": "Iranian.com Arts & Culture",
    "category": "Iranian Art",
    "url": "https://iranian.com/feed/",
    "stage": "window",
-   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1884 days old",
+   "error": "feed OK (15 entries) but nothing published in the last 180 days; newest is 1885 days old",
    "severity": "info"
   },
   {
@@ -1159,7 +1140,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.imarabe.org/fr/rss.xml",
    "stage": "window",
-   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 1039 days old",
+   "error": "feed OK (3 entries) but nothing published in the last 180 days; newest is 1040 days old",
    "severity": "info"
   },
   {
@@ -1167,7 +1148,7 @@
    "category": "Museums & Institutions",
    "url": "https://www.barjeelartfoundation.org/feed/",
    "stage": "window",
-   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 261 days old",
+   "error": "feed OK (10 entries) but nothing published in the last 180 days; newest is 262 days old",
    "severity": "info"
   },
   {
@@ -1175,7 +1156,7 @@
    "category": "Fairs & Events",
    "url": "https://www.artdubai.ae/feed/",
    "stage": "window",
-   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 2045 days old",
+   "error": "feed OK (1 entries) but nothing published in the last 180 days; newest is 2046 days old",
    "severity": "info"
   },
   {
@@ -1190,7 +1171,7 @@
    "category": "Foundations, Research & Archives",
    "url": "https://amcainternational.org/feed/",
    "stage": "fetch",
-   "error": "connection failed: timed out"
+   "error": "HTTP 415 Unsupported Media Type"
   }
  ],
  "stats": [
@@ -1263,7 +1244,7 @@
   {
    "source": "Persbook Annual of Contemporary Art",
    "category": "Iranian Art",
-   "fetched": 10,
+   "fetched": 0,
    "kept": 0
   },
   {
